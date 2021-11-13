@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Portal Shoping",
+    "description": "",
+    "home_page_url": "https://teknomid.github.io",
+    "feed_url": "https://teknomid.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "teknomid"
+    },
+    "items": [
+    ]
+}
