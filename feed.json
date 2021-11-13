@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Portal Shoping",
     "description": "",
-    "home_page_url": "https://teknomid.github.io",
-    "feed_url": "https://teknomid.github.io/feed.json",
+    "home_page_url": "https://teknomid.com",
+    "feed_url": "https://teknomid.com/feed.json",
     "user_comment": "",
-    "icon": "https://teknomid.github.io/media/website/logo-272x90px.webp",
+    "icon": "https://teknomid.com/media/website/logo-272x90px.webp",
     "author": {
         "name": "teknomid"
     },
