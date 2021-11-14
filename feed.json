@@ -21,10 +21,12 @@
                 "name": "Teknomid"
             },
             "tags": [
-                   "HandPhone"
+                   "Tech &amp; Gadget",
+                   "HandPhone",
+                   "Gadgets"
             ],
             "date_published": "2021-11-15T04:26:00+07:00",
-            "date_modified": "2021-11-15T04:40:04+07:00"
+            "date_modified": "2021-11-15T04:51:24+07:00"
         },
         {
             "id": "https://teknomid.com/laptop-andalan-masa-kini-xiaomi-redmibook-15-4/",
@@ -37,10 +39,12 @@
                 "name": "Teknomid"
             },
             "tags": [
-                   "Laptop"
+                   "Tech &amp; Gadget",
+                   "Laptop",
+                   "Gadgets"
             ],
             "date_published": "2021-11-05T02:50:31+07:00",
-            "date_modified": "2021-11-15T04:20:40+07:00"
+            "date_modified": "2021-11-15T04:51:14+07:00"
         },
         {
             "id": "https://teknomid.com/mengatasi-whatsapp-yang-sudah-kadaluarsa-3/",
@@ -53,9 +57,11 @@
                 "name": "Teknomid"
             },
             "tags": [
+                   "Tech &amp; Gadget",
+                   "Software"
             ],
             "date_published": "2021-11-04T22:37:37+07:00",
-            "date_modified": "2021-11-14T10:41:49+07:00"
+            "date_modified": "2021-11-15T04:51:04+07:00"
         },
         {
             "id": "https://teknomid.com/aplikasi-design-di-linux-dan-windows-open-source/",
@@ -68,9 +74,14 @@
                 "name": "Teknomid"
             },
             "tags": [
+                   "Windows",
+                   "Unix",
+                   "System",
+                   "Software",
+                   "Linux"
             ],
             "date_published": "2021-10-16T19:45:10+07:00",
-            "date_modified": "2021-11-14T10:25:25+07:00"
+            "date_modified": "2021-11-15T04:50:50+07:00"
         },
         {
             "id": "https://teknomid.com/download-windows-11-melalui-rufus/",
@@ -83,9 +94,12 @@
                 "name": "Teknomid"
             },
             "tags": [
+                   "Windows 11",
+                   "Windows",
+                   "System"
             ],
             "date_published": "2021-10-15T13:34:45+07:00",
-            "date_modified": "2021-11-14T10:29:27+07:00"
+            "date_modified": "2021-11-15T04:48:17+07:00"
         }
     ]
 }

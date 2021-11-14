@@ -3,7 +3,7 @@
     <title>Portal Teknologi</title>
     <link href="https://teknomid.com/feed.xml" rel="self" />
     <link href="https://teknomid.com" />
-    <updated>2021-11-15T04:40:04+07:00</updated>
+    <updated>2021-11-15T04:51:24+07:00</updated>
     <author>
         <name>Teknomid</name>
     </author>
@@ -16,9 +16,11 @@
         </author>
         <link href="https://teknomid.com/iphone-13-akhirnya-sudah-dapat-izin-resmi-di-indonesia/"/>
         <id>https://teknomid.com/iphone-13-akhirnya-sudah-dapat-izin-resmi-di-indonesia/</id>
+            <category term="Tech &amp; Gadget"/>
             <category term="HandPhone"/>
+            <category term="Gadgets"/>
 
-        <updated>2021-11-15T04:40:04+07:00</updated>
+        <updated>2021-11-15T04:51:24+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://teknomid.com/media/posts/32/iphone-13.webp" alt="Iphone13" />
@@ -54,9 +56,11 @@
         </author>
         <link href="https://teknomid.com/laptop-andalan-masa-kini-xiaomi-redmibook-15-4/"/>
         <id>https://teknomid.com/laptop-andalan-masa-kini-xiaomi-redmibook-15-4/</id>
+            <category term="Tech &amp; Gadget"/>
             <category term="Laptop"/>
+            <category term="Gadgets"/>
 
-        <updated>2021-11-15T04:20:40+07:00</updated>
+        <updated>2021-11-15T04:51:14+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://teknomid.com/media/posts/31/redmibook-15-01-lg.webp" alt="Laptop" />
@@ -165,8 +169,10 @@
         </author>
         <link href="https://teknomid.com/mengatasi-whatsapp-yang-sudah-kadaluarsa-3/"/>
         <id>https://teknomid.com/mengatasi-whatsapp-yang-sudah-kadaluarsa-3/</id>
+            <category term="Tech &amp; Gadget"/>
+            <category term="Software"/>
 
-        <updated>2021-11-14T10:41:49+07:00</updated>
+        <updated>2021-11-15T04:51:04+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://teknomid.com/media/posts/30/wa-lg.webp" alt="" />
@@ -311,8 +317,13 @@
         </author>
         <link href="https://teknomid.com/aplikasi-design-di-linux-dan-windows-open-source/"/>
         <id>https://teknomid.com/aplikasi-design-di-linux-dan-windows-open-source/</id>
+            <category term="Windows"/>
+            <category term="Unix"/>
+            <category term="System"/>
+            <category term="Software"/>
+            <category term="Linux"/>
 
-        <updated>2021-11-14T10:25:25+07:00</updated>
+        <updated>2021-11-15T04:50:50+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://teknomid.com/media/posts/28/desain17-10-2021-lg.webp" alt="Applikasi Design" />
@@ -375,8 +386,11 @@
         </author>
         <link href="https://teknomid.com/download-windows-11-melalui-rufus/"/>
         <id>https://teknomid.com/download-windows-11-melalui-rufus/</id>
+            <category term="Windows 11"/>
+            <category term="Windows"/>
+            <category term="System"/>
 
-        <updated>2021-11-14T10:29:27+07:00</updated>
+        <updated>2021-11-15T04:48:17+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://teknomid.com/media/posts/22/asas-lg.webp" alt="Windows 11" />
