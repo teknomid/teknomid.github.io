@@ -3,7 +3,7 @@
     <title>teknomid.com</title>
     <link href="https://teknomid.com/feed.xml" rel="self" />
     <link href="https://teknomid.com" />
-    <updated>2021-11-18T05:29:58+07:00</updated>
+    <updated>2021-11-18T06:55:36+07:00</updated>
     <author>
         <name>Teknomid</name>
     </author>
@@ -674,52 +674,43 @@
         <link href="https://teknomid.com/linux-debianos-kenali-dahulu-baru-sayangi/"/>
         <id>https://teknomid.com/linux-debianos-kenali-dahulu-baru-sayangi/</id>
 
-        <updated>2021-11-17T19:40:22+07:00</updated>
+        <updated>2021-11-18T06:55:36+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://teknomid.com/media/posts/1/Debian-Logo.png" alt="" />
-                     Linux DebianOS&nbsp;adalah&nbsp;sebuah sistem operasi&nbsp; yang tersusun dari paket-paket perangkat lunak yang&hellip;
+                        <img src="https://teknomid.com/media/posts/1/debian-wheezy-download.webp" alt="DebianOS" />
+                     Linux DebianOS adalah sebuah sistem operasi yang tersusun dari paket-paket perangkat lunak yang&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://teknomid.com/media/posts/1/Debian-Logo.png" alt="" />
+                    <img src="https://teknomid.com/media/posts/1/debian-wheezy-download.webp" alt="DebianOS" />
                 <p><!-- wp:paragraph --></p>
-<p><strong>Linux DebianOS</strong>&nbsp;adalah&nbsp;sebuah sistem operasi&nbsp; yang tersusun dari paket-paket perangkat lunak yang dirilis sebagai perangkat lunak bebas dan terbuka dengan lisensi mayoritas&nbsp;<em>GNU General Public License</em></p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><strong>Linux DebianOS</strong> adalah sebuah sistem operasi  yang tersusun dari paket-paket perangkat lunak yang dirilis sebagai perangkat lunak bebas dan terbuka dengan lisensi mayoritas <em>GNU General Public License</em></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p><strong>Linux Debian GNU/Linux</strong>&nbsp;memuat perkakas sistem operasi GNU dan&nbsp;kernel Linux&nbsp;merupakan distribusi Linux yang populer dan berpengaruh. Debian didistribusikan dengan akses ke repositori dengan ribuan paket perangkat lunak yang siap untuk instalasi dan digunakan.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><strong>Linux Debian GNU/Linux</strong> memuat perkakas sistem operasi GNU dan kernel Linux merupakan distribusi Linux yang populer dan berpengaruh. Debian didistribusikan dengan akses ke repositori dengan ribuan paket perangkat lunak yang siap untuk instalasi dan digunakan.</p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p><strong>Linux DebianOS ini</strong> terkenal dengan sikap tegas pada filosofi dari <strong>Unix </strong>dan perangkat lunak bebas. Debian dapat digunakan pada beragam perangkat keras, mulai dari <em>Laptop </em>dan&nbsp;<em>Desktop</em>&nbsp;hingga <em>HandPhone </em>dan <em>server</em>.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><strong>Linux DebianOS ini</strong> terkenal dengan sikap tegas pada filosofi dari <strong>Unix </strong>dan perangkat lunak bebas. Debian dapat digunakan pada beragam perangkat keras, mulai dari <em>Laptop </em>dan <em>Desktop</em> hingga <em>HandPhone </em>dan <em>server</em>.</p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Distro satu ini<strong> </strong>lebih fokus pada kestabilan dan keamanan. Debian banyak digunakan sebagai basis dari banyak distribusi GNU/Linux lainnya.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p><strong>Sistem</strong> operasi Debian yang menggunakan kernel Linux merupakan salah satu distro yang populer dengan kestabilannya.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p><strong>Debian</strong> pertama kali diperkenalkan oleh&nbsp;<a href="https://id.wikipedia.org/wiki/Ian_Murdock" target="_blank" rel="noreferrer noopener"><u>Ian Murdock</u></a>, seorang mahasiswa dari&nbsp;Universitas Purdue,&nbsp;Amerika Serikat, pada tanggal 16 Agustus 1993. Nama Debian berasal dari kombinasi nama Ian dengan mantan-kekasihnya Debra Lynn: Deb dan Ian.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><strong>Debian</strong> pertama kali diperkenalkan oleh <a href="https://id.wikipedia.org/wiki/Ian_Murdock" target="_blank" rel="noreferrer noopener"><u>Ian Murdock</u></a>, seorang mahasiswa dari Universitas Purdue, Amerika Serikat, pada tanggal 16 Agustus 1993. Nama Debian berasal dari kombinasi nama Ian dengan mantan-kekasihnya Debra Lynn: Deb dan Ian.</p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Pada awalnya, Ian memulainya dengan memodifikasi distribusi SLS (Softlanding Linux System). </p>
-<p>
-<!-- /wp:paragraph --></p>
+<p>Pada awalnya, Ian memulainya dengan memodifikasi distribusi SLS (Softlanding Linux System).</p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Proyek Debian tumbuh lambat pada awalnya dan merilis versi 0.9x pada tahun 1994 dan 1995. Pengalihan arsitektur ke selain i386 dimulai pada tahun 1995. Versi 1.x dimulai tahun 1996.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Pada tahun 1996, Bruce Perens menggantikan Ian Murdoch sebagai Pemimpin Proyek. Dalam tahun yang sama pengembang debian Ean Schuessler, berinisiatif untuk membentuk Debian Social</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:table {"className":"is-style-stripes"} --></p>
 <figure class="wp-block-table is-style-stripes">
 <table>
@@ -730,29 +721,22 @@
 </tbody>
 </table>
 </figure>
-<p>
-<!-- /wp:table --></p>
+<p><!-- /wp:table --></p>
 <p><!-- wp:paragraph --></p>
 <p>Contract dan Debian Free Software Guidelines, memberikan standar dasar komitmen untuk pengembangan distribusi Linux debian. Dia juga membentuk organisasi "Software in Public Interest" untuk menaungi debian secara legal dan hukum.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Di akhir tahun 2000, proyek debian melakukan perubahan dalam archive dan managemen rilis.Program kanonik untuk menangani paket-paket tersebut adalah dpkg, paling sering melalui apt/aptitude.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Beberapa paket Debian inti tersedia sebagai udebs ("mikro deb"), dan biasanya hanya digunakan untuk bootstrap instalasi Linux Debian. Meskipun file tersebut menggunakan ekstensi nama file udeb, mereka mematuhi spesifikasi struktur yang sama seperti biasa deb. </p>
-<p>
-<!-- /wp:paragraph --></p>
+<p>Beberapa paket Debian inti tersedia sebagai udebs ("mikro deb"), dan biasanya hanya digunakan untuk bootstrap instalasi Linux Debian. Meskipun file tersebut menggunakan ekstensi nama file udeb, mereka mematuhi spesifikasi struktur yang sama seperti biasa deb.</p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Namun, tidak seperti rekan-rekan mereka deb, hanya berisi paket-paket udeb fungsional penting file. Secara khusus, file dokumentasi biasanya dihilangkan. udeb paket tidak dapat diinstal pada sistem Debian standar.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Paket debian juga digunakan dalam distribusi berbasis pada Debian, seperti Ubuntu dan lain-lain. Saat ini telah terdapat puluhan distribusi Linux yang berbasis kepada debian, salah satu yang paling menonjol dan menjadi fenomena adalah&nbsp;<a href="https://ubuntu.com/" target="_blank" rel="noreferrer noopener"><u>Ubuntu</u></a>.</p>
-<p>
-<!-- /wp:paragraph --></p>
-
+<p>Paket debian juga digunakan dalam distribusi berbasis pada Debian, seperti Ubuntu dan lain-lain. Saat ini telah terdapat puluhan distribusi Linux yang berbasis kepada debian, salah satu yang paling menonjol dan menjadi fenomena adalah <a href="https://ubuntu.com/" target="_blank" rel="noreferrer noopener"><u>Ubuntu</u></a>.</p>
+<p><!-- /wp:paragraph --></p>
             ]]>
         </content>
     </entry>
