@@ -1,86 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Portal Teknologi</title>
+    <title>teknomid.com</title>
     <link href="https://teknomid.com/feed.xml" rel="self" />
     <link href="https://teknomid.com" />
-    <updated>2021-11-15T04:51:24+07:00</updated>
+    <updated>2021-11-18T05:29:58+07:00</updated>
     <author>
         <name>Teknomid</name>
     </author>
     <id>https://teknomid.com</id>
 
     <entry>
-        <title>iPhone 13 Akhirnya Sudah Dapat Izin Resmi di Indonesia</title>
-        <author>
-            <name>Teknomid</name>
-        </author>
-        <link href="https://teknomid.com/iphone-13-akhirnya-sudah-dapat-izin-resmi-di-indonesia/"/>
-        <id>https://teknomid.com/iphone-13-akhirnya-sudah-dapat-izin-resmi-di-indonesia/</id>
-            <category term="Tech &amp; Gadget"/>
-            <category term="HandPhone"/>
-            <category term="Gadgets"/>
-
-        <updated>2021-11-15T04:51:24+07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://teknomid.com/media/posts/32/iphone-13.webp" alt="Iphone13" />
-                    Teknomid - iPhone 13 resmi diperkenalkan Apple pada pertengahan September 2021 lalu. Pada perkenalan Apple saat peluncuran Iphone 13 resmi, Ada 4 tipe Iphone 13 yang sudah dirilis yaitu iPhone 13 Mini, iPhone 13, iPhone 13 Pro, dan iPhone 13 Pro Max Bahkan, iPhone 13&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://teknomid.com/media/posts/32/iphone-13.webp" alt="Iphone13" />
-                <p><a href="https://teknomid.com" title="https://teknomid.com" target="_blank" rel="noopener noreferrer">Teknomid </a>- iPhone 13 resmi diperkenalkan Apple pada pertengahan September 2021 lalu. Pada perkenalan Apple saat peluncuran Iphone 13 resmi, Ada 4 tipe Iphone 13 yang sudah dirilis yaitu iPhone 13 Mini, iPhone 13, iPhone 13 Pro, dan iPhone 13 Pro Max<br><br>Bahkan, iPhone 13 sudah mendapatkan izin edar dari pemerintah Indonesia. Sertifikat Tingkat Komponen Dalam Negeri (TKDN)<br>Terpantau di situs web TKDN Kemenperin.<br><br>Ada 4 model iPhone yang sudah mendapatkan sertifikat, yaitu ponsel dengan nomor model "A2628", "A2633", "A2638", dan "A2643". Secara berurutan, diyakini keempat nomor model tersebut sebagai iPhone 13 Mini, iPhone 13, iPhone 13 Pro, dan iPhone 13 Pro Max</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://teknomid.com/media/posts/32/tdn.webp" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.com/media/posts/32/responsive/tdn-xs.webp 300w ,https://teknomid.com/media/posts/32/responsive/tdn-sm.webp 480w ,https://teknomid.com/media/posts/32/responsive/tdn-md.webp 768w ,https://teknomid.com/media/posts/32/responsive/tdn-lg.webp 1024w ,https://teknomid.com/media/posts/32/responsive/tdn-xl.webp 1360w ,https://teknomid.com/media/posts/32/responsive/tdn-2xl.webp 1600w"  alt="" width="1160" height="534"></figure>
-<p>Tujuan aturan ini dibuat adalah untuk mengurangi defisit perdagangan akibat banyaknya barang impor yang masuk ke Indonesia. Pasalnya, saat era 3G dulu, ponsel bebas diimpor masuk tanpa penyaring apa pun.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Meski sudah lolos uji sertifikasi TKDN, belum diketahui secara pasti kapan jajaran iPhone 13 tadi bakal resmi dijual di Indonesia beserta harga resmi nya.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Namun, apabila melihat penjualan iPhone 12 di Indonesia tahun lalu, iPhone 13 kemungkinan bakal dijual pada Desember 2021 ini, dua bulan setelah diluncurkan pada Oktober 2021.</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
-<figure class="gallery__item"><a href="https://teknomid.com/media/posts/32/gallery/ip1.png" data-size="232x272"><img loading="lazy" src="https://teknomid.com/media/posts/32/gallery/ip1-thumbnail.png" alt="iphone-blue" width="232" height="272"></a></figure>
-<figure class="gallery__item"><a href="https://teknomid.com/media/posts/32/gallery/ip2.png" data-size="232x272"><img loading="lazy" src="https://teknomid.com/media/posts/32/gallery/ip2-thumbnail.png" alt="iphone-pink" width="232" height="272"></a></figure>
-<figure class="gallery__item"><a href="https://teknomid.com/media/posts/32/gallery/ip3.png" data-size="232x272"><img loading="lazy" src="https://teknomid.com/media/posts/32/gallery/ip3-thumbnail.png" alt="iphone-bluedark" width="232" height="272"></a></figure>
-<figure class="gallery__item"><a href="https://teknomid.com/media/posts/32/gallery/ip4.png" data-size="232x272"><img loading="lazy" src="https://teknomid.com/media/posts/32/gallery/ip4-thumbnail.png" alt="iphone-silver" width="232" height="272"></a></figure>
-</div></div>
-<p>Kendati demikian, hal itu belum pasti. Terlebih, iPhone 11 yang diluncurkan awal September 2019 saja masuk ke Indonesia tiga bulan setelahnya, yaitu pada awal Desember 2019. </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Laptop Andalan Masa Kini &quot;Xiaomi RedmiBook 15&quot;</title>
         <author>
             <name>Teknomid</name>
         </author>
-        <link href="https://teknomid.com/laptop-andalan-masa-kini-xiaomi-redmibook-15-4/"/>
-        <id>https://teknomid.com/laptop-andalan-masa-kini-xiaomi-redmibook-15-4/</id>
-            <category term="Tech &amp; Gadget"/>
-            <category term="Laptop"/>
-            <category term="Gadgets"/>
+        <link href="https://teknomid.com/laptop-andalan-masa-kini-xiaomi-redmibook-15/"/>
+        <id>https://teknomid.com/laptop-andalan-masa-kini-xiaomi-redmibook-15/</id>
 
-        <updated>2021-11-15T04:51:14+07:00</updated>
+        <updated>2021-11-18T05:26:34+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://teknomid.com/media/posts/31/redmibook-15-01-lg.webp" alt="Laptop" />
-                     TEKNOMID - Xiaomi resmi meluncurkan produk andalan laptop pertama di Indonesia Xiaomi RedmiBook 15, pada Juli lalu. Meskipun Tampilan Layar relatif lebar, perangkat ini dirancang agar simpel serta mudah dibawa kemana saja, dengan ketebalan 19,9mm dan bobot 1,8 kg. Layar Xiaomi RedmiBook 15 sendiri&hellip;
+                        <img src="https://teknomid.com/media/posts/9/redmibook-15-01.webp" alt="" />
+                     Xiaomi resmi meluncurkan produk andalan laptop pertama di Indonesia Xiaomi RedmiBook&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://teknomid.com/media/posts/31/redmibook-15-01-lg.webp" alt="Laptop" />
+                    <img src="https://teknomid.com/media/posts/9/redmibook-15-01.webp" alt="" />
                 <p><!-- wp:paragraph --></p>
-<p>TEKNOMID -  <a href="#INTERNAL_LINK#/post/null" title="https://www.mi.co.id/" target="_blank" rel="sponsored noopener noreferrer">Xiaomi </a>resmi meluncurkan produk andalan laptop pertama di Indonesia Xiaomi RedmiBook 15, pada Juli lalu. <br>Meskipun Tampilan Layar relatif lebar, perangkat ini dirancang agar simpel serta mudah dibawa kemana saja, dengan ketebalan 19,9mm dan bobot 1,8 kg.</p>
+<p><a href="http://www.mi.co.id/">Xiaomi</a> resmi meluncurkan produk andalan laptop pertama di Indonesia Xiaomi RedmiBook 15, pada Juli lalu. <br>Meskipun Tampilan Layar relatif lebar, perangkat ini dirancang agar simpel serta mudah dibawa kemana saja, dengan ketebalan 19,9mm dan bobot 1,8 kg.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Layar Xiaomi RedmiBook 15 sendiri berdiagonal 15,6 inch dengan resolusi Full HD Plus (1.920 x 1.080 piksel), tingkat kecerahan lebih dari 100 nit, dan turut dibekali fitur anti-glare display dan DC Dimming alias flicker-free.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Xiaomi RedmiBook 15 dibekali dengan webcam beresolusi 720p di bingkai atas layar laptop. Terdapat pula mikrofon ganda serta speaker 2W+2W dengan DTS Audio.<br><br><em><span style="text-decoration: underline;">Baca Juga: <a href="https://teknomid.com/iphone-13-akhirnya-sudah-dapat-izin-resmi-di-indonesia/">iPhone 13 Resmi di Indonesia</a></span></em></p>
+<p>Xiaomi RedmiBook 15 dibekali dengan webcam beresolusi 720p di bingkai atas layar laptop. Terdapat pula mikrofon ganda serta speaker 2W+2W dengan DTS Audio.<br><br>Baca Juga: <a href="https://teknomid.com/iphone-13-akhirnya-sudah-dapat-izin-resmi-di-indonesia/">iPhone 13 Resmi di Indonesia</a></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":3018,"sizeSlug":"large","linkDestination":"none","tdCaptionAlign":"center"} --></p>
-<figure class="wp-block-image size-large td-caption-align-center"><figure class="wp-image-3018"><img loading="lazy"  src="https://teknomid.com/media/posts/31/redmibook-15-1024x738.webp" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.com/media/posts/31/responsive/redmibook-15-1024x738-xs.webp 300w ,https://teknomid.com/media/posts/31/responsive/redmibook-15-1024x738-sm.webp 480w ,https://teknomid.com/media/posts/31/responsive/redmibook-15-1024x738-md.webp 768w ,https://teknomid.com/media/posts/31/responsive/redmibook-15-1024x738-lg.webp 1024w ,https://teknomid.com/media/posts/31/responsive/redmibook-15-1024x738-xl.webp 1360w ,https://teknomid.com/media/posts/31/responsive/redmibook-15-1024x738-2xl.webp 1600w"  alt="Desain-redmibook-15"></figure></figure>
+<figure class="wp-block-image size-large td-caption-align-center"><figure class="wp-image-3018"><img loading="lazy"  src="https://teknomid.com/media/posts/9/redmibook-15-1024x738.webp" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://teknomid.com/media/posts/9/responsive/redmibook-15-1024x738-xs.webp 300w ,https://teknomid.com/media/posts/9/responsive/redmibook-15-1024x738-sm.webp 480w ,https://teknomid.com/media/posts/9/responsive/redmibook-15-1024x738-md.webp 768w ,https://teknomid.com/media/posts/9/responsive/redmibook-15-1024x738-lg.webp 1024w"  alt="Desain-redmibook-15"></figure></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p>Xiaomi RedmiBook 15 dibekali dengan processor <strong>11th Gen Intel® Core™ i3 CPU Intel® UHD Graphics</strong> dengan kecepatan hingga 4,1 GHz <strong>BoostSpeed</strong>. Prosesor itu dipasangkan dengan <strong>RAM DDR4 3200 GHz 8 GB</strong> dan Disk-Storage di bekali dengan <strong>SSD 256 GB</strong>.</p>
@@ -92,65 +49,66 @@
 <p>RedmiBook 15 tersedia dalam varian warna <strong>Dark Gray</strong> dan dibenderol seharga <strong>Rp 5.999.000</strong>, sudah termasuk sistem operasi Windows 10 Home dan Upgrade ke Windows 11 akan dikirimkan pada akhir tahun 2021 hingga awal tahun 2022.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Untuk lebih lengkapnya, berikut ini spesifikasi dari laptop Xiaomi RedmiBook 15 di Indonesia,</p>
+<p>Untuk lebih lengkapnya, berikut ini spesifikasi dan harga dari laptop Xiaomi RedmiBook 15 di Indonesia,</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
+<p> </p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:table {"textColor":"vivid-green-cyan","className":"is-style-stripes"} --></p>
 <figure class="wp-block-table is-style-stripes">
-<table class="has-vivid-green-cyan-color has-text-color" style="border-collapse: collapse; background-color: #ffffff; border-color: #5b5959; border-style: solid;">
+<table class="has-vivid-green-cyan-color has-text-color">
 <tbody>
 <tr>
-<td style="width: 150px;">Spesifikasi</td>
-<td style="width: 566px;"><strong><a href="https://www.mi.co.id/id/product/redmibook-15/">RedmiBook 15</a></strong></td>
+<td>Spesifikasi</td>
+<td><strong><a href="https://www.mi.co.id/id/product/redmibook-15/">RedmiBook 15</a></strong></td>
 </tr>
 <tr>
-<td style="width: 150px;">Panel LCD</td>
-<td style="width: 566px;">LCD 15,6 inci, resolusi Full HD (1.920 x 1.080 piksel), tingkat kecerahan lebih dari 100 nit, rasio kontras 500:1, kerapatan 141 ppi</td>
+<td>Panel LCD</td>
+<td>LCD 15,6 inci, resolusi Full HD (1.920 x 1.080 piksel), tingkat kecerahan lebih dari 100 nit, rasio kontras 500:1, kerapatan 141 ppi</td>
 </tr>
 <tr>
-<td style="width: 150px;">CPU</td>
-<td style="width: 566px;">363.8 x 243.5 x 19.9 mm 1.8 kg</td>
+<td>CPU</td>
+<td>363.8 x 243.5 x 19.9 mm 1.8 kg</td>
 </tr>
 <tr>
-<td style="width: 150px;">RAM</td>
-<td style="width: 566px;">DDR4 8 GB 3200MHz</td>
+<td>RAM</td>
+<td>DDR4 8 GB 3200MHz</td>
 </tr>
 <tr>
-<td style="width: 150px;">GPU</td>
-<td style="width: 566px;"><a href="https://ark.intel.com/content/www/id/id/ark/products/208652/intel-core-i31115g4-processor-6m-cache-up-to-4-10-ghz.html">Intel UHD Graphics (integrated)</a></td>
+<td>GPU</td>
+<td><a href="https://ark.intel.com/content/www/id/id/ark/products/208652/intel-core-i31115g4-processor-6m-cache-up-to-4-10-ghz.html">Intel UHD Graphics (integrated)</a></td>
 </tr>
 <tr>
-<td style="width: 150px;">Disk</td>
-<td style="width: 566px;">SSD 256 GB</td>
+<td>Disk</td>
+<td>SSD 256 GB</td>
 </tr>
 <tr>
-<td style="width: 150px;">Cam</td>
-<td style="width: 566px;">720p</td>
+<td>Cam</td>
+<td>720p</td>
 </tr>
 <tr>
-<td style="width: 150px;">Baterai</td>
-<td style="width: 566px;">46Wh</td>
+<td>Baterai</td>
+<td>46Wh</td>
 </tr>
 <tr>
-<td style="width: 150px;">Keyboard</td>
-<td style="width: 566px;">Full-size, key travel 1,5mm</td>
+<td>Keyboard</td>
+<td>Full-size, key travel 1,5mm</td>
 </tr>
 <tr>
-<td style="width: 150px;">Touchpad</td>
-<td style="width: 566px;">PTP 126mm × 82,6mm</td>
+<td>Touchpad</td>
+<td>PTP 126mm × 82,6mm</td>
 </tr>
 <tr>
-<td style="width: 150px;">Speaker</td>
-<td style="width: 566px;">Stereo 2W + 2W <a href="https://en.wikipedia.org/wiki/DTS_(sound_system_company)">Audio DTS</a></td>
+<td>Speaker</td>
+<td>Stereo 2W + 2W <a href="https://en.wikipedia.org/wiki/DTS_(sound_system_company)">Audio DTS</a></td>
 </tr>
 <tr>
-<td style="width: 150px;">Port / Slot</td>
-<td style="width: 566px;">HDMI 1.4 x 1 <br>USB 3.2 Gen1 x 2, <br>USB 2.0 x 1 <br>Kunci Kensington: Ready<br>Ethernet (Lan): RJ45 <br>Output Audio Digital Optik: Ready<br>Jack headphone 3.5 mm x 1 <br>Slot SD: SD 3.0</td>
+<td>Port / Slot</td>
+<td>HDMI 1.4 x 1 <br>USB 3.2 Gen1 x 2, <br>USB 2.0 x 1 <br>Kunci Kensington: Ready<br>Ethernet (Lan): RJ45 <br>Output Audio Digital Optik: Ready<br>Jack headphone 3.5 mm x 1 <br>Slot SD: SD 3.0</td>
 </tr>
 <tr>
-<td style="width: 150px;">Konektivitas</td>
-<td style="width: 566px;">Bluetooth 5.0 Wi-Fi 5 2.4Ghz/5GHz</td>
+<td>Konektivitas</td>
+<td>Bluetooth 5.0 Wi-Fi 5 2.4Ghz/5GHz</td>
 </tr>
 </tbody>
 </table>
@@ -167,21 +125,19 @@
         <author>
             <name>Teknomid</name>
         </author>
-        <link href="https://teknomid.com/mengatasi-whatsapp-yang-sudah-kadaluarsa-3/"/>
-        <id>https://teknomid.com/mengatasi-whatsapp-yang-sudah-kadaluarsa-3/</id>
-            <category term="Tech &amp; Gadget"/>
-            <category term="Software"/>
+        <link href="https://teknomid.com/mengatasi-whatsapp-yang-sudah-kadaluarsa/"/>
+        <id>https://teknomid.com/mengatasi-whatsapp-yang-sudah-kadaluarsa/</id>
 
-        <updated>2021-11-15T04:51:04+07:00</updated>
+        <updated>2021-11-18T05:28:20+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://teknomid.com/media/posts/30/wa-lg.webp" alt="" />
-                     Mengatasi Whatsapp yang sudah Kadaluarsa – Whatsapp merupakan aplikasi messaging yang digunakan oleh hampir semua pengguna smartphone, dan tentunya ada jadwal update aplikasi tersebut. Pembaruan ini dirancang untuk meningkatkan kinerja. Bagi yang jarang update Whatsapp pasti pernah melihat tampilan Whatsapp yang bertuliskan Whatsapp telah expired.
+                        <img src="https://teknomid.com/media/posts/8/wa.webp" alt="" />
+                     Mengatasi Whatsapp yang sudah Kadaluarsa – Whatsapp merupakan aplikasi messaging yang digunakan&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://teknomid.com/media/posts/30/wa-lg.webp" alt="" />
+                    <img src="https://teknomid.com/media/posts/8/wa.webp" alt="" />
                 <p><!-- wp:paragraph --></p>
 <p><strong>Mengatasi Whatsapp yang sudah Kadaluarsa</strong> – Whatsapp merupakan aplikasi messaging yang digunakan oleh hampir semua pengguna smartphone, dan tentunya ada jadwal update aplikasi tersebut.</p>
 <p><!-- /wp:paragraph --></p>
@@ -195,7 +151,7 @@
 <p>Jika Anda menghadapi situasi seperti itu, Anda tidak perlu panik. Whatsapp memang mengupdate aplikasinya secara berkala.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Baca juga: <a href="https://teknomid.com/applikasi-design-gratis/">Aplikasi Desain Gratis PowerFull</a></p>
+<p>Baca juga: <a href="https://teknomid.com/aplikasi-design-di-linux-dan-windows-open-source/">Aplikasi Desain Gratis PowerFull</a></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Dengan update ini, Whatsapp juga mewajibkan penggunanya untuk mengupdate aplikasi Wahtsapp yang sudah terpasang di perangkat pengguna.</p>
@@ -213,7 +169,7 @@
 <p>Seperti yang kita ketahui bersama, setiap ada update aplikasi, biasanya akan ada update di Google Play Store, tak terkecuali aplikasi Whatsapp.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":3005,"sizeSlug":"full","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-full"><figure class="wp-image-3005"><img loading="lazy"  src="https://teknomid.com/media/posts/30/wa01.webp" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.com/media/posts/30/responsive/wa01-xs.webp 300w ,https://teknomid.com/media/posts/30/responsive/wa01-sm.webp 480w ,https://teknomid.com/media/posts/30/responsive/wa01-md.webp 768w ,https://teknomid.com/media/posts/30/responsive/wa01-lg.webp 1024w ,https://teknomid.com/media/posts/30/responsive/wa01-xl.webp 1360w ,https://teknomid.com/media/posts/30/responsive/wa01-2xl.webp 1600w"  alt="Whatsapp Messenger"></figure></figure>
+<figure class="wp-block-image size-full"><figure class="wp-image-3005"><img loading="lazy"  src="https://teknomid.com/media/posts/8/wa01.webp" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://teknomid.com/media/posts/8/responsive/wa01-xs.webp 300w ,https://teknomid.com/media/posts/8/responsive/wa01-sm.webp 480w ,https://teknomid.com/media/posts/8/responsive/wa01-md.webp 768w ,https://teknomid.com/media/posts/8/responsive/wa01-lg.webp 1024w"  alt="Whatsapp Messenger"></figure></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p>Untuk memperbarui Whatsapp, silakan praktikkan langkah-langkah berikut:</p>
@@ -267,7 +223,7 @@
 <p>Untuk mengunduh dari app APKPure, Anda tidak perlu mendaftar atau masuk terlebih dahulu.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":3006,"sizeSlug":"full","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-full"><figure class="wp-image-3006"><img loading="lazy"  src="https://teknomid.com/media/posts/30/apkfure.webp" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.com/media/posts/30/responsive/apkfure-xs.webp 300w ,https://teknomid.com/media/posts/30/responsive/apkfure-sm.webp 480w ,https://teknomid.com/media/posts/30/responsive/apkfure-md.webp 768w ,https://teknomid.com/media/posts/30/responsive/apkfure-lg.webp 1024w ,https://teknomid.com/media/posts/30/responsive/apkfure-xl.webp 1360w ,https://teknomid.com/media/posts/30/responsive/apkfure-2xl.webp 1600w"  alt="apkpure"></figure></figure>
+<figure class="wp-block-image size-full"><figure class="wp-image-3006"><img loading="lazy"  src="https://teknomid.com/media/posts/8/apkfure.webp" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://teknomid.com/media/posts/8/responsive/apkfure-xs.webp 300w ,https://teknomid.com/media/posts/8/responsive/apkfure-sm.webp 480w ,https://teknomid.com/media/posts/8/responsive/apkfure-md.webp 768w ,https://teknomid.com/media/posts/8/responsive/apkfure-lg.webp 1024w"  alt="apkpure"></figure></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:list {"ordered":true} --></p>
 <ol>
@@ -311,70 +267,314 @@
         </content>
     </entry>
     <entry>
+        <title>iPhone 13 Akhirnya Sudah Dapat Izin Resmi di Indonesia</title>
+        <author>
+            <name>Teknomid</name>
+        </author>
+        <link href="https://teknomid.com/iphone-13-akhirnya-sudah-dapat-izin-resmi-di-indonesia/"/>
+        <id>https://teknomid.com/iphone-13-akhirnya-sudah-dapat-izin-resmi-di-indonesia/</id>
+
+        <updated>2021-11-17T19:40:22+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://teknomid.com/media/posts/7/iPhone-13-Pro-2.webp" alt="" />
+                     Teknomid - iPhone 13 resmi diperkenalkan Apple pada pertengahan September 2021&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://teknomid.com/media/posts/7/iPhone-13-Pro-2.webp" alt="" />
+                <p><!-- wp:paragraph --></p>
+<p><a href="http://teknomid.com">Teknomid </a>- iPhone 13 resmi diperkenalkan Apple pada pertengahan September 2021 lalu. Pada perkenalan Apple saat peluncuran Iphone 13 resmi, Ada 4 tipe Iphone 13 yang sudah dirilis yaitu iPhone 13 Mini, iPhone 13, iPhone 13 Pro, dan iPhone 13 Pro Max</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Bahkan, iPhone 13 sudah mendapatkan izin edar dari pemerintah Indonesia. Sertifikat Tingkat Komponen Dalam Negeri (TKDN)<br>Terpantau di situs web TKDN Kemenperin. </p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Ada 4 model iPhone yang sudah mendapatkan sertifikat, yaitu ponsel dengan nomor model "A2628", "A2633", "A2638", dan "A2643". Secara berurutan, diyakini keempat nomor model tersebut sebagai iPhone 13 Mini, iPhone 13, iPhone 13 Pro, dan iPhone 13 Pro Max.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":735,"sizeSlug":"full","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-full"><figure class="wp-image-735"><img loading="lazy" src="https://teknomid.com/media/posts/7/image-4.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://teknomid.com/media/posts/7/responsive/image-4-xs.png 300w ,https://teknomid.com/media/posts/7/responsive/image-4-sm.png 480w ,https://teknomid.com/media/posts/7/responsive/image-4-md.png 768w ,https://teknomid.com/media/posts/7/responsive/image-4-lg.png 1024w"  alt="" /></figure>
+<figcaption>Sumber: <a href="http://tkdn.kemenperin.go.id/sertifikat.php?id=xloqnKpgewO5PFifLwECYGvMZg3Az-RHHMfKq7D3Q28,">tkdn kemenperin</a></figcaption>
+</figure>
+<p>
+<!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Tujuan aturan ini dibuat adalah untuk mengurangi defisit perdagangan akibat banyaknya barang impor yang masuk ke Indonesia. Pasalnya, saat era 3G dulu, ponsel bebas diimpor masuk tanpa penyaring apa pun.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Meski sudah lolos uji sertifikasi TKDN, belum diketahui secara pasti kapan jajaran iPhone 13 tadi bakal resmi dijual di Indonesia beserta harga resmi nya.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Namun, apabila melihat penjualan iPhone 12 di Indonesia tahun lalu, iPhone 13 kemungkinan bakal dijual pada Desember 2021 ini, dua bulan setelah diluncurkan pada Oktober 2021.<br><br>Kendati demikian, hal itu belum pasti. Terlebih, iPhone 11 yang diluncurkan awal September 2019 saja masuk ke Indonesia tiga bulan setelahnya, yaitu pada awal Desember 2019.&nbsp;<br><br><br></p>
+<p>
+<!-- /wp:paragraph --></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Aplikasi Design di Linux dan Windows Open Source</title>
         <author>
             <name>Teknomid</name>
         </author>
         <link href="https://teknomid.com/aplikasi-design-di-linux-dan-windows-open-source/"/>
         <id>https://teknomid.com/aplikasi-design-di-linux-dan-windows-open-source/</id>
-            <category term="Windows"/>
-            <category term="Unix"/>
-            <category term="System"/>
-            <category term="Software"/>
-            <category term="Linux"/>
 
-        <updated>2021-11-15T04:50:50+07:00</updated>
+        <updated>2021-11-17T19:40:22+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://teknomid.com/media/posts/28/desain17-10-2021-lg.webp" alt="Applikasi Design" />
-                     Teknomid - Aplikasi Design di Linux maupun di Windows untuk sekarang ini teman-teman tidak perlu lagi melakukan pembajakan atau membeli aplikasi berbayar dengan harga yang mahal sebagai design er pemula. Bukan hanya itu bagi kalian pengguna linux maupun windows yang masih sering me-reboot mesin&hellip;
+                        <img src="https://teknomid.com/media/posts/6/desain17-10-2021.png" alt="" />
+                     Teknomid - Sekarang teman-teman tidak perlu lagi melakukan pembajakan atau membeli&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://teknomid.com/media/posts/28/desain17-10-2021-lg.webp" alt="Applikasi Design" />
+                    <img src="https://teknomid.com/media/posts/6/desain17-10-2021.png" alt="" />
                 <p><!-- wp:paragraph --></p>
-<p><a href="https://teknomid.com">Teknomid</a> - Aplikasi Design di Linux maupun di Windows untuk sekarang ini teman-teman tidak perlu lagi melakukan pembajakan atau membeli aplikasi berbayar dengan harga yang mahal sebagai design er pemula. Bukan hanya itu bagi kalian pengguna linux maupun windows yang masih sering me-reboot mesin tempurnya hanya untuk mengakses aplikasi – aplikasi dari Adobe sebaiknya mulai mencoba menggunakan  Aplikasi Design di Linux yang Gratis dan Open Source berikut ini.</p>
-<p><!-- /wp:paragraph --></p>
+<p><a href="https://teknomid.com">Teknomid</a> - Sekarang teman-teman tidak perlu lagi melakukan pembajakan atau membeli aplikasi berbayar dengan harga yang mahal sebagai design er pemula. Bukan hanya itu bagi kalian pengguna linux maupun windows yang masih sering me-reboot mesin tempurnya hanya untuk mengakses aplikasi – aplikasi dari Adobe sebaiknya mulai mencoba menggunakan&nbsp; Aplikasi  Design di Linux yang Gratis dan Open Source berikut ini.</p>
+<p>
+<!-- /wp:paragraph --></p>
 <p><!-- wp:heading {"level":3} --></p>
 <h3 id="h-1-inkscape"><strong>1. Inkscape</strong></h3>
-<p><!-- /wp:heading --></p>
+<p>
+<!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Inkscape merupakan sebuah perangkat lunak design pengolah gambar vektor di bawah lisensi GNU GPL yang bersifat <em>free,</em> <em>open source, </em>dan tentunya gratis untuk di gunakan tanpa biaya sepeserpun. <br><br>Ia dapat berjalan pada berbagai macam <em>platform </em>serta menggunakan format utama SVG untuk filenya dengan mengacu kepada standard dari W3C. Untuk saat ini pengguna Inkscape sudah sangat banyak sekali baik itu dari kalangan profesional maupun pengguna umum untuk kebutuhan design.</p>
-<p><!-- /wp:paragraph --></p>
+<p>
+<!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":495,"sizeSlug":"large","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-large"><figure class="wp-image-495"><img loading="lazy"  src="https://teknomid.com/media/posts/28/teknomid.com_-2-1024x542.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.com/media/posts/28/responsive/teknomid.com_-2-1024x542-xs.png 300w ,https://teknomid.com/media/posts/28/responsive/teknomid.com_-2-1024x542-sm.png 480w ,https://teknomid.com/media/posts/28/responsive/teknomid.com_-2-1024x542-md.png 768w ,https://teknomid.com/media/posts/28/responsive/teknomid.com_-2-1024x542-lg.png 1024w ,https://teknomid.com/media/posts/28/responsive/teknomid.com_-2-1024x542-xl.png 1360w ,https://teknomid.com/media/posts/28/responsive/teknomid.com_-2-1024x542-2xl.png 1600w"  alt="Inkscape di Linux"></figure>
+<figure class="wp-block-image size-large"><figure class="wp-image-495"><img loading="lazy" src="https://teknomid.com/media/posts/6/teknomid.com_-2-1024x542.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://teknomid.com/media/posts/6/responsive/teknomid.com_-2-1024x542-xs.png 300w ,https://teknomid.com/media/posts/6/responsive/teknomid.com_-2-1024x542-sm.png 480w ,https://teknomid.com/media/posts/6/responsive/teknomid.com_-2-1024x542-md.png 768w ,https://teknomid.com/media/posts/6/responsive/teknomid.com_-2-1024x542-lg.png 1024w"  alt="Inkscape di Linux" /></figure>
 <figcaption><a href="https://inkscape.org/" data-type="URL" data-id="https://inkscape.org/" target="_blank" rel="noreferrer noopener">Inkscape 1.1</a></figcaption>
 </figure>
-<p><!-- /wp:image --></p>
+<p>
+<!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p>Ketika tulisan ini di buat <a href="https://inkscape.org/">Inkscape </a>sudah mencapai rilisan dengan versi 1.1</p>
-<p><!-- /wp:paragraph --></p>
+<p>
+<!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Secara umum <a href="https://inkscape.org/">Inkscape </a>sudah tersedia hampir di sebagian besar repositori dari berbagai macam Distro Linux dan mempunyai banyak komunitas juga tutorial yang tersebar di internet. <br><br>Pada Ubuntu kalian tinggal menginstalnya melalui Ubuntu Software Center atau melalui shell dengan mengetikan perintah <span class="td_text_highlight_marker" style="background-color: #006651;"><em>"sudo apt install inkscape</em>"</span> <br><br>Atau bisa juga download applikasi standalone langsung dari website <a data-type="URL" data-id="https://media.inkscape.org/dl/resources/file/Inkscape-3bf5ae0-x86_64.AppImage" href="https://media.inkscape.org/dl/resources/file/Inkscape-3bf5ae0-x86_64.AppImage"><em>inkscape</em></a> file-size: 110 MB dan lakukan perintah berikut lewat terminal.<br><br><span class="td_text_highlight_marker" style="background-color: #006651;">chmod u+x Inkscape-3bf5ae0-x86_64.AppImage</span><br><span class="td_text_highlight_marker" style="background-color: #006651;">sudo chown teknomid:teknomid Inkscape-3bf5ae0-x86_64.AppImage</span><br><span class="td_text_highlight_marker" style="background-color: #006651;">sudo cp Inkscape-3bf5ae0-x86_64.AppImage /bin/inkscape</span><br>Tinggal panggil saja dari terminal : <span class="td_text_highlight_marker" style="background-color: #006651;">inkscape</span></p>
-<p><!-- /wp:paragraph --></p>
+<p>Secara umum <a href="https://inkscape.org/">Inkscape </a>sudah tersedia hampir di sebagian besar repositori dari berbagai macam Distro Linux dan mempunyai banyak komunitas juga tutorial yang tersebar di internet. <br><br>Pada Ubuntu kalian tinggal menginstalnya melalui Ubuntu Software Center atau melalui shell dengan mengetikan perintah&nbsp;<span style="background-color:#006651" class="td_text_highlight_marker"><em>"sudo apt install inkscape</em>"</span> <br><br>Atau bisa juga download applikasi standalone langsung dari website <a data-type="URL" data-id="https://media.inkscape.org/dl/resources/file/Inkscape-3bf5ae0-x86_64.AppImage" href="https://media.inkscape.org/dl/resources/file/Inkscape-3bf5ae0-x86_64.AppImage"><em>inkscape</em></a>  file-size: 110 MB dan lakukan perintah berikut lewat terminal.<br><br><span style="background-color:#006651" class="td_text_highlight_marker">chmod u+x Inkscape-3bf5ae0-x86_64.AppImage</span><br><span style="background-color:#006651" class="td_text_highlight_marker">sudo chown teknomid:teknomid Inkscape-3bf5ae0-x86_64.AppImage</span><br><span style="background-color:#006651" class="td_text_highlight_marker">sudo cp Inkscape-3bf5ae0-x86_64.AppImage /bin/inkscape</span><br>Tinggal panggil saja dari terminal : <span style="background-color:#006651" class="td_text_highlight_marker">inkscape</span></p>
+<p>
+<!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p><em>Sumber: <a rel="noreferrer noopener" href="https://inkscape.org/" target="_blank">https://inkscape.org/</a></em></p>
-<p><!-- /wp:paragraph --></p>
+<p>
+<!-- /wp:paragraph --></p>
 <p><!-- wp:heading {"level":3} --></p>
 <h3 id="h-2-krita"><strong>2. Krita</strong></h3>
-<p><!-- /wp:heading --></p>
+<p>
+<!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Design Krita adalah sebuah pengolah gambar yang tidak kalah keren dengan Inkscape, namun aplikasi satu ini merupakan aplikasi pengolah gambar raster yang lebih berfokus kepada painting dan animasi. <br><br>Sama halnya dengan Inkscape, Krita juga bersifat <em>free</em> dan <em>open source </em>tentunya Krita juga bebas di gunakan tanpa di pungut biaya sepeserpun alias gratis. Krita sendiri mengusung Design antarmuka yang elegant dan mirip dengan aplikasi Illustrator dari Adobe.<br>Versi terbaru sekarang ini sudah update ke version Krita v4.4.8</p>
-<p><!-- /wp:paragraph --></p>
+<p>
+<!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":496,"width":694,"height":507,"sizeSlug":"full","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-full is-resized"><figure class="wp-image-496"><img loading="lazy"  src="https://teknomid.com/media/posts/28/krita.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.com/media/posts/28/responsive/krita-xs.png 300w ,https://teknomid.com/media/posts/28/responsive/krita-sm.png 480w ,https://teknomid.com/media/posts/28/responsive/krita-md.png 768w ,https://teknomid.com/media/posts/28/responsive/krita-lg.png 1024w ,https://teknomid.com/media/posts/28/responsive/krita-xl.png 1360w ,https://teknomid.com/media/posts/28/responsive/krita-2xl.png 1600w"  alt="Krita design di Linux" width="694" height="507"></figure>
+<figure class="wp-block-image size-full is-resized"><figure class="wp-image-496"><img loading="lazy" src="https://teknomid.com/media/posts/6/krita.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://teknomid.com/media/posts/6/responsive/krita-xs.png 300w ,https://teknomid.com/media/posts/6/responsive/krita-sm.png 480w ,https://teknomid.com/media/posts/6/responsive/krita-md.png 768w ,https://teknomid.com/media/posts/6/responsive/krita-lg.png 1024w"  alt="Krita design di Linux"  width="694" height="507"/></figure>
 <figcaption>Krita v.4.4.8</figcaption>
 </figure>
-<p><!-- /wp:image --></p>
+<p>
+<!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
-<p>Sebagai salah satu pengolah gambar raster yang lebih fokus ke penggambaran daripada fungsi melakukan pengeditan Krita juga mempunyai nilai plus yaitu bisa di gunakan untuk membuat dan mengolah gambar vektor seperti halnya Illustrator. <br><br>Krita juga dapat berjalan di berbagai macam <em>platform. </em>Untuk menginstall Krita pada Ubuntu cukup melalui Ubuntu Software Center atau dengan menggunakan perintah sudo apt install krita dan Krita siap di gunakan.</p>
-<p><!-- /wp:paragraph --></p>
+<p>Sebagai salah satu pengolah gambar raster yang lebih fokus ke penggambaran daripada fungsi melakukan pengeditan Krita juga mempunyai nilai plus yaitu bisa di gunakan untuk membuat dan mengolah gambar vektor seperti halnya Illustrator. <br><br>Krita juga dapat berjalan di berbagai macam <em>platform.&nbsp;</em>Untuk menginstall Krita pada Ubuntu cukup melalui Ubuntu Software Center atau dengan menggunakan perintah&nbsp;sudo apt install krita&nbsp;dan Krita siap di gunakan.</p>
+<p>
+<!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Atau bisa juga download applikasi standalone langsung dari website <a rel="noreferrer noopener" href="https://kde.cs.nctu.edu.tw/ftp/stable/krita/4.4.8/krita-4.4.8-x86_64.appimage" data-type="URL" data-id="https://kde.cs.nctu.edu.tw/ftp/stable/krita/4.4.8/krita-4.4.8-x86_64.appimage" target="_blank"><em>krita</em></a> file-size: 225 MB dan lakukan perintah berikut lewat terminal.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><span style="background-color:#006651" class="td_text_highlight_marker">chmod u+x krita-4.4.8-x86_64.appimage</span><br><span style="background-color:#006651" class="td_text_highlight_marker">sudo chown teknomid:teknomid krita-4.4.8-x86_64.appimage</span><br><span style="background-color:#006651" class="td_text_highlight_marker">sudo cp krita-4.4.8-x86_64.appimage /bin/krita</span><br>Tinggal panggil saja dari terminal : <span style="background-color:#006651" class="td_text_highlight_marker">krita</span><br><br>Sumber: <em><a rel="noreferrer noopener" href="https://krita.org/" target="_blank">https://krita.org/</a></em></p>
+<p>
+<!-- /wp:paragraph --></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>ICS Compute Raih Penghargaan ke-2 AWS Consulting Partner of The Year 2021</title>
+        <author>
+            <name>Teknomid</name>
+        </author>
+        <link href="https://teknomid.com/ics-compute-raih-penghargaan-ke-2-aws-consulting-partner-of-the-year-2021/"/>
+        <id>https://teknomid.com/ics-compute-raih-penghargaan-ke-2-aws-consulting-partner-of-the-year-2021/</id>
+
+        <updated>2021-11-17T19:40:22+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://teknomid.com/media/posts/5/Budhi-Wibawa-Founder-CEO-ICS-Compute-6-1024x576-min-e1634686498664.png" alt="" />
+                     PT Innovation Cloud Services (ICS Compute), perusahaan System Integrator yang berfokus&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://teknomid.com/media/posts/5/Budhi-Wibawa-Founder-CEO-ICS-Compute-6-1024x576-min-e1634686498664.png" alt="" />
+                <p><!-- wp:paragraph --></p>
+<p><a href="https://www.icscompute.com" data-type="URL" data-id="https://www.icscompute.com" target="_blank" rel="noreferrer noopener">PT Innovation Cloud Services</a> (ICS Compute), perusahaan System Integrator yang berfokus pada Cloud Computing, meraih penghargaan Amazon Web Services (AWS) Consulting Partner of the Year tahun 2021 di Indonesia pada AWS Partner Summit Online 2021. <br><br>Setiap tahun, <a href="https://aws.amazon.com/" data-type="URL" data-id="https://aws.amazon.com/">AWS</a> memberikan penghargaan bagi partner <a href="https://aws.amazon.com/" data-type="URL" data-id="https://aws.amazon.com/" target="_blank" rel="noreferrer noopener">AWS</a> yang terdepan dalam membantu pelanggan mendorong inovasi bisnis.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Melalui penghargaan ini, <a href="https://aws.amazon.com/" data-type="URL" data-id="https://aws.amazon.com/" target="_blank" rel="noreferrer noopener">AWS</a> mengapresiasi para partner yang secara konsisten membangun kemampuan dan spesialisasi untuk memastikan kesuksesan pelanggan bersama AWS.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>“Kami sangat bersyukur dan sangat bangga akan penghargaan ini. Kerja keras seluruh tim membuahkan prestasi yang luar biasa, sehingga kami bisa menerima penghargaan ini dua tahun berturut-turut. Penghargaan ini juga menunjukkan keinginan perusahaan di Indonesia yang ingin beralih ke cloud dan khususnya ke AWS. Kami juga percaya bahwa pembukaan AWS Region di Indonesia pada akhir 2021 atau awal 2022 akan menghasilkan banyak peluang bagi pelanggan kami untuk mendorong inovasi bisnis dengan cloud,” <br>ujar CEO dan Founder <a rel="noreferrer noopener" href="https://www.icscompute.com" data-type="URL" data-id="https://www.icscompute.com" target="_blank">PT Innovation Cloud Services</a> (ICS Compute), <strong>Budhi Wibawa</strong> dalam keterangan tertulis, Rabu (15/7/2021).<br><br>Sementara itu, Managing Director AWS ASEAN, Conor McNamara menyampaikan bahwa ajang ini merupakan apresiasi bagi para AWS Partners di negara ASEAN yang telah berkontribusi bagi para pelanggan.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>“Obsesi bersama untuk melayani pelanggan kami belum pernah lebih terlihat selama dua belas bulan terakhir, di mana kami telah melihat begitu banyak partner ASEAN melampaui ekspektasi, dan bahkan jauh melampaui ekspektasi yang diberikan untuk kebutuhan para pelanggan kami,” kata Conor.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":486,"sizeSlug":"full","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-full"><figure class="wp-image-486"><img loading="lazy" src="https://teknomid.com/media/posts/5/AWS-Consulting-ICS-1024x536-1.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://teknomid.com/media/posts/5/responsive/AWS-Consulting-ICS-1024x536-1-xs.jpg 300w ,https://teknomid.com/media/posts/5/responsive/AWS-Consulting-ICS-1024x536-1-sm.jpg 480w ,https://teknomid.com/media/posts/5/responsive/AWS-Consulting-ICS-1024x536-1-md.jpg 768w ,https://teknomid.com/media/posts/5/responsive/AWS-Consulting-ICS-1024x536-1-lg.jpg 1024w"  alt="AWS Consulting Partner of The Year 2021" /></figure>
+<figcaption><strong>AWS Consulting Partner of The Year 2021</strong> Sumber: <a href="https://www.icscompute.com" data-type="URL" data-id="https://www.icscompute.com">ICS</a></figcaption>
+</figure>
+<p>
+<!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>“AWS ASEAN Partner Awards merupakan kesempatan bagi kami untuk mengakui kontribusi luar biasa dari AWS Partners dari seluruh ASEAN. Kami merasa tersanjung dengan komitmen kolektif komunitas partner kami dan mengucapkan selamat kepada semua pemenang penghargaan atas pengakuan yang memang pantas mereka terima,” imbuhnya.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>ICS telah mengerjakan lebih dari 100 proyek kompleks, termasuk lebih dari 50 migrasi beban kerja.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Selain itu, Gartner, sebuah lembaga penelitian terkemuka, memperkirakan bahwa Artificial Intelligence (AI) akan tetap menjadi salah satu beban kerja teratas yang mendorong keputusan infrastruktur hingga tahun 2023. Hal ini menunjukkan bahwa penggunaan strategis teknologi cloud kognitif seperti Application Program Interfaces (APIs), Container, dan Serverless dapat membantu menyederhanakan proses penerapan AI.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Container dan Serverless akan memungkinkan model Machine Learning (ML) berfungsi secara independen, menurunkan biaya serta modal pengembangan awal. Gartner juga memprediksi pada tahun 2023, penggunaan AI akan lima kali lebih besar dibandingkan tahun 2019.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>“Kami melihat AI/ML akan menjadi kebutuhan utama bagi perusahaan di masa depan, terutama di masa pandemi ini dimana teknologi AI menjadi tulang punggung banyak industri. Sebagai AWS Advanced Consulting Partner, kami dapat memanfaatkan AWS Well-Architected Framework untuk mengembangkan solusi berkualitas tinggi yang membantu pelanggan mengurangi waktu dan biaya, sekaligus memenuhi kebutuhan mereka,” kata Budhi.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>“Solusi yang disediakan ICS Compute selaras dengan kebutuhan bisnis dari semua ukuran, dari perusahaan besar hingga Usaha Kecil Menengah (UKM), membantu bisnis untuk berinovasi lebih cepat dan dengan biaya lebih rendah,” pungkasnya.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Dengan dedikasi yang tinggi, ICS selalu berusaha memberikan layanan terbaik kepada para calon pelanggan maupun early cloud adopter di Indonesia.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Artikel ini dikutip dari <a href="https://www.icscompute.com/ics-compute-kembali-raih-penghargaan-aws-consulting-partner-of-the-year-2021/" target="_blank" rel="noreferrer noopener">https://www.icscompute.com/ics-compute-kembali-raih-penghargaan-aws-consulting-partner-of-the-year-2021/</a></p>
+<p>
+<!-- /wp:paragraph --></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Kontes Robot Indonesia Tingkat Nasional 2021</title>
+        <author>
+            <name>Teknomid</name>
+        </author>
+        <link href="https://teknomid.com/kontes-robot-indonesia-tingkat-nasional-2021/"/>
+        <id>https://teknomid.com/kontes-robot-indonesia-tingkat-nasional-2021/</id>
+
+        <updated>2021-11-17T19:40:22+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://teknomid.com/media/posts/4/robot-kontes.jpg" alt="" />
+                     Sekitar 136 tim robot dari 59 perguruan tinggi berlaga dalam memperebutkan&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://teknomid.com/media/posts/4/robot-kontes.jpg" alt="" />
+                <p><!-- wp:paragraph --></p>
+<p>Sekitar 136 tim robot dari 59 perguruan tinggi berlaga dalam memperebutkan gelar juara nasional Kontes Robot Indonesia 2021 yang berlangsung pada 15-16 Oktober 2021. Persaingan dalam KRI Nasional menjadi kian ketat karena tim-tim terbaik yang memenangi kontes di tingkat wilayah akan diadu lagi.<br><br>KRI dilaksanakan secara bertahap mulai di tingkat wilayah yaitu wilayah I dan wilayah II yang telah berlangsung pada 22 September hingga 1 Oktober 2021. Lalu, tim terbaik di tiap divisi dari tingkat wilayah diundang untuk kembali bersaing dalam laga final di KRI Nasional 2021.<br><br>"KRI merupakan salah satu ajang prestasi diantara 18 ajang prestasi Dirjen Dikti yang diselenggarakan Puspresnas. Hanya saja sejak pandemi, seluruh kegiatan kontes maupun festival diadakan secara daring," <br>kata Plt Kepala Pusat Prestasi Nasional Kementrian Pendidikan, Kebudyaan, Riset dan Teknologi (Puspresnas Kemendibudristek) Asep Sukmayadi, dilansir dari laman UGM. <br><br>Sekjen Kemendikbudristek Suharti mengatakan, KRI menjadi salah satu implementasi dari program Merdeka Belajar Kampus Merdeka (MBKM) yang bertujuan mendorong mahasiswa tidak hanya unggul dalam bidang akademik saja.<br><br>"Namun, menjadi individu kreatif, inovatif, berdaya saing, dan mampu bekerja sama serta berkarakter kuat," ucapnya. <br><br>Sementara Wakil Rektor Bidang Pendidikan, Pengajaran dan Kemahasiswaan UGM Prof Djagal Wiseso Marseno mengatakan sebanyak 136 tim peserta KRI 2021 terdiri dari 30 tim KRSBI Humanoid, 22 tim KRSBI beroda, 18 tim KRSTI, 42 tim KRSRI, dan 24 tim KRTMI. <br><br>"Kebanggaan bagi UGM yang telah dipercaya menjadi tuan tumah KRI pada tahun ini. Sejak seleksi tahap wilayah hingga nasional, pihaknya merasa berbangga melihat usaha dan kerja keras para mahasiswa dalam memajukan Iptek khususnya dalam bidang robotika,"  imbuhnya.<br><br>KRI merupakan kegiatan tahunan yang diselenggarakan oleh Puspresnas. Dalam penyelenggaraan kali ini UGM dipercaya menjadi tuan rumah KRI tingkat wilayah dan nasional. Karena dilaksanakan di tengah pandemi, kompetisi diadakan secara daring oleh tim peserta di kampus masing-masing dan luring oleh juri dan panitia di GSP UGM. (H-2)<br><br>Sumber: <a href="https://www.ugm.ac.id/" data-type="URL" data-id="https://www.ugm.ac.id/" target="_blank" rel="noreferrer noopener">UGM</a></p>
+<p>
+<!-- /wp:paragraph --></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Perintah Dasar Linux</title>
+        <author>
+            <name>Teknomid</name>
+        </author>
+        <link href="https://teknomid.com/perintah-dasar-linux/"/>
+        <id>https://teknomid.com/perintah-dasar-linux/</id>
+
+        <updated>2021-11-18T05:29:58+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://teknomid.com/media/posts/3/up1.png" alt="" />
+                     Perintah Dasar Linux adalah awal pembelajaran ketika ingat dengan Linux, kebanyakan&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://teknomid.com/media/posts/3/up1.png" alt="" />
+                <p><!-- wp:group --></p>
+<div class="wp-block-group">
+<p><!-- wp:paragraph {"tdMaxWidth":1097} --></p>
+<p style="max-width: 1097px;">Perintah Dasar Linux adalah awal pembelajaran ketika ingat dengan Linux, kebanyakan orang berpikir tentang sistem operasi rumit yang hanya digunakan oleh programmer. Tapi itu tidak menakutkan seperti kelihatannya.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"tdMaxWidth":1097} --></p>
+<p style="max-width: 1097px;">Linux adalah seluruh keluarga sistem operasi Unix open-source, yang didasarkan pada Kernel Linux. Ini mencakup semua sistem berbasis Linux yang paling populer seperti Ubuntu, Arch, Redhat, CentOS dan lainnya. Lebih tepatnya, mereka disebut distro.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"tdMaxWidth":1097} --></p>
+<p style="max-width: 1097px;">Sejak Linux pertama kali dirilis pada tahun 1991 , ia terus mendapatkan popularitas karena sifatnya yang open-source. Orang dapat dengan bebas memodifikasi dan mendistribusikan ulang atas nama mereka sendiri atau komunitas.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"tdMaxWidth":1097} --></p>
+<p style="max-width: 1097px;">Saat mengoperasikan OS Linux, Anda perlu menggunakan shell – antarmuka yang memberi Anda akses ke layanan sistem operasi. Sebagian besar distribusi Linux menggunakan antarmuka pengguna grafis (GUI) sebagai shell mereka, terutama untuk memberikan kemudahan penggunaan bagi penggunanya.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"tdMaxWidth":1097} --></p>
+<p style="max-width: 1097px;">Karena itu, disarankan untuk menggunakan antarmuka baris perintah (CLI) karena lebih kuat dan efektif. Tugas yang memerlukan proses multi-langkah melalui GUI dapat dilakukan dalam hitungan detik dengan mengetikkan perintah ke dalam CLI.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"tdMaxWidth":1097} --></p>
+<p style="max-width: 1097px;">Jadi, jika Anda mempertimbangkan untuk menggunakan Linux, mempelajari baris perintah dasar akan sangat membantu. Pada artikel ini, Anda akan mempelajari 35 perintah dasar Linux yang pasti akan membantu Anda menavigasi Linux sebagai pemula.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"dropCapStyle":"dropcapp1","tdMaxWidth":1097} --></p>
+<p class="dropcapp1" style="max-width: 1097px;">Sebelum kita masuk ke daftar perintah, Anda harus membuka baris perintah terlebih dahulu. Jika Anda masih tidak yakin tentang antarmuka baris perintah, lihat tutorial CLI ini .<br>Meskipun langkah-langkahnya mungkin berbeda tergantung pada distribusi yang Anda gunakan, Anda biasanya dapat menemukan baris perintah di bagian Utilitas</p>
+<p><!-- /wp:paragraph --></p>
+</div>
+<p><!-- /wp:group --></p>
+<p><!-- wp:paragraph --></p>
+<p>Berikut adalah daftar perintah dasar Linux:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:group --></p>
+<div class="wp-block-group">
+<p><!-- wp:list {"ordered":true} --></p>
+<ol>
+<li><strong>Perintah pwd</strong><br>Gunakan perintah pwd untuk mengetahui jalur direktori kerja saat ini (folder) tempat Anda berada. Perintah akan mengembalikan jalur absolut (penuh), yang pada dasarnya adalah jalur semua direktori yang dimulai dengan garis miring (/ ) . Contoh jalur absolut adalah /home/username .</li>
+<li><strong> Perintah cd</strong><br>Untuk menavigasi melalui file dan direktori Linux, gunakan perintah cd . Ini membutuhkan path lengkap atau nama direktori, tergantung pada direktori kerja saat ini tempat Anda berada.<br><br>Katakanlah Anda berada di /home/tekno/Documents dan Anda ingin membuka directori Photos , sebuah subdirektori dari $HOMEuser . Untuk melakukannya, cukup ketik perintah berikut: cd ../Photos<br><br>Skenario lain adalah jika Anda ingin beralih ke direktori yang sama sekali baru, misalnya, /home/tekno/Movies . Dalam hal ini, Anda harus mengetik cd diikuti dengan path absolut direktori: cd/home/tekno/Movies .<br><br>Ada beberapa pintasan untuk membantu Anda menavigasi dengan cepat:<br>cd .. (dengan dua titik) untuk memindahkan satu direktori ke atas<br>cd untuk langsung ke folder home<br>cd- (dengan tanda hubung) untuk pindah ke direktori sebelumnya<br>Di samping catatan, shell Linux peka huruf besar-kecil. Jadi, Anda harus mengetikkan direktori nama persis seperti apa adanya.</li>
+<li><strong>Perintah ls</strong><br>Perintah ls ini digunakan untuk melihat isi dari direktori. Secara default, perintah ini akan menampilkan isi direktori kerja Anda saat ini.<br><br>Jika Anda ingin melihat konten direktori lain, ketik ls lalu path direktori. Misalnya, masukkan ls/home/tekno/Documents untuk melihat konten Documents .<br><br>Ada variasi yang dapat Anda gunakan dengan perintah ls :<br>ls -R akan mencantumkan semua file di sub-direktori juga<br>ls -a akan menampilkan file yang tersembunyi<br>ls -al akan mencantumkan file dan direktori dengan informasi terperinci seperti privilages, size, owner, dll.</li>
+<li><strong>Perintah Cat</strong><br>cat (singkatan dari concatenate) adalah salah satu perintah yang paling sering digunakan di Linux. Ini digunakan untuk membuat daftar isi file pada output standar (sdout). Untuk menjalankan perintah ini, ketik cat diikuti dengan nama file dan ekstensinya. Misalnya: cat teknomid.txt .<br><br>Berikut adalah cara lain untuk menggunakan perintah cat :<br><kbd>cat &gt; nama file membuat file baru<br>cat teknomid-01 teknomid-02 &gt; teknomid-03 menggabungkan dua file (01 dan 02)</kbd> dan menyimpan hasilnya dalam file baru (03)<br><br>untuk mengonversi file ke penggunaan huruf besar atau kecil, cat teknomid-03 | tr az AZ &gt; teknomid-converted.txt (note: semua huruf kecil ‘a’ dan ‘z’ akan di convert ke ‘A’ dan ‘Z’)</li>
+<li><strong>Perintah cp</strong><br>Gunakan perintah cp untuk menyalin file dari direktori saat ini ke direktori lain. Misalnya, perintah cp landscape.jpg /home/tekno/Pictures akan membuat salinan landscape.jpg (dari direktori Anda saat ini) ke dalam direktori Pictures .</li>
+<li><strong> Perintah mv</strong><br>Penggunaan utama dari perintah mv adalah untuk memindahkan file, meskipun itu juga dapat digunakan untuk mengganti nama file.<br><br>Argumen dalam mv mirip dengan perintah cp. Anda perlu mengetik mv , nama file, dan direktori tujuan. Misalnya: mv converted.txt /home/username/Documents .<br>Untuk mengganti nama file, perintah Linux adalah mv oldname.ext newname.ext</li>
+<li><strong>Perintah mkdir</strong><br>Gunakan perintah mkdir untuk membuat direktori baru — jika Anda mengetik mkdir Music, ini akan membuat direktori bernama Music .<br><br>Ada juga perintah mkdir tambahan :<br>Untuk membuat direktori baru di dalam direktori lain, gunakan perintah dasar Linux ini mkdir Music/Newfile<br><br>gunakan opsi  p (parents) untuk membuat direktori di antara dua direktori yang ada. Misalnya, mkdir -p Music/2021/teknomid akan membuat directori “2021 dan teknomid” baru.<br>mkdir -p Music/2021/teknomid/{pop,jaz,rock}<br>Perintah ini akan membuat 3 subdirektori di dalam directori teknomid.</li>
+<li><strong>Perintah rmdir</strong><br>Jika Anda perlu menghapus direktori, gunakan perintah rmdir . Namun, rmdir hanya memungkinkan Anda untuk menghapus direktori kosong.</li>
+<li><strong>Perintah rm</strong><br>Perintah rm ini digunakan untuk direktori menghapus dan isi di dalamnya. Jika Anda hanya ingin menghapus direktori – sebagai alternatif dari rmdir – gunakan rm -r .<br><br>Catatan : Berhati-hatilah dengan perintah ini dan periksa kembali direktori tempat Anda berada. Ini akan menghapus semuanya dan tidak ada pembatalan.</li>
+<li><strong>Perintah touch</strong><br>Perintah touch  memungkinkan Anda untuk membuat file baru kosong melalui baris perintah Linux. Sebagai contoh, masukkan sentuh /home/tekno/Documents/Web.html untuk membuat file HTML berjudul Web di bawah direktori Documents .</li>
+<li><strong>Perintah locate</strong><br>Anda dapat menggunakan perintah ini untuk mencari file, seperti perintah pencarian di Windows. Terlebih lagi, menggunakan argumen -i bersama dengan perintah ini akan membuatnya tidak peka huruf besar/kecil, sehingga Anda dapat mencari file meskipun Anda tidak ingat nama persisnya.<br><br>Untuk mencari file yang berisi dua kata atau lebih, gunakan tanda bintang (*) . Misalnya, perintah locate -i catatan akan mencari file apa pun yang berisi kata “catatan” dan “pelajaran”, apakah itu huruf besar atau kecil.</li>
+<li><strong>Perintah find</strong><br>Mirip dengan perintah locate , menggunakan  find juga mencari file dan direktori. Perbedaannya adalah, Anda menggunakan perintah find untuk mencari file dalam direktori tertentu.<br><br>Sebagai contoh, perintah find /home/ -namenotes.txt akan mencari file bernama notes.txt di dalam direktori home dan subdirektorinya.<br><br>Variasi lain saat menggunakan find  adalah:<br>Untuk menemukan file dalam penggunaan direktori saat ini, find . -nama catatan.txt<br>Untuk mencari direktori gunakan, / -ketik d -nama catatan. txt</li>
+<li><strong>Perintah grep</strong><br>Perintah dasar Linux lainnya yang tidak diragukan lagi berguna untuk penggunaan sehari-hari adalah grep . Ini memungkinkan Anda mencari melalui semua teks dalam file yang diberikan.<br><br>Sebagai ilustrasi, grepbirunotepad.txt akan mencari kata biru di file notepad. Baris yang berisi kata yang dicari akan ditampilkan sepenuhnya.</li>
+<li><strong>Perintah sudo</strong><br>Singkatan dari ” SuperUser Do “, perintah ini memungkinkan Anda untuk melakukan tugas yang memerlukan izin administratif atau root. Namun, tidak disarankan untuk menggunakan perintah ini untuk penggunaan sehari-hari.</li>
+<li><strong>Perintah df</strong><br>Gunakan perintah df untuk mendapatkan laporan penggunaan ruang disk sistem, ditampilkan dalam % dan KB. Jika Anda ingin melihat laporan dalam MB, ketik df -m .</li>
+<li><strong>Perintah du</strong><br>Jika Anda ingin memeriksa berapa banyak ruang yang dibutuhkan file atau direktori, perintah du (Penggunaan Disk) adalah jawabannya. Namun, ringkasan penggunaan disk akan menampilkan nomor blok disk alih-alih format ukuran biasa. Jika Anda ingin melihatnya dalam byte, kilobyte, dan megabyte, tambahkan argumen -h ke baris perintah. du -sh , du -sh *</li>
+<li><strong>Perintah head</strong><br>Perintah head ini digunakan untuk melihat baris pertama dari file teks. Secara default, ini akan menampilkan 10 baris pertama, tetapi Anda dapat mengubah nomor ini sesuai keinginan Anda. Misalnya, jika Anda hanya ingin menampilkan 5 baris pertama, ketik head -n 5 filename.ext .</li>
+<li><strong>Perintah tail</strong><br>Yang ini memiliki fungsi yang mirip dengan perintah head, tetapi alih-alih menampilkan baris pertama, perintah tail akan menampilkan sepuluh baris terakhir dari file teks. Misalnya, tail -n 7 namafile.ext akan menampilkan 7 baris paling bawah yang ada di dalam file.</li>
+</ol>
+<p><!-- /wp:list --></p>
+</div>
+<p><!-- /wp:group --></p>
+<p><!-- wp:paragraph --></p>
+<p>Tambahan Perintah Linux lainnya akan kita bahas di Artikel Selanjutknya.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p><span class="td_text_highlight_marker" style="background-color: #006651;">chmod u+x krita-4.4.8-x86_64.appimage</span><br><span class="td_text_highlight_marker" style="background-color: #006651;">sudo chown teknomid:teknomid krita-4.4.8-x86_64.appimage</span><br><span class="td_text_highlight_marker" style="background-color: #006651;">sudo cp krita-4.4.8-x86_64.appimage /bin/krita</span><br>Tinggal panggil saja dari terminal : <span class="td_text_highlight_marker" style="background-color: #006651;">krita</span><br><br>Sumber: <em><a rel="noreferrer noopener" href="https://krita.org/" target="_blank">https://krita.org/</a></em></p>
+<p>Jika ada yang akan di tanyakan silahkan tinggalkan pesan di Komentar.</p>
 <p><!-- /wp:paragraph --></p>
             ]]>
         </content>
@@ -386,59 +586,62 @@
         </author>
         <link href="https://teknomid.com/download-windows-11-melalui-rufus/"/>
         <id>https://teknomid.com/download-windows-11-melalui-rufus/</id>
-            <category term="Windows 11"/>
-            <category term="Windows"/>
-            <category term="System"/>
 
-        <updated>2021-11-15T04:48:17+07:00</updated>
+        <updated>2021-11-17T19:40:22+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://teknomid.com/media/posts/22/asas-lg.webp" alt="Windows 11" />
-                     Windows 11 baru-baru ini sangat banyak di perbincangkan di dunia dan rufus mencoba langsung update meta download ISO jagoan windows satu ini. Pada versi Rufus terbaru, kamu sudah langsung dapat mendownload file ISO Windows-11 dari berbagai versi Windows untuk selanjutnya kamu simpan dan gunakan&hellip;
+                        <img src="https://teknomid.com/media/posts/2/asas.jpg" alt="" />
+                     Windows 11 baru-baru ini sangat banyak di perbincangkan di dunia dan&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://teknomid.com/media/posts/22/asas-lg.webp" alt="Windows 11" />
+                    <img src="https://teknomid.com/media/posts/2/asas.jpg" alt="" />
                 <p><!-- wp:paragraph --></p>
 <p>Windows 11 baru-baru ini sangat banyak di perbincangkan di dunia dan rufus mencoba langsung update meta download ISO jagoan windows satu ini.</p>
-<p><!-- /wp:paragraph --></p>
+<p>
+<!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Pada versi Rufus terbaru, kamu sudah langsung dapat mendownload file ISO Windows-11 dari berbagai versi Windows untuk selanjutnya kamu simpan dan gunakan nanti.</p>
-<p><!-- /wp:paragraph --></p>
+<p>
+<!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p><!-- /wp:paragraph --></p>
+<p>
+<!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Selain kamu dapat mendownload file instalasi Windows 11 secara langsung dari halaman Microsoft, kamu juga dapat mendownloadnya di Rufus loh, dan langkahnya sangat sederhana, berikut WinPoin rangkum langkah singkatnya.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:yoast/how-to-block {"steps":[{"id":"how-to-step-1636200741879","name":["Langkah-Pertama"],"text":["Silahkan kamu download versi Rufus terbaru terlebih dahulu (kamu bisa mendownloadnya ",{"type":"a","props":{"href":"https://rufus.ie/en/","children":["disini"]}},")"],"jsonName":"Langkah-Pertama","jsonText":"Silahkan kamu download versi Rufus terbaru terlebih dahulu (kamu bisa mendownloadnya \u003ca href=\u0022https://rufus.ie/en/\u0022\u003edisini\u003c/a\u003e)"},{"id":"how-to-step-1636200821995","name":["Langkah-Kedua"],"text":["Silahkan kamu buka Rufus yang sudah di download dan klik pada tombol panah Download disamping Boot selection.",{"type":"br","props":{"children":[]}},{"type":"img","props":{"alt":"Rufu Downoad Windows 11","src":"https://teknomid.com/media/posts/22/rufus01-2.webp","children":[]}}],"jsonName":"Langkah-Kedua","jsonText":"Silahkan kamu buka Rufus yang sudah di download dan klik pada tombol panah Download disamping Boot selection.\u003cbr/\u003e\u003cimg alt=\u0022Rufu Downoad Windows 11\u0022 src=\u0022https://teknomid.com/media/posts/22/rufus01-2.webp\u0022/\u003e","jsonImageSrc":"https://teknomid.com/media/posts/22/rufus01-2.webp"},{"id":"how-to-step-1636201055796","name":["Langkah-Ketiga"],"text":["Langkah Selanjutnya, silahkan kamu klik tombol Download dan Pilih Windows 11 ",{"type":"br","props":{"children":[]}},{"type":"br","props":{"children":[]}},{"type":"img","props":{"alt":"","src":"https://teknomid.com/media/posts/22/Windows-11.webp","children":[]}}],"jsonName":"Langkah-Ketiga","jsonText":"Langkah Selanjutnya, silahkan kamu klik tombol Download dan Pilih Windows 11 \u003cbr/\u003e\u003cbr/\u003e\u003cimg alt=\u0022\u0022 src=\u0022https://teknomid.com/media/posts/22/Windows-11.webp\u0022/\u003e","jsonImageSrc":"https://teknomid.com/media/posts/22/Windows-11.webp"},{"id":"how-to-step-1636202044600","name":["Langkah-KeEmpat"],"text":["Di Tahap Selanjutnya akan di arahkan memilih Version, Release, Edition, Language, Architecture, (Rekomendasi Ceklist ",{"type":"strong","props":{"children":["Download Using a Browser"]}}," agar lebih mudah dan bisa langsung native download lewat ",{"type":"a","props":{"href":"https://www.internetdownloadmanager.com/","target":"_blank","rel":"noreferrer noopener","children":["IDM"]}},") dan Click Download ",{"type":"br","props":{"children":[]}},{"type":"img","props":{"alt":"","src":"https://teknomid.com/media/posts/22/Continue.png","children":[]}}],"jsonName":"Langkah-KeEmpat","jsonText":"Di Tahap Selanjutnya akan di arahkan memilih Version, Release, Edition, Language, Architecture, (Rekomendasi Ceklist \u003cstrong\u003eDownload Using a Browser\u003c/strong\u003e agar lebih mudah dan bisa langsung native download lewat \u003ca href=\u0022https://www.internetdownloadmanager.com/\u0022 target=\u0022_blank\u0022 rel=\u0022noreferrer noopener\u0022\u003eIDM\u003c/a\u003e) dan Click Download \u003cbr/\u003e\u003cimg alt=\u0022\u0022 src=\u0022https://teknomid.com/media/posts/22/Continue.png\u0022/\u003e","jsonImageSrc":"https://teknomid.com/media/posts/22/Continue.png"},{"id":"how-to-step-1636202677530","name":["Langkang-KeLima"],"text":["Langkah ini akan di bawakan ke Drive atau tempat dimana akan menyimpan File ISO Windows 11 yang akan kita Proses Download",{"type":"br","props":{"children":[]}},"Baca-Juga: ",{"type":"a","props":{"href":"https://teknomid.com/applikasi-design-gratis/","target":"_blank","rel":"noreferrer noopener","children":["Applikasi Desain Gratis"]}}," ",{"type":"br","props":{"children":[]}},{"type":"img","props":{"alt":"","src":"https://teknomid.com/media/posts/22/save-as.webp","children":[]}},{"type":"br","props":{"children":[]}},"dan tunggu hingga selesai",{"type":"br","props":{"children":[]}}],"jsonName":"Langkang-KeLima","jsonText":"Langkah ini akan di bawakan ke Drive atau tempat dimana akan menyimpan File ISO Windows 11 yang akan kita Proses Download\u003cbr/\u003eBaca-Juga: \u003ca href=\u0022https://teknomid.com/applikasi-design-gratis/\u0022 target=\u0022_blank\u0022 rel=\u0022noreferrer noopener\u0022\u003eApplikasi Desain Gratis\u003c/a\u003e \u003cbr/\u003e\u003cimg alt=\u0022\u0022 src=\u0022https://teknomid.com/media/posts/22/save-as.webp\u0022/\u003e\u003cbr/\u003edan tunggu hingga selesai\u003cbr/\u003e","jsonImageSrc":"https://teknomid.com/media/posts/22/save-as.webp"},{"id":"how-to-step-1636203131352","name":["Langkah-KeEnam"],"text":["Progress Download File ISO Melalui Browser tanpa IDM",{"type":"br","props":{"children":[]}},{"type":"img","props":{"alt":"","src":"https://teknomid.com/media/posts/22/download.webp","children":[]}}],"jsonName":"Langkah-KeEnam","jsonText":"Progress Download File ISO Melalui Browser tanpa IDM\u003cbr/\u003e\u003cimg alt=\u0022\u0022 src=\u0022https://teknomid.com/media/posts/22/download.webp\u0022/\u003e","jsonImageSrc":"https://teknomid.com/media/posts/22/download.webp"}],"unorderedList":false,"defaultDurationText":"Waktu yang dibutuhkan:"} --></p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:yoast/how-to-block {"steps":[{"id":"how-to-step-1636200741879","name":["Langkah-Pertama"],"text":["Silahkan kamu download versi Rufus terbaru terlebih dahulu (kamu bisa mendownloadnya ",{"type":"a","props":{"href":"https://rufus.ie/en/","children":["disini"]}},")"],"jsonName":"Langkah-Pertama","jsonText":"Silahkan kamu download versi Rufus terbaru terlebih dahulu (kamu bisa mendownloadnya \u003ca href=\u0022https://rufus.ie/en/\u0022\u003edisini\u003c/a\u003e)"},{"id":"how-to-step-1636200821995","name":["Langkah-Kedua"],"text":["Silahkan kamu buka Rufus yang sudah di download dan klik pada tombol panah Download disamping Boot selection.",{"type":"br","props":{"children":[]}},{"type":"img","props":{"alt":"Rufu Downoad Windows 11","src":"https://teknomid.com/media/posts/2/rufus01-2.webp","children":[]}}],"jsonName":"Langkah-Kedua","jsonText":"Silahkan kamu buka Rufus yang sudah di download dan klik pada tombol panah Download disamping Boot selection.\u003cbr/\u003e\u003cimg alt=\u0022Rufu Downoad Windows 11\u0022 src=\u0022https://teknomid.com/media/posts/2/rufus01-2.webp\u0022/\u003e","jsonImageSrc":"https://teknomid.com/media/posts/2/rufus01-2.webp"},{"id":"how-to-step-1636201055796","name":["Langkah-Ketiga"],"text":["Langkah Selanjutnya, silahkan kamu klik tombol Download dan Pilih Windows 11 ",{"type":"br","props":{"children":[]}},{"type":"br","props":{"children":[]}},{"type":"img","props":{"alt":"","src":"https://teknomid.com/media/posts/2/Windows-11.webp","children":[]}}],"jsonName":"Langkah-Ketiga","jsonText":"Langkah Selanjutnya, silahkan kamu klik tombol Download dan Pilih Windows 11 \u003cbr/\u003e\u003cbr/\u003e\u003cimg alt=\u0022\u0022 src=\u0022https://teknomid.com/media/posts/2/Windows-11.webp\u0022/\u003e","jsonImageSrc":"https://teknomid.com/media/posts/2/Windows-11.webp"},{"id":"how-to-step-1636202044600","name":["Langkah-KeEmpat"],"text":["Di Tahap Selanjutnya akan di arahkan memilih Version, Release, Edition, Language, Architecture, (Rekomendasi Ceklist ",{"type":"strong","props":{"children":["Download Using a Browser"]}}," agar lebih mudah dan bisa langsung native download lewat ",{"type":"a","props":{"href":"https://www.internetdownloadmanager.com/","target":"_blank","rel":"noreferrer noopener","children":["IDM"]}},") dan Click Download ",{"type":"br","props":{"children":[]}},{"type":"img","props":{"alt":"","src":"https://teknomid.com/media/posts/2/Continue.png","children":[]}}],"jsonName":"Langkah-KeEmpat","jsonText":"Di Tahap Selanjutnya akan di arahkan memilih Version, Release, Edition, Language, Architecture, (Rekomendasi Ceklist \u003cstrong\u003eDownload Using a Browser\u003c/strong\u003e agar lebih mudah dan bisa langsung native download lewat \u003ca href=\u0022https://www.internetdownloadmanager.com/\u0022 target=\u0022_blank\u0022 rel=\u0022noreferrer noopener\u0022\u003eIDM\u003c/a\u003e) dan Click Download \u003cbr/\u003e\u003cimg alt=\u0022\u0022 src=\u0022https://teknomid.com/media/posts/2/Continue.png\u0022/\u003e","jsonImageSrc":"https://teknomid.com/media/posts/2/Continue.png"},{"id":"how-to-step-1636202677530","name":["Langkang-KeLima"],"text":["Langkah ini akan di bawakan ke Drive atau tempat dimana akan menyimpan File ISO Windows 11 yang akan kita Proses Download",{"type":"br","props":{"children":[]}},"Baca-Juga: ",{"type":"a","props":{"href":"https://teknomid.com/applikasi-design-gratis/","target":"_blank","rel":"noreferrer noopener","children":["Applikasi Desain Gratis"]}}," ",{"type":"br","props":{"children":[]}},{"type":"img","props":{"alt":"","src":"https://teknomid.com/media/posts/2/save-as.webp","children":[]}},{"type":"br","props":{"children":[]}},"dan tunggu hingga selesai",{"type":"br","props":{"children":[]}}],"jsonName":"Langkang-KeLima","jsonText":"Langkah ini akan di bawakan ke Drive atau tempat dimana akan menyimpan File ISO Windows 11 yang akan kita Proses Download\u003cbr/\u003eBaca-Juga: \u003ca href=\u0022https://teknomid.com/applikasi-design-gratis/\u0022 target=\u0022_blank\u0022 rel=\u0022noreferrer noopener\u0022\u003eApplikasi Desain Gratis\u003c/a\u003e \u003cbr/\u003e\u003cimg alt=\u0022\u0022 src=\u0022https://teknomid.com/media/posts/2/save-as.webp\u0022/\u003e\u003cbr/\u003edan tunggu hingga selesai\u003cbr/\u003e","jsonImageSrc":"https://teknomid.com/media/posts/2/save-as.webp"},{"id":"how-to-step-1636203131352","name":["Langkah-KeEnam"],"text":["Progress Download File ISO Melalui Browser tanpa IDM",{"type":"br","props":{"children":[]}},{"type":"img","props":{"alt":"","src":"https://teknomid.com/media/posts/2/download.webp","children":[]}}],"jsonName":"Langkah-KeEnam","jsonText":"Progress Download File ISO Melalui Browser tanpa IDM\u003cbr/\u003e\u003cimg alt=\u0022\u0022 src=\u0022https://teknomid.com/media/posts/2/download.webp\u0022/\u003e","jsonImageSrc":"https://teknomid.com/media/posts/2/download.webp"}],"unorderedList":false,"defaultDurationText":"Waktu yang dibutuhkan:"} --></p>
 <div class="schema-how-to wp-block-yoast-how-to-block">
-<p class="schema-how-to-description"> </p>
+<p class="schema-how-to-description"></p>
 <ol class="schema-how-to-steps">
-<li id="how-to-step-1636200741879" class="schema-how-to-step"><strong class="schema-how-to-step-name">Langkah-Pertama</strong>
+<li class="schema-how-to-step" id="how-to-step-1636200741879"><strong class="schema-how-to-step-name">Langkah-Pertama</strong> 
 <p class="schema-how-to-step-text">Silahkan kamu download versi Rufus terbaru terlebih dahulu (kamu bisa mendownloadnya <a href="https://rufus.ie/en/">disini</a>)</p>
 </li>
-<li id="how-to-step-1636200821995" class="schema-how-to-step"><strong class="schema-how-to-step-name">Langkah-Kedua</strong>
-<p class="schema-how-to-step-text">Silahkan kamu buka Rufus yang sudah di download dan klik pada tombol panah Download disamping Boot selection.<br><img loading="lazy" src="https://teknomid.com/media/posts/22/rufus01-2.webp" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.com/media/posts/22/responsive/rufus01-2-xs.webp 300w ,https://teknomid.com/media/posts/22/responsive/rufus01-2-sm.webp 480w ,https://teknomid.com/media/posts/22/responsive/rufus01-2-md.webp 768w ,https://teknomid.com/media/posts/22/responsive/rufus01-2-lg.webp 1024w ,https://teknomid.com/media/posts/22/responsive/rufus01-2-xl.webp 1360w ,https://teknomid.com/media/posts/22/responsive/rufus01-2-2xl.webp 1600w"  alt="Rufu Downoad Windows 11"></p>
+<li class="schema-how-to-step" id="how-to-step-1636200821995"><strong class="schema-how-to-step-name">Langkah-Kedua</strong> 
+<p class="schema-how-to-step-text">Silahkan kamu buka Rufus yang sudah di download dan klik pada tombol panah Download disamping Boot selection.<br/><img loading="lazy" alt="Rufu Downoad Windows 11" src="https://teknomid.com/media/posts/2/rufus01-2.webp" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://teknomid.com/media/posts/2/responsive/rufus01-2-xs.webp 300w ,https://teknomid.com/media/posts/2/responsive/rufus01-2-sm.webp 480w ,https://teknomid.com/media/posts/2/responsive/rufus01-2-md.webp 768w ,https://teknomid.com/media/posts/2/responsive/rufus01-2-lg.webp 1024w" /></p>
 </li>
-<li id="how-to-step-1636201055796" class="schema-how-to-step"><strong class="schema-how-to-step-name">Langkah-Ketiga</strong>
-<p class="schema-how-to-step-text">Langkah Selanjutnya, silahkan kamu klik tombol Download dan Pilih Windows 11 <br><br><img loading="lazy" src="https://teknomid.com/media/posts/22/Windows-11.webp" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.com/media/posts/22/responsive/Windows-11-xs.webp 300w ,https://teknomid.com/media/posts/22/responsive/Windows-11-sm.webp 480w ,https://teknomid.com/media/posts/22/responsive/Windows-11-md.webp 768w ,https://teknomid.com/media/posts/22/responsive/Windows-11-lg.webp 1024w ,https://teknomid.com/media/posts/22/responsive/Windows-11-xl.webp 1360w ,https://teknomid.com/media/posts/22/responsive/Windows-11-2xl.webp 1600w"  alt=""></p>
+<li class="schema-how-to-step" id="how-to-step-1636201055796"><strong class="schema-how-to-step-name">Langkah-Ketiga</strong> 
+<p class="schema-how-to-step-text">Langkah Selanjutnya, silahkan kamu klik tombol Download dan Pilih Windows 11 <br/><br/><img loading="lazy" alt="" src="https://teknomid.com/media/posts/2/Windows-11.webp" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://teknomid.com/media/posts/2/responsive/Windows-11-xs.webp 300w ,https://teknomid.com/media/posts/2/responsive/Windows-11-sm.webp 480w ,https://teknomid.com/media/posts/2/responsive/Windows-11-md.webp 768w ,https://teknomid.com/media/posts/2/responsive/Windows-11-lg.webp 1024w" /></p>
 </li>
-<li id="how-to-step-1636202044600" class="schema-how-to-step"><strong class="schema-how-to-step-name">Langkah-KeEmpat</strong>
-<p class="schema-how-to-step-text">Di Tahap Selanjutnya akan di arahkan memilih Version, Release, Edition, Language, Architecture, (Rekomendasi Ceklist <strong>Download Using a Browser</strong> agar lebih mudah dan bisa langsung native download lewat <a href="https://www.internetdownloadmanager.com/" target="_blank" rel="noreferrer noopener">IDM</a>) dan Click Download <br><img loading="lazy" src="https://teknomid.com/media/posts/22/Continue.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.com/media/posts/22/responsive/Continue-xs.png 300w ,https://teknomid.com/media/posts/22/responsive/Continue-sm.png 480w ,https://teknomid.com/media/posts/22/responsive/Continue-md.png 768w ,https://teknomid.com/media/posts/22/responsive/Continue-lg.png 1024w ,https://teknomid.com/media/posts/22/responsive/Continue-xl.png 1360w ,https://teknomid.com/media/posts/22/responsive/Continue-2xl.png 1600w"  alt=""></p>
+<li class="schema-how-to-step" id="how-to-step-1636202044600"><strong class="schema-how-to-step-name">Langkah-KeEmpat</strong> 
+<p class="schema-how-to-step-text">Di Tahap Selanjutnya akan di arahkan memilih Version, Release, Edition, Language, Architecture, (Rekomendasi Ceklist <strong>Download Using a Browser</strong> agar lebih mudah dan bisa langsung native download lewat <a href="https://www.internetdownloadmanager.com/" target="_blank" rel="noreferrer noopener">IDM</a>) dan Click Download <br/><img loading="lazy" alt="" src="https://teknomid.com/media/posts/2/Continue.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://teknomid.com/media/posts/2/responsive/Continue-xs.png 300w ,https://teknomid.com/media/posts/2/responsive/Continue-sm.png 480w ,https://teknomid.com/media/posts/2/responsive/Continue-md.png 768w ,https://teknomid.com/media/posts/2/responsive/Continue-lg.png 1024w" /></p>
 </li>
-<li id="how-to-step-1636202677530" class="schema-how-to-step"><strong class="schema-how-to-step-name">Langkang-KeLima</strong>
-<p class="schema-how-to-step-text">Langkah ini akan di bawakan ke Drive atau tempat dimana akan menyimpan File ISO Windows 11 yang akan kita Proses Download<br>Baca-Juga: <a href="https://teknomid.com/applikasi-design-gratis/" target="_blank" rel="noreferrer noopener">Applikasi Desain Gratis</a> <br><img loading="lazy" src="https://teknomid.com/media/posts/22/save-as.webp" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.com/media/posts/22/responsive/save-as-xs.webp 300w ,https://teknomid.com/media/posts/22/responsive/save-as-sm.webp 480w ,https://teknomid.com/media/posts/22/responsive/save-as-md.webp 768w ,https://teknomid.com/media/posts/22/responsive/save-as-lg.webp 1024w ,https://teknomid.com/media/posts/22/responsive/save-as-xl.webp 1360w ,https://teknomid.com/media/posts/22/responsive/save-as-2xl.webp 1600w"  alt=""><br>dan tunggu hingga selesai</p>
+<li class="schema-how-to-step" id="how-to-step-1636202677530"><strong class="schema-how-to-step-name">Langkang-KeLima</strong> 
+<p class="schema-how-to-step-text">Langkah ini akan di bawakan ke Drive atau tempat dimana akan menyimpan File ISO Windows 11 yang akan kita Proses Download<br/>Baca-Juga: <a href="https://teknomid.com/applikasi-design-gratis/" target="_blank" rel="noreferrer noopener">Applikasi Desain Gratis</a> <br/><img loading="lazy" alt="" src="https://teknomid.com/media/posts/2/save-as.webp" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://teknomid.com/media/posts/2/responsive/save-as-xs.webp 300w ,https://teknomid.com/media/posts/2/responsive/save-as-sm.webp 480w ,https://teknomid.com/media/posts/2/responsive/save-as-md.webp 768w ,https://teknomid.com/media/posts/2/responsive/save-as-lg.webp 1024w" /><br/>dan tunggu hingga selesai<br/></p>
 </li>
-<li id="how-to-step-1636203131352" class="schema-how-to-step"><strong class="schema-how-to-step-name">Langkah-KeEnam</strong>
-<p class="schema-how-to-step-text">Progress Download File ISO Melalui Browser tanpa IDM<br><img loading="lazy" src="https://teknomid.com/media/posts/22/download.webp" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.com/media/posts/22/responsive/download-xs.webp 300w ,https://teknomid.com/media/posts/22/responsive/download-sm.webp 480w ,https://teknomid.com/media/posts/22/responsive/download-md.webp 768w ,https://teknomid.com/media/posts/22/responsive/download-lg.webp 1024w ,https://teknomid.com/media/posts/22/responsive/download-xl.webp 1360w ,https://teknomid.com/media/posts/22/responsive/download-2xl.webp 1600w"  alt=""></p>
+<li class="schema-how-to-step" id="how-to-step-1636203131352"><strong class="schema-how-to-step-name">Langkah-KeEnam</strong> 
+<p class="schema-how-to-step-text">Progress Download File ISO Melalui Browser tanpa IDM<br/><img loading="lazy" alt="" src="https://teknomid.com/media/posts/2/download.webp" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://teknomid.com/media/posts/2/responsive/download-xs.webp 300w ,https://teknomid.com/media/posts/2/responsive/download-sm.webp 480w ,https://teknomid.com/media/posts/2/responsive/download-md.webp 768w ,https://teknomid.com/media/posts/2/responsive/download-lg.webp 1024w" /></p>
 </li>
 </ol>
 </div>
-<p><!-- /wp:yoast/how-to-block --></p>
+<p>
+<!-- /wp:yoast/how-to-block --></p>
 <p><!-- wp:paragraph --></p>
 <p>Proses Selanjutnya kita sudah bisa membuat bootable installer Windows 11 dengan Rufus lewat USB Drive ataupun CD-Drive.</p>
-<p><!-- /wp:paragraph --></p>
+<p>
+<!-- /wp:paragraph --></p>
 <p><!-- wp:yoast-seo/related-links {"status":"loaded"} --></p>
 <ul class="wp-block-yoast-seo-related-links">
 <li><a href="https://teknomid.com/mengatasi-whatsapp-yang-sudah-kadaluarsa/">Mengatasi Whatsapp yang sudah Kadaluarsa</a></li>
@@ -446,16 +649,110 @@
 <li><a href="https://teknomid.com/linux-debianos/">DebianOS "Kenali Dahulu Baru Sayangi"</a></li>
 <li><a href="https://teknomid.com/applikasi-design-gratis/">Aplikasi Desain di Linux dan Windows Open Source</a></li>
 </ul>
-<p><!-- /wp:yoast-seo/related-links --></p>
+<p>
+<!-- /wp:yoast-seo/related-links --></p>
 <p><!-- wp:html --></p>
 <div class="wp-block-yoast-seo-table-of-contents yoast-table-of-contents">
 <h3>Step By Step</h3>
 <h4>1. Hubungkan perangkat flash disk atau penyimpanan sejenis. Pastikan letter drive telah sesuai dengan target bootable.<br>2. Klik opsi SELECT dan pilih file ISO Windows 11 yang kamu miliki.<br>3. Pilih opsi antara Standard Windows Installation atau Windows To Go. Jika ingin melakukan installasi biasa, maka pilih Standard Windows Installation.<br>4. Pilih GPT.<br>5. Bergantung pada langkah ke-4. Lebih lanjut penjelasan bisa kamu lihat pada bagian bawah.<br>5. Untuk bagian Name Kamu bisa menggantinya atau membiarkannya default.<br>Karena Windows 11 hanya mendukung UEFI, maka pilih GPT<br>Silahkan tunggu proses pembuatan bootablenya.</h4>
 </div>
-<p><!-- /wp:html --></p>
+<p>
+<!-- /wp:html --></p>
 <p><!-- wp:paragraph --></p>
 <p>Semoga bermanfaat buat teman-teman teknomid.com</p>
-<p><!-- /wp:paragraph --></p>
+<p>
+<!-- /wp:paragraph --></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Linux DebianOS &quot;Kenali Dahulu Baru Sayangi&quot;</title>
+        <author>
+            <name>Teknomid</name>
+        </author>
+        <link href="https://teknomid.com/linux-debianos-kenali-dahulu-baru-sayangi/"/>
+        <id>https://teknomid.com/linux-debianos-kenali-dahulu-baru-sayangi/</id>
+
+        <updated>2021-11-17T19:40:22+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://teknomid.com/media/posts/1/Debian-Logo.png" alt="" />
+                     Linux DebianOS&nbsp;adalah&nbsp;sebuah sistem operasi&nbsp; yang tersusun dari paket-paket perangkat lunak yang&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://teknomid.com/media/posts/1/Debian-Logo.png" alt="" />
+                <p><!-- wp:paragraph --></p>
+<p><strong>Linux DebianOS</strong>&nbsp;adalah&nbsp;sebuah sistem operasi&nbsp; yang tersusun dari paket-paket perangkat lunak yang dirilis sebagai perangkat lunak bebas dan terbuka dengan lisensi mayoritas&nbsp;<em>GNU General Public License</em></p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>Linux Debian GNU/Linux</strong>&nbsp;memuat perkakas sistem operasi GNU dan&nbsp;kernel Linux&nbsp;merupakan distribusi Linux yang populer dan berpengaruh. Debian didistribusikan dengan akses ke repositori dengan ribuan paket perangkat lunak yang siap untuk instalasi dan digunakan.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>Linux DebianOS ini</strong> terkenal dengan sikap tegas pada filosofi dari <strong>Unix </strong>dan perangkat lunak bebas. Debian dapat digunakan pada beragam perangkat keras, mulai dari <em>Laptop </em>dan&nbsp;<em>Desktop</em>&nbsp;hingga <em>HandPhone </em>dan <em>server</em>.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Distro satu ini<strong> </strong>lebih fokus pada kestabilan dan keamanan. Debian banyak digunakan sebagai basis dari banyak distribusi GNU/Linux lainnya.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>Sistem</strong> operasi Debian yang menggunakan kernel Linux merupakan salah satu distro yang populer dengan kestabilannya.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>Debian</strong> pertama kali diperkenalkan oleh&nbsp;<a href="https://id.wikipedia.org/wiki/Ian_Murdock" target="_blank" rel="noreferrer noopener"><u>Ian Murdock</u></a>, seorang mahasiswa dari&nbsp;Universitas Purdue,&nbsp;Amerika Serikat, pada tanggal 16 Agustus 1993. Nama Debian berasal dari kombinasi nama Ian dengan mantan-kekasihnya Debra Lynn: Deb dan Ian.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Pada awalnya, Ian memulainya dengan memodifikasi distribusi SLS (Softlanding Linux System). </p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Proyek Debian tumbuh lambat pada awalnya dan merilis versi 0.9x pada tahun 1994 dan 1995. Pengalihan arsitektur ke selain i386 dimulai pada tahun 1995. Versi 1.x dimulai tahun 1996.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Pada tahun 1996, Bruce Perens menggantikan Ian Murdoch sebagai Pemimpin Proyek. Dalam tahun yang sama pengembang debian Ean Schuessler, berinisiatif untuk membentuk Debian Social</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:table {"className":"is-style-stripes"} --></p>
+<figure class="wp-block-table is-style-stripes">
+<table>
+<tbody>
+<tr>
+<td>Baca juga: <a href="https://teknomid.com/download-windows-11/">Cara Download Windows 11</a></td>
+</tr>
+</tbody>
+</table>
+</figure>
+<p>
+<!-- /wp:table --></p>
+<p><!-- wp:paragraph --></p>
+<p>Contract dan Debian Free Software Guidelines, memberikan standar dasar komitmen untuk pengembangan distribusi Linux debian. Dia juga membentuk organisasi "Software in Public Interest" untuk menaungi debian secara legal dan hukum.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Di akhir tahun 2000, proyek debian melakukan perubahan dalam archive dan managemen rilis.Program kanonik untuk menangani paket-paket tersebut adalah dpkg, paling sering melalui apt/aptitude.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Beberapa paket Debian inti tersedia sebagai udebs ("mikro deb"), dan biasanya hanya digunakan untuk bootstrap instalasi Linux Debian. Meskipun file tersebut menggunakan ekstensi nama file udeb, mereka mematuhi spesifikasi struktur yang sama seperti biasa deb. </p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Namun, tidak seperti rekan-rekan mereka deb, hanya berisi paket-paket udeb fungsional penting file. Secara khusus, file dokumentasi biasanya dihilangkan. udeb paket tidak dapat diinstal pada sistem Debian standar.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Paket debian juga digunakan dalam distribusi berbasis pada Debian, seperti Ubuntu dan lain-lain. Saat ini telah terdapat puluhan distribusi Linux yang berbasis kepada debian, salah satu yang paling menonjol dan menjadi fenomena adalah&nbsp;<a href="https://ubuntu.com/" target="_blank" rel="noreferrer noopener"><u>Ubuntu</u></a>.</p>
+<p>
+<!-- /wp:paragraph --></p>
+
             ]]>
         </content>
     </entry>
