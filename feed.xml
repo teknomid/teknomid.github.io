@@ -3,7 +3,7 @@
     <title>teknomid.com</title>
     <link href="https://teknomid.com/feed.xml" rel="self" />
     <link href="https://teknomid.com" />
-    <updated>2021-11-18T06:59:54+07:00</updated>
+    <updated>2021-11-18T11:29:37+07:00</updated>
     <author>
         <name>Teknomid</name>
     </author>
@@ -326,73 +326,59 @@
         <link href="https://teknomid.com/aplikasi-design-di-linux-dan-windows-open-source/"/>
         <id>https://teknomid.com/aplikasi-design-di-linux-dan-windows-open-source/</id>
 
-        <updated>2021-11-17T19:40:22+07:00</updated>
+        <updated>2021-11-18T11:29:37+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://teknomid.com/media/posts/6/desain17-10-2021.png" alt="" />
+                        <img src="https://teknomid.com/media/posts/6/desain17-10-2021-lg.webp" alt="" />
                      Teknomid - Sekarang teman-teman tidak perlu lagi melakukan pembajakan atau membeli&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://teknomid.com/media/posts/6/desain17-10-2021.png" alt="" />
+                    <img src="https://teknomid.com/media/posts/6/desain17-10-2021-lg.webp" alt="" />
                 <p><!-- wp:paragraph --></p>
-<p><a href="https://teknomid.com">Teknomid</a> - Sekarang teman-teman tidak perlu lagi melakukan pembajakan atau membeli aplikasi berbayar dengan harga yang mahal sebagai design er pemula. Bukan hanya itu bagi kalian pengguna linux maupun windows yang masih sering me-reboot mesin tempurnya hanya untuk mengakses aplikasi – aplikasi dari Adobe sebaiknya mulai mencoba menggunakan&nbsp; Aplikasi  Design di Linux yang Gratis dan Open Source berikut ini.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><a href="https://teknomid.com">Teknomid</a> - Sekarang teman-teman tidak perlu lagi melakukan pembajakan atau membeli aplikasi berbayar dengan harga yang mahal sebagai design er pemula. Bukan hanya itu bagi kalian pengguna linux maupun windows yang masih sering me-reboot mesin tempurnya hanya untuk mengakses aplikasi – aplikasi dari Adobe sebaiknya mulai mencoba menggunakan  Aplikasi Design di Linux yang Gratis dan Open Source berikut ini.</p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading {"level":3} --></p>
 <h3 id="h-1-inkscape"><strong>1. Inkscape</strong></h3>
-<p>
-<!-- /wp:heading --></p>
+<p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Inkscape merupakan sebuah perangkat lunak design pengolah gambar vektor di bawah lisensi GNU GPL yang bersifat <em>free,</em> <em>open source, </em>dan tentunya gratis untuk di gunakan tanpa biaya sepeserpun. <br><br>Ia dapat berjalan pada berbagai macam <em>platform </em>serta menggunakan format utama SVG untuk filenya dengan mengacu kepada standard dari W3C. Untuk saat ini pengguna Inkscape sudah sangat banyak sekali baik itu dari kalangan profesional maupun pengguna umum untuk kebutuhan design.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":495,"sizeSlug":"large","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-large"><figure class="wp-image-495"><img loading="lazy" src="https://teknomid.com/media/posts/6/teknomid.com_-2-1024x542.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://teknomid.com/media/posts/6/responsive/teknomid.com_-2-1024x542-xs.png 300w ,https://teknomid.com/media/posts/6/responsive/teknomid.com_-2-1024x542-sm.png 480w ,https://teknomid.com/media/posts/6/responsive/teknomid.com_-2-1024x542-md.png 768w ,https://teknomid.com/media/posts/6/responsive/teknomid.com_-2-1024x542-lg.png 1024w"  alt="Inkscape di Linux" /></figure>
+<figure class="wp-block-image size-large"><figure class="wp-image-495"><img loading="lazy"  src="https://teknomid.com/media/posts/6/teknomid.com_-2-1024x542.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://teknomid.com/media/posts/6/responsive/teknomid.com_-2-1024x542-xs.png 300w ,https://teknomid.com/media/posts/6/responsive/teknomid.com_-2-1024x542-sm.png 480w ,https://teknomid.com/media/posts/6/responsive/teknomid.com_-2-1024x542-md.png 768w ,https://teknomid.com/media/posts/6/responsive/teknomid.com_-2-1024x542-lg.png 1024w"  alt="Inkscape di Linux"></figure>
 <figcaption><a href="https://inkscape.org/" data-type="URL" data-id="https://inkscape.org/" target="_blank" rel="noreferrer noopener">Inkscape 1.1</a></figcaption>
 </figure>
-<p>
-<!-- /wp:image --></p>
+<p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p>Ketika tulisan ini di buat <a href="https://inkscape.org/">Inkscape </a>sudah mencapai rilisan dengan versi 1.1</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Secara umum <a href="https://inkscape.org/">Inkscape </a>sudah tersedia hampir di sebagian besar repositori dari berbagai macam Distro Linux dan mempunyai banyak komunitas juga tutorial yang tersebar di internet. <br><br>Pada Ubuntu kalian tinggal menginstalnya melalui Ubuntu Software Center atau melalui shell dengan mengetikan perintah&nbsp;<span style="background-color:#006651" class="td_text_highlight_marker"><em>"sudo apt install inkscape</em>"</span> <br><br>Atau bisa juga download applikasi standalone langsung dari website <a data-type="URL" data-id="https://media.inkscape.org/dl/resources/file/Inkscape-3bf5ae0-x86_64.AppImage" href="https://media.inkscape.org/dl/resources/file/Inkscape-3bf5ae0-x86_64.AppImage"><em>inkscape</em></a>  file-size: 110 MB dan lakukan perintah berikut lewat terminal.<br><br><span style="background-color:#006651" class="td_text_highlight_marker">chmod u+x Inkscape-3bf5ae0-x86_64.AppImage</span><br><span style="background-color:#006651" class="td_text_highlight_marker">sudo chown teknomid:teknomid Inkscape-3bf5ae0-x86_64.AppImage</span><br><span style="background-color:#006651" class="td_text_highlight_marker">sudo cp Inkscape-3bf5ae0-x86_64.AppImage /bin/inkscape</span><br>Tinggal panggil saja dari terminal : <span style="background-color:#006651" class="td_text_highlight_marker">inkscape</span></p>
-<p>
-<!-- /wp:paragraph --></p>
+<p>Secara umum <a href="https://inkscape.org/">Inkscape </a>sudah tersedia hampir di sebagian besar repositori dari berbagai macam Distro Linux dan mempunyai banyak komunitas juga tutorial yang tersebar di internet. <br><br>Pada Ubuntu kalian tinggal menginstalnya melalui Ubuntu Software Center atau melalui shell dengan mengetikan perintah <span class="td_text_highlight_marker" style="background-color: #006651;"><em>"sudo apt install inkscape</em>"</span> <br><br>Atau bisa juga download applikasi standalone langsung dari website <a data-type="URL" data-id="https://media.inkscape.org/dl/resources/file/Inkscape-3bf5ae0-x86_64.AppImage" href="https://media.inkscape.org/dl/resources/file/Inkscape-3bf5ae0-x86_64.AppImage"><em>inkscape</em></a> file-size: 110 MB dan lakukan perintah berikut lewat terminal.<br><br><span class="td_text_highlight_marker" style="background-color: #006651;">chmod u+x Inkscape-3bf5ae0-x86_64.AppImage</span><br><span class="td_text_highlight_marker" style="background-color: #006651;">sudo chown teknomid:teknomid Inkscape-3bf5ae0-x86_64.AppImage</span><br><span class="td_text_highlight_marker" style="background-color: #006651;">sudo cp Inkscape-3bf5ae0-x86_64.AppImage /bin/inkscape</span><br>Tinggal panggil saja dari terminal : <span class="td_text_highlight_marker" style="background-color: #006651;">inkscape</span></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p><em>Sumber: <a rel="noreferrer noopener" href="https://inkscape.org/" target="_blank">https://inkscape.org/</a></em></p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading {"level":3} --></p>
 <h3 id="h-2-krita"><strong>2. Krita</strong></h3>
-<p>
-<!-- /wp:heading --></p>
+<p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Design Krita adalah sebuah pengolah gambar yang tidak kalah keren dengan Inkscape, namun aplikasi satu ini merupakan aplikasi pengolah gambar raster yang lebih berfokus kepada painting dan animasi. <br><br>Sama halnya dengan Inkscape, Krita juga bersifat <em>free</em> dan <em>open source </em>tentunya Krita juga bebas di gunakan tanpa di pungut biaya sepeserpun alias gratis. Krita sendiri mengusung Design antarmuka yang elegant dan mirip dengan aplikasi Illustrator dari Adobe.<br>Versi terbaru sekarang ini sudah update ke version Krita v4.4.8</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":496,"width":694,"height":507,"sizeSlug":"full","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-full is-resized"><figure class="wp-image-496"><img loading="lazy" src="https://teknomid.com/media/posts/6/krita.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://teknomid.com/media/posts/6/responsive/krita-xs.png 300w ,https://teknomid.com/media/posts/6/responsive/krita-sm.png 480w ,https://teknomid.com/media/posts/6/responsive/krita-md.png 768w ,https://teknomid.com/media/posts/6/responsive/krita-lg.png 1024w"  alt="Krita design di Linux"  width="694" height="507"/></figure>
+<figure class="wp-block-image size-full is-resized"><figure class="wp-image-496"><img loading="lazy"  src="https://teknomid.com/media/posts/6/krita.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://teknomid.com/media/posts/6/responsive/krita-xs.png 300w ,https://teknomid.com/media/posts/6/responsive/krita-sm.png 480w ,https://teknomid.com/media/posts/6/responsive/krita-md.png 768w ,https://teknomid.com/media/posts/6/responsive/krita-lg.png 1024w"  alt="Krita design di Linux" width="694" height="507"></figure>
 <figcaption>Krita v.4.4.8</figcaption>
 </figure>
-<p>
-<!-- /wp:image --></p>
+<p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
-<p>Sebagai salah satu pengolah gambar raster yang lebih fokus ke penggambaran daripada fungsi melakukan pengeditan Krita juga mempunyai nilai plus yaitu bisa di gunakan untuk membuat dan mengolah gambar vektor seperti halnya Illustrator. <br><br>Krita juga dapat berjalan di berbagai macam <em>platform.&nbsp;</em>Untuk menginstall Krita pada Ubuntu cukup melalui Ubuntu Software Center atau dengan menggunakan perintah&nbsp;sudo apt install krita&nbsp;dan Krita siap di gunakan.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p>Sebagai salah satu pengolah gambar raster yang lebih fokus ke penggambaran daripada fungsi melakukan pengeditan Krita juga mempunyai nilai plus yaitu bisa di gunakan untuk membuat dan mengolah gambar vektor seperti halnya Illustrator. <br><br>Krita juga dapat berjalan di berbagai macam <em>platform. </em>Untuk menginstall Krita pada Ubuntu cukup melalui Ubuntu Software Center atau dengan menggunakan perintah sudo apt install krita dan Krita siap di gunakan.</p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Atau bisa juga download applikasi standalone langsung dari website <a rel="noreferrer noopener" href="https://kde.cs.nctu.edu.tw/ftp/stable/krita/4.4.8/krita-4.4.8-x86_64.appimage" data-type="URL" data-id="https://kde.cs.nctu.edu.tw/ftp/stable/krita/4.4.8/krita-4.4.8-x86_64.appimage" target="_blank"><em>krita</em></a> file-size: 225 MB dan lakukan perintah berikut lewat terminal.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p><span style="background-color:#006651" class="td_text_highlight_marker">chmod u+x krita-4.4.8-x86_64.appimage</span><br><span style="background-color:#006651" class="td_text_highlight_marker">sudo chown teknomid:teknomid krita-4.4.8-x86_64.appimage</span><br><span style="background-color:#006651" class="td_text_highlight_marker">sudo cp krita-4.4.8-x86_64.appimage /bin/krita</span><br>Tinggal panggil saja dari terminal : <span style="background-color:#006651" class="td_text_highlight_marker">krita</span><br><br>Sumber: <em><a rel="noreferrer noopener" href="https://krita.org/" target="_blank">https://krita.org/</a></em></p>
-<p>
-<!-- /wp:paragraph --></p>
-
+<p><span class="td_text_highlight_marker" style="background-color: #006651;">chmod u+x krita-4.4.8-x86_64.appimage</span><br><span class="td_text_highlight_marker" style="background-color: #006651;">sudo chown teknomid:teknomid krita-4.4.8-x86_64.appimage</span><br><span class="td_text_highlight_marker" style="background-color: #006651;">sudo cp krita-4.4.8-x86_64.appimage /bin/krita</span><br>Tinggal panggil saja dari terminal : <span class="td_text_highlight_marker" style="background-color: #006651;">krita</span><br><br>Sumber: <em><a rel="noreferrer noopener" href="https://krita.org/" target="_blank">https://krita.org/</a></em></p>
+<p><!-- /wp:paragraph --></p>
             ]]>
         </content>
     </entry>
@@ -404,71 +390,57 @@
         <link href="https://teknomid.com/ics-compute-raih-penghargaan-ke-2-aws-consulting-partner-of-the-year-2021/"/>
         <id>https://teknomid.com/ics-compute-raih-penghargaan-ke-2-aws-consulting-partner-of-the-year-2021/</id>
 
-        <updated>2021-11-17T19:40:22+07:00</updated>
+        <updated>2021-11-18T11:26:31+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://teknomid.com/media/posts/5/Budhi-Wibawa-Founder-CEO-ICS-Compute-6-1024x576-min-e1634686498664.png" alt="" />
-                     PT Innovation Cloud Services (ICS Compute), perusahaan System Integrator yang berfokus&hellip;
+                        <img src="https://teknomid.com/media/posts/5/penghargaan-aws.webp" alt="" />
+                     ICS Compute Raih Penghargaan ke-2, perusahaan System Integrator yang berfokus pada&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://teknomid.com/media/posts/5/Budhi-Wibawa-Founder-CEO-ICS-Compute-6-1024x576-min-e1634686498664.png" alt="" />
+                    <img src="https://teknomid.com/media/posts/5/penghargaan-aws.webp" alt="" />
                 <p><!-- wp:paragraph --></p>
-<p><a href="https://www.icscompute.com" data-type="URL" data-id="https://www.icscompute.com" target="_blank" rel="noreferrer noopener">PT Innovation Cloud Services</a> (ICS Compute), perusahaan System Integrator yang berfokus pada Cloud Computing, meraih penghargaan Amazon Web Services (AWS) Consulting Partner of the Year tahun 2021 di Indonesia pada AWS Partner Summit Online 2021. <br><br>Setiap tahun, <a href="https://aws.amazon.com/" data-type="URL" data-id="https://aws.amazon.com/">AWS</a> memberikan penghargaan bagi partner <a href="https://aws.amazon.com/" data-type="URL" data-id="https://aws.amazon.com/" target="_blank" rel="noreferrer noopener">AWS</a> yang terdepan dalam membantu pelanggan mendorong inovasi bisnis.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><a href="#INTERNAL_LINK#/post/null" title="https://icscompute.com">ICS Compute</a> Raih Penghargaan ke-2, perusahaan System Integrator yang berfokus pada Cloud Computing, meraih penghargaan Amazon Web Services (AWS) Consulting Partner of the Year tahun 2021 di Indonesia pada AWS Partner Summit Online 2021. <br><br>Setiap tahun, <a href="https://aws.amazon.com/" data-type="URL" data-id="https://aws.amazon.com/">AWS</a> memberikan penghargaan bagi partner <a href="https://aws.amazon.com/" data-type="URL" data-id="https://aws.amazon.com/" target="_blank" rel="noreferrer noopener">AWS</a> yang terdepan dalam membantu pelanggan mendorong inovasi bisnis.</p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Melalui penghargaan ini, <a href="https://aws.amazon.com/" data-type="URL" data-id="https://aws.amazon.com/" target="_blank" rel="noreferrer noopener">AWS</a> mengapresiasi para partner yang secara konsisten membangun kemampuan dan spesialisasi untuk memastikan kesuksesan pelanggan bersama AWS.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>“Kami sangat bersyukur dan sangat bangga akan penghargaan ini. Kerja keras seluruh tim membuahkan prestasi yang luar biasa, sehingga kami bisa menerima penghargaan ini dua tahun berturut-turut. Penghargaan ini juga menunjukkan keinginan perusahaan di Indonesia yang ingin beralih ke cloud dan khususnya ke AWS. Kami juga percaya bahwa pembukaan AWS Region di Indonesia pada akhir 2021 atau awal 2022 akan menghasilkan banyak peluang bagi pelanggan kami untuk mendorong inovasi bisnis dengan cloud,” <br>ujar CEO dan Founder <a rel="noreferrer noopener" href="https://www.icscompute.com" data-type="URL" data-id="https://www.icscompute.com" target="_blank">PT Innovation Cloud Services</a> (ICS Compute), <strong>Budhi Wibawa</strong> dalam keterangan tertulis, Rabu (15/7/2021).<br><br>Sementara itu, Managing Director AWS ASEAN, Conor McNamara menyampaikan bahwa ajang ini merupakan apresiasi bagi para AWS Partners di negara ASEAN yang telah berkontribusi bagi para pelanggan.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>“Obsesi bersama untuk melayani pelanggan kami belum pernah lebih terlihat selama dua belas bulan terakhir, di mana kami telah melihat begitu banyak partner ASEAN melampaui ekspektasi, dan bahkan jauh melampaui ekspektasi yang diberikan untuk kebutuhan para pelanggan kami,” kata Conor.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":486,"sizeSlug":"full","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-full"><figure class="wp-image-486"><img loading="lazy" src="https://teknomid.com/media/posts/5/AWS-Consulting-ICS-1024x536-1.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://teknomid.com/media/posts/5/responsive/AWS-Consulting-ICS-1024x536-1-xs.jpg 300w ,https://teknomid.com/media/posts/5/responsive/AWS-Consulting-ICS-1024x536-1-sm.jpg 480w ,https://teknomid.com/media/posts/5/responsive/AWS-Consulting-ICS-1024x536-1-md.jpg 768w ,https://teknomid.com/media/posts/5/responsive/AWS-Consulting-ICS-1024x536-1-lg.jpg 1024w"  alt="AWS Consulting Partner of The Year 2021" /></figure>
+<figure class="wp-block-image size-full"><figure class="wp-image-486"><img loading="lazy"  src="https://teknomid.com/media/posts/5/AWS-Consulting-ICS-1024x536-1.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://teknomid.com/media/posts/5/responsive/AWS-Consulting-ICS-1024x536-1-xs.jpg 300w ,https://teknomid.com/media/posts/5/responsive/AWS-Consulting-ICS-1024x536-1-sm.jpg 480w ,https://teknomid.com/media/posts/5/responsive/AWS-Consulting-ICS-1024x536-1-md.jpg 768w ,https://teknomid.com/media/posts/5/responsive/AWS-Consulting-ICS-1024x536-1-lg.jpg 1024w"  alt="AWS Consulting Partner of The Year 2021"></figure>
 <figcaption><strong>AWS Consulting Partner of The Year 2021</strong> Sumber: <a href="https://www.icscompute.com" data-type="URL" data-id="https://www.icscompute.com">ICS</a></figcaption>
 </figure>
-<p>
-<!-- /wp:image --></p>
+<p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p>“AWS ASEAN Partner Awards merupakan kesempatan bagi kami untuk mengakui kontribusi luar biasa dari AWS Partners dari seluruh ASEAN. Kami merasa tersanjung dengan komitmen kolektif komunitas partner kami dan mengucapkan selamat kepada semua pemenang penghargaan atas pengakuan yang memang pantas mereka terima,” imbuhnya.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>ICS telah mengerjakan lebih dari 100 proyek kompleks, termasuk lebih dari 50 migrasi beban kerja.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Selain itu, Gartner, sebuah lembaga penelitian terkemuka, memperkirakan bahwa Artificial Intelligence (AI) akan tetap menjadi salah satu beban kerja teratas yang mendorong keputusan infrastruktur hingga tahun 2023. Hal ini menunjukkan bahwa penggunaan strategis teknologi cloud kognitif seperti Application Program Interfaces (APIs), Container, dan Serverless dapat membantu menyederhanakan proses penerapan AI.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Container dan Serverless akan memungkinkan model Machine Learning (ML) berfungsi secara independen, menurunkan biaya serta modal pengembangan awal. Gartner juga memprediksi pada tahun 2023, penggunaan AI akan lima kali lebih besar dibandingkan tahun 2019.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>“Kami melihat AI/ML akan menjadi kebutuhan utama bagi perusahaan di masa depan, terutama di masa pandemi ini dimana teknologi AI menjadi tulang punggung banyak industri. Sebagai AWS Advanced Consulting Partner, kami dapat memanfaatkan AWS Well-Architected Framework untuk mengembangkan solusi berkualitas tinggi yang membantu pelanggan mengurangi waktu dan biaya, sekaligus memenuhi kebutuhan mereka,” kata Budhi.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>“Solusi yang disediakan ICS Compute selaras dengan kebutuhan bisnis dari semua ukuran, dari perusahaan besar hingga Usaha Kecil Menengah (UKM), membantu bisnis untuk berinovasi lebih cepat dan dengan biaya lebih rendah,” pungkasnya.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Dengan dedikasi yang tinggi, ICS selalu berusaha memberikan layanan terbaik kepada para calon pelanggan maupun early cloud adopter di Indonesia.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Artikel ini dikutip dari <a href="https://www.icscompute.com/ics-compute-kembali-raih-penghargaan-aws-consulting-partner-of-the-year-2021/" target="_blank" rel="noreferrer noopener">https://www.icscompute.com/ics-compute-kembali-raih-penghargaan-aws-consulting-partner-of-the-year-2021/</a></p>
-<p>
-<!-- /wp:paragraph --></p>
-
+<p><!-- /wp:paragraph --></p>
             ]]>
         </content>
     </entry>
@@ -506,16 +478,16 @@
         <link href="https://teknomid.com/perintah-dasar-linux/"/>
         <id>https://teknomid.com/perintah-dasar-linux/</id>
 
-        <updated>2021-11-18T05:29:58+07:00</updated>
+        <updated>2021-11-18T11:28:15+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://teknomid.com/media/posts/3/up1.png" alt="" />
+                        <img src="https://teknomid.com/media/posts/3/up1-lg.webp" alt="" />
                      Perintah Dasar Linux adalah awal pembelajaran ketika ingat dengan Linux, kebanyakan&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://teknomid.com/media/posts/3/up1.png" alt="" />
+                    <img src="https://teknomid.com/media/posts/3/up1-lg.webp" alt="" />
                 <p><!-- wp:group --></p>
 <div class="wp-block-group">
 <p><!-- wp:paragraph {"tdMaxWidth":1097} --></p>
