@@ -3,7 +3,7 @@
     <title>Portal Teknologi</title>
     <link href="https://teknomid.com/feed.xml" rel="self" />
     <link href="https://teknomid.com" />
-    <updated>2021-11-18T11:40:54+07:00</updated>
+    <updated>2021-11-19T10:54:39+07:00</updated>
     <author>
         <name>Teknomid</name>
     </author>
@@ -17,16 +17,16 @@
         <link href="https://teknomid.com/laptop-andalan-masa-kini-xiaomi-redmibook-15/"/>
         <id>https://teknomid.com/laptop-andalan-masa-kini-xiaomi-redmibook-15/</id>
 
-        <updated>2021-11-18T11:40:54+07:00</updated>
+        <updated>2021-11-19T10:00:37+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://teknomid.com/media/posts/9/redmibook-15-01-lg.webp" alt="iaomi RedmiBook 15" />
+                        <img src="https://teknomid.com/media/posts/9/redmibook-15-01-lg.webp" alt="xiaomi RedmiBook 15" />
                      Laptop Andalan Masa Kini jatuh pada Xiaomi RedmiBook 15 resmi meluncurkan produk andalan laptop pertama di Indonesia Xiaomi RedmiBook 15, pada Juli lalu. Meskipun Tampilan Layar relatif lebar, perangkat ini dirancang agar simpel serta mudah dibawa kemana saja, dengan ketebalan 19,9mm dan bobot 1,8&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://teknomid.com/media/posts/9/redmibook-15-01-lg.webp" alt="iaomi RedmiBook 15" />
+                    <img src="https://teknomid.com/media/posts/9/redmibook-15-01-lg.webp" alt="xiaomi RedmiBook 15" />
                 <p><!-- wp:paragraph --></p>
 <p>Laptop Andalan Masa Kini  jatuh pada <a href="http://www.mi.co.id/">Xiaomi</a>  RedmiBook 15 resmi meluncurkan produk andalan laptop pertama di Indonesia Xiaomi RedmiBook 15, pada Juli lalu. <br>Meskipun Tampilan Layar relatif lebar, perangkat ini dirancang agar simpel serta mudah dibawa kemana saja, dengan ketebalan 19,9mm dan bobot 1,8 kg.</p>
 <p><!-- /wp:paragraph --></p>
@@ -127,17 +127,19 @@
         </author>
         <link href="https://teknomid.com/ics-compute-raih-penghargaan-ke-2-aws-consulting-partner-of-the-year-2021/"/>
         <id>https://teknomid.com/ics-compute-raih-penghargaan-ke-2-aws-consulting-partner-of-the-year-2021/</id>
+            <category term="CLOUD"/>
+            <category term="AWS Cloud"/>
 
-        <updated>2021-11-18T11:26:31+07:00</updated>
+        <updated>2021-11-19T10:52:03+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://teknomid.com/media/posts/5/penghargaan-aws.webp" alt="" />
+                        <img src="https://teknomid.com/media/posts/5/penghargaan-aws.webp" alt="AWS" />
                      ICS Compute Raih Penghargaan ke-2, perusahaan System Integrator yang berfokus pada Cloud Computing, meraih penghargaan Amazon Web Services (AWS) Consulting Partner of the Year tahun 2021 di Indonesia pada AWS Partner Summit Online 2021. Setiap tahun, AWS memberikan penghargaan bagi partner AWS yang terdepan&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://teknomid.com/media/posts/5/penghargaan-aws.webp" alt="" />
+                    <img src="https://teknomid.com/media/posts/5/penghargaan-aws.webp" alt="AWS" />
                 <p><!-- wp:paragraph --></p>
 <p><a href="#INTERNAL_LINK#/post/null" title="https://icscompute.com">ICS Compute</a> Raih Penghargaan ke-2, perusahaan System Integrator yang berfokus pada Cloud Computing, meraih penghargaan Amazon Web Services (AWS) Consulting Partner of the Year tahun 2021 di Indonesia pada AWS Partner Summit Online 2021. <br><br>Setiap tahun, <a href="https://aws.amazon.com/" data-type="URL" data-id="https://aws.amazon.com/">AWS</a> memberikan penghargaan bagi partner <a href="https://aws.amazon.com/" data-type="URL" data-id="https://aws.amazon.com/" target="_blank" rel="noreferrer noopener">AWS</a> yang terdepan dalam membantu pelanggan mendorong inovasi bisnis.</p>
 <p><!-- /wp:paragraph --></p>
@@ -189,17 +191,18 @@
         </author>
         <link href="https://teknomid.com/perintah-dasar-linux/"/>
         <id>https://teknomid.com/perintah-dasar-linux/</id>
+            <category term="SYSTEM"/>
 
-        <updated>2021-11-18T11:28:15+07:00</updated>
+        <updated>2021-11-19T10:52:57+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://teknomid.com/media/posts/3/up1-lg.webp" alt="" />
+                        <img src="https://teknomid.com/media/posts/3/up1-lg.webp" alt="Linux" />
                      Perintah Dasar Linux adalah awal pembelajaran ketika ingat dengan Linux, kebanyakan orang berpikir tentang sistem operasi rumit yang hanya digunakan oleh programmer. Tapi itu tidak menakutkan seperti kelihatannya. Linux adalah seluruh keluarga sistem operasi Unix open-source, yang didasarkan pada Kernel Linux. Ini mencakup semua&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://teknomid.com/media/posts/3/up1-lg.webp" alt="" />
+                    <img src="https://teknomid.com/media/posts/3/up1-lg.webp" alt="Linux" />
                 <p><!-- wp:group --></p>
 <div class="wp-block-group">
 <p><!-- wp:paragraph {"tdMaxWidth":1097} --></p>
@@ -264,23 +267,102 @@
         </content>
     </entry>
     <entry>
+        <title>Download Windows 11 Melalui Rufus</title>
+        <author>
+            <name>Teknomid</name>
+        </author>
+        <link href="https://teknomid.com/download-windows-11-melalui-rufus/"/>
+        <id>https://teknomid.com/download-windows-11-melalui-rufus/</id>
+            <category term="SYSTEM"/>
+
+        <updated>2021-11-19T10:53:42+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://teknomid.com/media/posts/2/asas.jpg" alt="Windows 11" />
+                     Windows 11 baru-baru ini sangat banyak di perbincangkan di dunia dan rufus mencoba langsung update meta download ISO jagoan windows satu ini. Pada versi Rufus terbaru, kamu sudah langsung dapat mendownload file ISO Windows-11 dari berbagai versi Windows untuk selanjutnya kamu simpan dan gunakan&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://teknomid.com/media/posts/2/asas.jpg" alt="Windows 11" />
+                <p><!-- wp:paragraph --></p>
+<p>Windows 11 baru-baru ini sangat banyak di perbincangkan di dunia dan rufus mencoba langsung update meta download ISO jagoan windows satu ini.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Pada versi Rufus terbaru, kamu sudah langsung dapat mendownload file ISO Windows-11 dari berbagai versi Windows untuk selanjutnya kamu simpan dan gunakan nanti.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Selain kamu dapat mendownload file instalasi Windows 11 secara langsung dari halaman Microsoft, kamu juga dapat mendownloadnya di Rufus loh, dan langkahnya sangat sederhana, berikut WinPoin rangkum langkah singkatnya.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:yoast/how-to-block {"steps":[{"id":"how-to-step-1636200741879","name":["Langkah-Pertama"],"text":["Silahkan kamu download versi Rufus terbaru terlebih dahulu (kamu bisa mendownloadnya ",{"type":"a","props":{"href":"https://rufus.ie/en/","children":["disini"]}},")"],"jsonName":"Langkah-Pertama","jsonText":"Silahkan kamu download versi Rufus terbaru terlebih dahulu (kamu bisa mendownloadnya \u003ca href=\u0022https://rufus.ie/en/\u0022\u003edisini\u003c/a\u003e)"},{"id":"how-to-step-1636200821995","name":["Langkah-Kedua"],"text":["Silahkan kamu buka Rufus yang sudah di download dan klik pada tombol panah Download disamping Boot selection.",{"type":"br","props":{"children":[]}},{"type":"img","props":{"alt":"Rufu Downoad Windows 11","src":"https://teknomid.com/media/posts/2/rufus01-2.webp","children":[]}}],"jsonName":"Langkah-Kedua","jsonText":"Silahkan kamu buka Rufus yang sudah di download dan klik pada tombol panah Download disamping Boot selection.\u003cbr/\u003e\u003cimg alt=\u0022Rufu Downoad Windows 11\u0022 src=\u0022https://teknomid.com/media/posts/2/rufus01-2.webp\u0022/\u003e","jsonImageSrc":"https://teknomid.com/media/posts/2/rufus01-2.webp"},{"id":"how-to-step-1636201055796","name":["Langkah-Ketiga"],"text":["Langkah Selanjutnya, silahkan kamu klik tombol Download dan Pilih Windows 11 ",{"type":"br","props":{"children":[]}},{"type":"br","props":{"children":[]}},{"type":"img","props":{"alt":"","src":"https://teknomid.com/media/posts/2/Windows-11.webp","children":[]}}],"jsonName":"Langkah-Ketiga","jsonText":"Langkah Selanjutnya, silahkan kamu klik tombol Download dan Pilih Windows 11 \u003cbr/\u003e\u003cbr/\u003e\u003cimg alt=\u0022\u0022 src=\u0022https://teknomid.com/media/posts/2/Windows-11.webp\u0022/\u003e","jsonImageSrc":"https://teknomid.com/media/posts/2/Windows-11.webp"},{"id":"how-to-step-1636202044600","name":["Langkah-KeEmpat"],"text":["Di Tahap Selanjutnya akan di arahkan memilih Version, Release, Edition, Language, Architecture, (Rekomendasi Ceklist ",{"type":"strong","props":{"children":["Download Using a Browser"]}}," agar lebih mudah dan bisa langsung native download lewat ",{"type":"a","props":{"href":"https://www.internetdownloadmanager.com/","target":"_blank","rel":"noreferrer noopener","children":["IDM"]}},") dan Click Download ",{"type":"br","props":{"children":[]}},{"type":"img","props":{"alt":"","src":"https://teknomid.com/media/posts/2/Continue.png","children":[]}}],"jsonName":"Langkah-KeEmpat","jsonText":"Di Tahap Selanjutnya akan di arahkan memilih Version, Release, Edition, Language, Architecture, (Rekomendasi Ceklist \u003cstrong\u003eDownload Using a Browser\u003c/strong\u003e agar lebih mudah dan bisa langsung native download lewat \u003ca href=\u0022https://www.internetdownloadmanager.com/\u0022 target=\u0022_blank\u0022 rel=\u0022noreferrer noopener\u0022\u003eIDM\u003c/a\u003e) dan Click Download \u003cbr/\u003e\u003cimg alt=\u0022\u0022 src=\u0022https://teknomid.com/media/posts/2/Continue.png\u0022/\u003e","jsonImageSrc":"https://teknomid.com/media/posts/2/Continue.png"},{"id":"how-to-step-1636202677530","name":["Langkang-KeLima"],"text":["Langkah ini akan di bawakan ke Drive atau tempat dimana akan menyimpan File ISO Windows 11 yang akan kita Proses Download",{"type":"br","props":{"children":[]}},"Baca-Juga: ",{"type":"a","props":{"href":"https://teknomid.com/applikasi-design-gratis/","target":"_blank","rel":"noreferrer noopener","children":["Applikasi Desain Gratis"]}}," ",{"type":"br","props":{"children":[]}},{"type":"img","props":{"alt":"","src":"https://teknomid.com/media/posts/2/save-as.webp","children":[]}},{"type":"br","props":{"children":[]}},"dan tunggu hingga selesai",{"type":"br","props":{"children":[]}}],"jsonName":"Langkang-KeLima","jsonText":"Langkah ini akan di bawakan ke Drive atau tempat dimana akan menyimpan File ISO Windows 11 yang akan kita Proses Download\u003cbr/\u003eBaca-Juga: \u003ca href=\u0022https://teknomid.com/applikasi-design-gratis/\u0022 target=\u0022_blank\u0022 rel=\u0022noreferrer noopener\u0022\u003eApplikasi Desain Gratis\u003c/a\u003e \u003cbr/\u003e\u003cimg alt=\u0022\u0022 src=\u0022https://teknomid.com/media/posts/2/save-as.webp\u0022/\u003e\u003cbr/\u003edan tunggu hingga selesai\u003cbr/\u003e","jsonImageSrc":"https://teknomid.com/media/posts/2/save-as.webp"},{"id":"how-to-step-1636203131352","name":["Langkah-KeEnam"],"text":["Progress Download File ISO Melalui Browser tanpa IDM",{"type":"br","props":{"children":[]}},{"type":"img","props":{"alt":"","src":"https://teknomid.com/media/posts/2/download.webp","children":[]}}],"jsonName":"Langkah-KeEnam","jsonText":"Progress Download File ISO Melalui Browser tanpa IDM\u003cbr/\u003e\u003cimg alt=\u0022\u0022 src=\u0022https://teknomid.com/media/posts/2/download.webp\u0022/\u003e","jsonImageSrc":"https://teknomid.com/media/posts/2/download.webp"}],"unorderedList":false,"defaultDurationText":"Waktu yang dibutuhkan:"} --></p>
+<div class="schema-how-to wp-block-yoast-how-to-block">
+<p class="schema-how-to-description"> </p>
+<ol class="schema-how-to-steps">
+<li id="how-to-step-1636200741879" class="schema-how-to-step"><strong class="schema-how-to-step-name">Langkah-Pertama</strong>
+<p class="schema-how-to-step-text">Silahkan kamu download versi Rufus terbaru terlebih dahulu (kamu bisa mendownloadnya <a href="https://rufus.ie/en/">disini</a>)</p>
+</li>
+<li id="how-to-step-1636200821995" class="schema-how-to-step"><strong class="schema-how-to-step-name">Langkah-Kedua</strong>
+<p class="schema-how-to-step-text">Silahkan kamu buka Rufus yang sudah di download dan klik pada tombol panah Download disamping Boot selection.<br><img loading="lazy" src="https://teknomid.com/media/posts/2/rufus01-2.webp" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.com/media/posts/2/responsive/rufus01-2-xs.webp 300w ,https://teknomid.com/media/posts/2/responsive/rufus01-2-sm.webp 480w ,https://teknomid.com/media/posts/2/responsive/rufus01-2-md.webp 768w ,https://teknomid.com/media/posts/2/responsive/rufus01-2-lg.webp 1024w ,https://teknomid.com/media/posts/2/responsive/rufus01-2-xl.webp 1360w ,https://teknomid.com/media/posts/2/responsive/rufus01-2-2xl.webp 1600w"  alt="Rufu Downoad Windows 11"></p>
+</li>
+<li id="how-to-step-1636201055796" class="schema-how-to-step"><strong class="schema-how-to-step-name">Langkah-Ketiga</strong>
+<p class="schema-how-to-step-text">Langkah Selanjutnya, silahkan kamu klik tombol Download dan Pilih Windows 11 <br><br><img loading="lazy" src="https://teknomid.com/media/posts/2/Windows-11.webp" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.com/media/posts/2/responsive/Windows-11-xs.webp 300w ,https://teknomid.com/media/posts/2/responsive/Windows-11-sm.webp 480w ,https://teknomid.com/media/posts/2/responsive/Windows-11-md.webp 768w ,https://teknomid.com/media/posts/2/responsive/Windows-11-lg.webp 1024w ,https://teknomid.com/media/posts/2/responsive/Windows-11-xl.webp 1360w ,https://teknomid.com/media/posts/2/responsive/Windows-11-2xl.webp 1600w"  alt=""></p>
+</li>
+<li id="how-to-step-1636202044600" class="schema-how-to-step"><strong class="schema-how-to-step-name">Langkah-KeEmpat</strong>
+<p class="schema-how-to-step-text">Di Tahap Selanjutnya akan di arahkan memilih Version, Release, Edition, Language, Architecture, (Rekomendasi Ceklist <strong>Download Using a Browser</strong> agar lebih mudah dan bisa langsung native download lewat <a href="https://www.internetdownloadmanager.com/" target="_blank" rel="noreferrer noopener">IDM</a>) dan Click Download <br><img loading="lazy" src="https://teknomid.com/media/posts/2/Continue.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.com/media/posts/2/responsive/Continue-xs.png 300w ,https://teknomid.com/media/posts/2/responsive/Continue-sm.png 480w ,https://teknomid.com/media/posts/2/responsive/Continue-md.png 768w ,https://teknomid.com/media/posts/2/responsive/Continue-lg.png 1024w ,https://teknomid.com/media/posts/2/responsive/Continue-xl.png 1360w ,https://teknomid.com/media/posts/2/responsive/Continue-2xl.png 1600w"  alt=""></p>
+</li>
+<li id="how-to-step-1636202677530" class="schema-how-to-step"><strong class="schema-how-to-step-name">Langkang-KeLima</strong>
+<p class="schema-how-to-step-text">Langkah ini akan di bawakan ke Drive atau tempat dimana akan menyimpan File ISO Windows 11 yang akan kita Proses Download<br>Baca-Juga: <a href="https://teknomid.com/applikasi-design-gratis/" target="_blank" rel="noreferrer noopener">Applikasi Desain Gratis</a> <br><img loading="lazy" src="https://teknomid.com/media/posts/2/save-as.webp" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.com/media/posts/2/responsive/save-as-xs.webp 300w ,https://teknomid.com/media/posts/2/responsive/save-as-sm.webp 480w ,https://teknomid.com/media/posts/2/responsive/save-as-md.webp 768w ,https://teknomid.com/media/posts/2/responsive/save-as-lg.webp 1024w ,https://teknomid.com/media/posts/2/responsive/save-as-xl.webp 1360w ,https://teknomid.com/media/posts/2/responsive/save-as-2xl.webp 1600w"  alt=""><br>dan tunggu hingga selesai</p>
+</li>
+<li id="how-to-step-1636203131352" class="schema-how-to-step"><strong class="schema-how-to-step-name">Langkah-KeEnam</strong>
+<p class="schema-how-to-step-text">Progress Download File ISO Melalui Browser tanpa IDM<br><img loading="lazy" src="https://teknomid.com/media/posts/2/download.webp" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.com/media/posts/2/responsive/download-xs.webp 300w ,https://teknomid.com/media/posts/2/responsive/download-sm.webp 480w ,https://teknomid.com/media/posts/2/responsive/download-md.webp 768w ,https://teknomid.com/media/posts/2/responsive/download-lg.webp 1024w ,https://teknomid.com/media/posts/2/responsive/download-xl.webp 1360w ,https://teknomid.com/media/posts/2/responsive/download-2xl.webp 1600w"  alt=""></p>
+</li>
+</ol>
+</div>
+<p><!-- /wp:yoast/how-to-block --></p>
+<p><!-- wp:paragraph --></p>
+<p>Proses Selanjutnya kita sudah bisa membuat bootable installer Windows 11 dengan Rufus lewat USB Drive ataupun CD-Drive.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:yoast-seo/related-links {"status":"loaded"} --></p>
+<ul class="wp-block-yoast-seo-related-links">
+<li><a href="https://teknomid.com/mengatasi-whatsapp-yang-sudah-kadaluarsa/">Mengatasi Whatsapp yang sudah Kadaluarsa</a></li>
+<li><a href="https://teknomid.com/perintah-dasar-linux/">Perintah Dasar Linux</a></li>
+<li><a href="https://teknomid.com/linux-debianos-kenali-dahulu-baru-sayangi/">DebianOS "Kenali Dahulu Baru Sayangi"</a></li>
+<li><a href="https://teknomid.com/aplikasi-design-di-linux-dan-windows-open-source/">Aplikasi Desain di Linux dan Windows Open Source</a></li>
+</ul>
+<p><!-- /wp:yoast-seo/related-links --></p>
+<p><!-- wp:html --></p>
+<div class="wp-block-yoast-seo-table-of-contents yoast-table-of-contents">
+<h3>Step By Step</h3>
+<h4>1. Hubungkan perangkat flash disk atau penyimpanan sejenis. Pastikan letter drive telah sesuai dengan target bootable.<br>2. Klik opsi SELECT dan pilih file ISO Windows 11 yang kamu miliki.<br>3. Pilih opsi antara Standard Windows Installation atau Windows To Go. Jika ingin melakukan installasi biasa, maka pilih Standard Windows Installation.<br>4. Pilih GPT.<br>5. Bergantung pada langkah ke-4. Lebih lanjut penjelasan bisa kamu lihat pada bagian bawah.<br>5. Untuk bagian Name Kamu bisa menggantinya atau membiarkannya default.<br>Karena Windows 11 hanya mendukung UEFI, maka pilih GPT<br>Silahkan tunggu proses pembuatan bootablenya.</h4>
+</div>
+<p><!-- /wp:html --></p>
+<p><!-- wp:paragraph --></p>
+<p>Semoga bermanfaat buat teman-teman teknomid.com</p>
+<p><!-- /wp:paragraph --></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Linux DebianOS &quot;Kenali Dahulu Baru Sayangi&quot;</title>
         <author>
             <name>Teknomid</name>
         </author>
         <link href="https://teknomid.com/linux-debianos-kenali-dahulu-baru-sayangi/"/>
         <id>https://teknomid.com/linux-debianos-kenali-dahulu-baru-sayangi/</id>
+            <category term="SYSTEM"/>
 
-        <updated>2021-11-18T06:57:53+07:00</updated>
+        <updated>2021-11-19T10:54:39+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://teknomid.com/media/posts/1/debian-wheezy-download.webp" alt="DebianOS" />
+                        <img src="https://teknomid.com/media/posts/1/debian-wheezy-download.webp" alt="Linux DebianOS" />
                      Linux DebianOS adalah sebuah sistem operasi yang tersusun dari paket-paket perangkat lunak yang dirilis sebagai perangkat lunak bebas dan terbuka dengan lisensi mayoritas GNU General Public License Linux Debian GNU/Linux memuat perkakas sistem operasi GNU dan kernel Linux merupakan distribusi Linux yang populer dan berpengaruh. Debian didistribusikan dengan akses ke&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://teknomid.com/media/posts/1/debian-wheezy-download.webp" alt="DebianOS" />
+                    <img src="https://teknomid.com/media/posts/1/debian-wheezy-download.webp" alt="Linux DebianOS" />
                 <p><!-- wp:paragraph --></p>
 <p><strong>Linux DebianOS</strong> adalah sebuah sistem operasi  yang tersusun dari paket-paket perangkat lunak yang dirilis sebagai perangkat lunak bebas dan terbuka dengan lisensi mayoritas <em>GNU General Public License</em></p>
 <p><!-- /wp:paragraph --></p>
