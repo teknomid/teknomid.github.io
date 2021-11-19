@@ -5,6 +5,9 @@
 <loc>https://teknomid.com/</loc>
 </url>
 <url>
+<loc>https://teknomid.com/page/2/</loc>
+</url>
+<url>
 <loc>https://teknomid.com/linux-debianos-kenali-dahulu-baru-sayangi/</loc>
 <lastmod>2021-11-19T10:54:39+07:00</lastmod>
 <image:image>
@@ -130,6 +133,14 @@
 <image:image>
 <image:loc>https://teknomid.com/media\posts\10/macos.webp</image:loc>
 <image:title><![CDATA[MacOS VS Microsoft Windows]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://teknomid.com/membuat-wifi-sendiri-di-rumah/</loc>
+<lastmod>2021-11-19T15:18:47+07:00</lastmod>
+<image:image>
+<image:loc>https://teknomid.com/media\posts\11/wifi.webp</image:loc>
+<image:title><![CDATA[Membuat wifi sendiri di rumah]]></image:title>
 </image:image>
 </url>
 </urlset>
