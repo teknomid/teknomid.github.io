@@ -21,10 +21,10 @@
                 "name": "Teknomid"
             },
             "tags": [
-                   "SYSTEM"
+                   "TECH &amp; GADGETS"
             ],
             "date_published": "2021-11-19T15:18:47+07:00",
-            "date_modified": "2021-11-19T15:22:03+07:00"
+            "date_modified": "2021-11-19T16:02:35+07:00"
         },
         {
             "id": "https://teknomid.com/perbandingan-device-laptop-os-windows-dan-machintos/",
@@ -37,10 +37,13 @@
                 "name": "Teknomid"
             },
             "tags": [
-                   "SYSTEM"
+                   "Windows",
+                   "TECH &amp; GADGETS",
+                   "SYSTEM",
+                   "Laptop"
             ],
             "date_published": "2021-11-19T14:37:36+07:00",
-            "date_modified": "2021-11-19T14:44:35+07:00"
+            "date_modified": "2021-11-19T16:03:02+07:00"
         },
         {
             "id": "https://teknomid.com/laptop-andalan-masa-kini-xiaomi-redmibook-15/",
@@ -72,7 +75,7 @@
                    "AWS Cloud"
             ],
             "date_published": "2021-10-16T18:06:52+07:00",
-            "date_modified": "2021-11-19T10:52:03+07:00"
+            "date_modified": "2021-11-19T16:04:54+07:00"
         },
         {
             "id": "https://teknomid.com/perintah-dasar-linux/",
@@ -85,10 +88,11 @@
                 "name": "Teknomid"
             },
             "tags": [
-                   "SYSTEM"
+                   "SYSTEM",
+                   "Linux"
             ],
             "date_published": "2021-10-16T17:02:35+07:00",
-            "date_modified": "2021-11-19T10:52:57+07:00"
+            "date_modified": "2021-11-19T16:05:31+07:00"
         },
         {
             "id": "https://teknomid.com/download-windows-11-melalui-rufus/",
@@ -101,10 +105,11 @@
                 "name": "Teknomid"
             },
             "tags": [
+                   "Windows",
                    "SYSTEM"
             ],
             "date_published": "2021-10-15T13:34:45+07:00",
-            "date_modified": "2021-11-19T10:53:42+07:00"
+            "date_modified": "2021-11-19T16:05:51+07:00"
         },
         {
             "id": "https://teknomid.com/linux-debianos-kenali-dahulu-baru-sayangi/",
@@ -117,10 +122,11 @@
                 "name": "Teknomid"
             },
             "tags": [
-                   "SYSTEM"
+                   "SYSTEM",
+                   "Linux"
             ],
             "date_published": "2021-10-11T04:19:23+07:00",
-            "date_modified": "2021-11-19T10:54:39+07:00"
+            "date_modified": "2021-11-19T16:06:16+07:00"
         }
     ]
 }

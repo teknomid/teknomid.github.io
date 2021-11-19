@@ -3,7 +3,7 @@
     <title>Portal Teknologi</title>
     <link href="https://teknomid.com/feed.xml" rel="self" />
     <link href="https://teknomid.com" />
-    <updated>2021-11-19T15:22:03+07:00</updated>
+    <updated>2021-11-19T16:06:16+07:00</updated>
     <author>
         <name>Teknomid</name>
     </author>
@@ -16,9 +16,9 @@
         </author>
         <link href="https://teknomid.com/membuat-wifi-sendiri-di-rumah/"/>
         <id>https://teknomid.com/membuat-wifi-sendiri-di-rumah/</id>
-            <category term="SYSTEM"/>
+            <category term="TECH &amp; GADGETS"/>
 
-        <updated>2021-11-19T15:22:03+07:00</updated>
+        <updated>2021-11-19T16:02:35+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://teknomid.com/media/posts/11/wifi.webp" alt="Membuat wifi sendiri di rumah" />
@@ -42,9 +42,12 @@
         </author>
         <link href="https://teknomid.com/perbandingan-device-laptop-os-windows-dan-machintos/"/>
         <id>https://teknomid.com/perbandingan-device-laptop-os-windows-dan-machintos/</id>
+            <category term="Windows"/>
+            <category term="TECH &amp; GADGETS"/>
             <category term="SYSTEM"/>
+            <category term="Laptop"/>
 
-        <updated>2021-11-19T14:44:35+07:00</updated>
+        <updated>2021-11-19T16:03:02+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://teknomid.com/media/posts/10/macos.webp" alt="MacOS VS Microsoft Windows" />
@@ -195,7 +198,7 @@
             <category term="CLOUD"/>
             <category term="AWS Cloud"/>
 
-        <updated>2021-11-19T10:52:03+07:00</updated>
+        <updated>2021-11-19T16:04:54+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://teknomid.com/media/posts/5/penghargaan-aws.webp" alt="AWS" />
@@ -257,8 +260,9 @@
         <link href="https://teknomid.com/perintah-dasar-linux/"/>
         <id>https://teknomid.com/perintah-dasar-linux/</id>
             <category term="SYSTEM"/>
+            <category term="Linux"/>
 
-        <updated>2021-11-19T10:52:57+07:00</updated>
+        <updated>2021-11-19T16:05:31+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://teknomid.com/media/posts/3/up1-lg.webp" alt="Linux" />
@@ -338,9 +342,10 @@
         </author>
         <link href="https://teknomid.com/download-windows-11-melalui-rufus/"/>
         <id>https://teknomid.com/download-windows-11-melalui-rufus/</id>
+            <category term="Windows"/>
             <category term="SYSTEM"/>
 
-        <updated>2021-11-19T10:53:42+07:00</updated>
+        <updated>2021-11-19T16:05:51+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://teknomid.com/media/posts/2/asas.jpg" alt="Windows 11" />
@@ -417,8 +422,9 @@
         <link href="https://teknomid.com/linux-debianos-kenali-dahulu-baru-sayangi/"/>
         <id>https://teknomid.com/linux-debianos-kenali-dahulu-baru-sayangi/</id>
             <category term="SYSTEM"/>
+            <category term="Linux"/>
 
-        <updated>2021-11-19T10:54:39+07:00</updated>
+        <updated>2021-11-19T16:06:16+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://teknomid.com/media/posts/1/debian-wheezy-download.webp" alt="Linux DebianOS" />
