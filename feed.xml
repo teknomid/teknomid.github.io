@@ -3,7 +3,7 @@
     <title>Portal Teknologi</title>
     <link href="https://teknomid.com/feed.xml" rel="self" />
     <link href="https://teknomid.com" />
-    <updated>2021-11-19T16:06:16+07:00</updated>
+    <updated>2021-11-19T16:14:35+07:00</updated>
     <author>
         <name>Teknomid</name>
     </author>
@@ -84,8 +84,10 @@
         </author>
         <link href="https://teknomid.com/laptop-andalan-masa-kini-xiaomi-redmibook-15/"/>
         <id>https://teknomid.com/laptop-andalan-masa-kini-xiaomi-redmibook-15/</id>
+            <category term="TECH &amp; GADGETS"/>
+            <category term="Laptop"/>
 
-        <updated>2021-11-19T10:00:37+07:00</updated>
+        <updated>2021-11-19T16:14:35+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://teknomid.com/media/posts/9/redmibook-15-01-lg.webp" alt="xiaomi RedmiBook 15" />
