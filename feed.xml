@@ -1,131 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Portal Teknologi</title>
-    <link href="https://teknomid.com/feed.xml" rel="self" />
-    <link href="https://teknomid.com" />
-    <updated>2021-11-22T05:52:05+07:00</updated>
+    <link href="https://teknomid.click/feed.xml" rel="self" />
+    <link href="https://teknomid.click" />
+    <updated>2021-11-21T00:10:49+07:00</updated>
     <author>
         <name>Teknomid</name>
     </author>
-    <id>https://teknomid.com</id>
+    <id>https://teknomid.click</id>
 
-    <entry>
-        <title>Cara Mining Crypto di Hiveon Pool (HIVEOS)</title>
-        <author>
-            <name>Teknomid</name>
-        </author>
-        <link href="https://teknomid.com/cara-mining-crypto-di-hiveon-pool-hiveos/"/>
-        <id>https://teknomid.com/cara-mining-crypto-di-hiveon-pool-hiveos/</id>
-            <category term="TECH &amp; GADGETS"/>
-            <category term="Crypto"/>
-
-        <updated>2021-11-22T01:03:37+07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://teknomid.com/media/posts/13/ho-05.webp" alt="hiveos" />
-                    Cara Mining Crypto di Hiveon Pool (HIVEOS) ini tidaklah rumit ketika kita memahami cara kerjanya, dan inipun gratis dan tanpa bagi hasil jika kita hanya memakai 1 RIG dengan catatan configuration di Flight Sheet ini kita pilih pool di HiveOS. Di bawah ini kami hanya&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://teknomid.com/media/posts/13/ho-05.webp" alt="hiveos" />
-                <p>Cara Mining Crypto di Hiveon Pool (HIVEOS)  ini tidaklah rumit ketika kita memahami cara kerjanya, dan inipun gratis dan tanpa bagi hasil jika kita hanya memakai 1 RIG dengan catatan configuration di Flight Sheet ini kita pilih pool di HiveOS.</p>
-<p>Di bawah ini kami hanya memberikan tutorial untuk config Flight Sheet Dasar saja, dan kami semua sobat teknomid sudah punya account hiveosnya .<br>Untuk membuat account gratis di HiveOS bisa di  mengacu ke <a href="https://hiveos.farm?ref=560332" title="https://hiveos.farm?ref=560332" target="_blank" rel="noopener noreferrer">HiveOS-Free</a>.</p>
-<h3>Step 1: Create a Wallet</h3>
-<p>Untuk mulai menambang Ethereum di Pool Hiveon, Anda harus membuat Wallet terlebih dahulu. Untuk melakukan ini, masuk ke system, buka tab Wallet dan klik tombol Tambah Wallet. Anda harus menentukan koin (ETH,ETC...), alamat, nama, dan Sumber Walletnya darimana (ex: binance,indodax...dll).</p>
-<figure class="post__image"><img loading="lazy"  src="https://teknomid.com/media/posts/13/ho-01.webp" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.com/media/posts/13/responsive/ho-01-xs.webp 300w ,https://teknomid.com/media/posts/13/responsive/ho-01-sm.webp 480w ,https://teknomid.com/media/posts/13/responsive/ho-01-md.webp 768w ,https://teknomid.com/media/posts/13/responsive/ho-01-lg.webp 1024w ,https://teknomid.com/media/posts/13/responsive/ho-01-xl.webp 1360w ,https://teknomid.com/media/posts/13/responsive/ho-01-2xl.webp 1600w"  alt="hiveos-01" width="586" height="491"></figure>
-<p>Setelah selesai, klik tombol Create. Dan Wallet Anda sudah siap!</p>
-<h3>Step 2: Create a Flight Sheet</h3>
-<p>Untuk membuat Flight Sheet, buka tab Flight Sheet. Anda akan melihat yang berikut ini:</p>
-<figure class="post__image"><img loading="lazy"  src="https://teknomid.com/media/posts/13/ho-02.webp" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.com/media/posts/13/responsive/ho-02-xs.webp 300w ,https://teknomid.com/media/posts/13/responsive/ho-02-sm.webp 480w ,https://teknomid.com/media/posts/13/responsive/ho-02-md.webp 768w ,https://teknomid.com/media/posts/13/responsive/ho-02-lg.webp 1024w ,https://teknomid.com/media/posts/13/responsive/ho-02-xl.webp 1360w ,https://teknomid.com/media/posts/13/responsive/ho-02-2xl.webp 1600w"  alt="Flight-Sheets" width="599" height="210"></figure>
-<ul>
-<li>Coin: Pilih ETH\</li>
-<li>Wallet: Pilih Walled Ethereum yang tadi kita buat</li>
-<li>Pool: Pilih Hiveon dari dropdown list</li>
-<li>Miner: Pilih preferred miner (Maksudnya disini Tools apa yang akan kita pakai untuk mining , contohnya : PhoenixMiner, IolMiner, TeamRedMiner, T-rex Miner, NanoMiner dan banyak lagi Engine Miner yg sudah satu paket di hiveOS)</li>
-<li>Name: Masukkan Nama untuk Flight Sheet Kamu (optional).</li>
-<li>Click Tombol Create Flight Sheet</li>
-</ul>
-<h3>Step 3: Pastikan Flight Sheet worker berjalan</h3>
-<p>Disini cara untuk menjalankan configuration Flight Sheet yg telah kita buat barusan:</p>
-<figure class="post__image"><img loading="lazy"  src="https://teknomid.com/media/posts/13/ho-04.webp" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.com/media/posts/13/responsive/ho-04-xs.webp 300w ,https://teknomid.com/media/posts/13/responsive/ho-04-sm.webp 480w ,https://teknomid.com/media/posts/13/responsive/ho-04-md.webp 768w ,https://teknomid.com/media/posts/13/responsive/ho-04-lg.webp 1024w ,https://teknomid.com/media/posts/13/responsive/ho-04-xl.webp 1360w ,https://teknomid.com/media/posts/13/responsive/ho-04-2xl.webp 1600w"  alt="list flight-sheet" width="616" height="314"></figure>
-<p>Click Farm Farm &gt; worker &gt; Flight Sheets , di dalam list Flight Sheets fokus perhatikan icon rocket sebelah kanan dan Klik ikon roket tersebut setelah itu klik tombol Apply. Kemudian anda akan melihat pesan yang menyatakan bahwa perintah telah di kirim ke workers.</p>
-<p>Dalam beberapa detik, rig Anda akan menerapkan perubahan, dan Anda akan melihat pesan Config di log Activity:</p>
-<p>Sekarang semuanya sudah siap! Rig Anda akan mulai menambang dan mengirim data ke dasbor. Anda akan dapat mengikuti kinerjanya secara real time.<br><br>Catatan :</p>
-<blockquote>
-<p><br><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><a href="https://hiveos.farm?ref=560332" title="https://hiveos.farm?ref=560332" target="_blank" rel="noopener noreferrer">HiveOS di kasih gratis dan bisa runing di Flashdisk jadi live-OS intinya kita bisa mining di Perangkat mana saja asalkan HiveOS yg kita buat di FlashDrive ini booting ke system.</a></span></p>
-<p><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Jadi Keuntunganya "Mining  gak harus di satu tempat dan di satu device yang sama" </span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Keunggulannya adalah Full Gratis kita hanya bermodal RIG saja dan silahkan Menambang Crypto di Hiveon Pool semampumu.</span></p>
-<p><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Di HiveOS ini Masih banyak sekali Feature-Feature yang bermanfaat, </span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">seperti Overclocking Template ( Menyesuaikan Type ataupun Model VGA/GPU yang kita pakai saat nanti mining di pool Hiveon.</span></p>
-<p><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Adanya Notification lewat Telegram ketika RIG kita ada yang problem atau pun payload yang di kirimkan oleh hiveos ke hiveon pool bermasalah.</span></p>
-</blockquote>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Distro Linux Terbaik Untuk Developers di Tahun 2021</title>
-        <author>
-            <name>Teknomid</name>
-        </author>
-        <link href="https://teknomid.com/distro-linux-terbaik-untuk-developers-di-tahun-2021/"/>
-        <id>https://teknomid.com/distro-linux-terbaik-untuk-developers-di-tahun-2021/</id>
-            <category term="SYSTEM"/>
-            <category term="Linux"/>
-            <category term="Laptop"/>
-            <category term="HandPhone"/>
-            <category term="CLOUD"/>
-
-        <updated>2021-11-22T05:52:05+07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://teknomid.com/media/posts/12/Linux-2.webp" alt="Distro Linux" />
-                    Distro Linux Terbaik Untuk Developer di Tahun 2021 Distro Linux terbaik untuk developer yang mudah, stabil, dan aman untuk scripting dan pemrograman aplikasi untuk internet, Android, dan cloud. Ini semakin penting, karena Linux mendukung tulang punggung internet, perangkat seluler, dan sekarang sistem Cloud Computing. Oleh&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://teknomid.com/media/posts/12/Linux-2.webp" alt="Distro Linux" />
-                <h3>Distro Linux Terbaik Untuk Developer di Tahun 2021</h3>
-<p>Distro Linux terbaik untuk developer  yang mudah, stabil, dan aman untuk scripting dan pemrograman aplikasi untuk internet, Android, dan cloud.<br><br>Ini semakin penting, karena Linux mendukung tulang punggung internet, perangkat seluler, dan sekarang sistem Cloud Computing.<br><br>Oleh karena itu, seringkali para developer handal sudah terbiasa memulai projectnya di atas Linux, terutama untuk mengoperasikan server dan untuk mengembangkan perangkat lunak yang berjalan di atasnya.<br><br>Sementara Linux memiliki reputasi sebagai pembuat kode dan pemrogram, selama beberapa dekade terakhir telah ada langkah untuk menyediakan versi Linux yang lebih ramah bagi penggunanya, seperti dengan menyediakan lebih banyak graphic user interface  (GUI) dan kurang bergantung pada penggunaan command line.<br><br>Namun, pada intinya Linux masih menawarkan distro linux yang berkembang berkembang untuk scripting dan developer.<br><br>Berikut adalah sistem operasi Linux terbaik yang akan membantu sobat teknomid membuat custom programming  dan development workstation sobat.</p>
-<h3>1. Manjaro</h3>
-<figure class="post__image"><img loading="lazy"  src="https://teknomid.com/media/posts/12/578x4Rj7_400x400.webp" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.com/media/posts/12/responsive/578x4Rj7_400x400-xs.webp 300w ,https://teknomid.com/media/posts/12/responsive/578x4Rj7_400x400-sm.webp 480w ,https://teknomid.com/media/posts/12/responsive/578x4Rj7_400x400-md.webp 768w ,https://teknomid.com/media/posts/12/responsive/578x4Rj7_400x400-lg.webp 1024w ,https://teknomid.com/media/posts/12/responsive/578x4Rj7_400x400-xl.webp 1360w ,https://teknomid.com/media/posts/12/responsive/578x4Rj7_400x400-2xl.webp 1600w"  alt="" width="256" height="256"></figure>
-<p>Kenapa harus manjaro ....? , di bawah ini akan kita coba paparkan kenapa manjaro masuk sebagai salah satu Distro Linux untuk Developer.</p>
-<p>Manjaro adalah baseon Arch Linux dimana system ini sangatlah bisa di custom sendiri sesuai dengan keinginan para developer system maupun applikasi.</p>
-<p><span style="text-decoration: line-through;"><em>Baca Juga: Manjaro Linux 2021(edited)</em></span></p>
-<p>Sekilas kita coba cari tahu dulu apa itu arch linux,<br>Arch Linux adalah sebuah distribusi Linux berbasis biner, yang artinya, paket-paket aplikasi didistribusikan dalam bentuk yang telah terkompilasi. Distro ini pendekatannya dengan desain pengembang, distro ini berfokus pada kesederhanaan, kebenaran program dan minimalisme.</p>
-<p>Arch Linux sangatlah powerful yang bisa kita gunakan dan membuat customized  untuk environment kita sendiri. Namun menginstall Arch Linux ini sangatlah melelahkan, dan MANJARO menawarkan Distronya dengan GUI frendly.<br><br>Manjaro menyediakan dalam beberapa edisi dengan desktop environment yang berbeda. Jika sobat adalah developer Qt, Anda dapat menggunakan distro edisi KDE, yang disertakan dengan tools seperti Qt Designer dan Qt Assistant untuk membantu Anda dalam development.</p>
-<p>Manjaro mengklaim distro tersebut dilengkapi dengan tools yang diperlukan untuk compile dan develop software untuk developer. Di manjaro ini Anda dapat menggunakan manajer paket intuitif Manjaro untuk menginstal IDE dengan mudah seperti Qt Creator, KDevelop atau Netbeans dan library seperti libnoise, boost, atau matplotlib. Tentu saja selain repositorinya sendiri, Anda juga dapat mengakses Arch User Repository (AUR) yang komprehensif untuk menampung semua jenis tools dan library yang kita butuhkan.</p>
-<h3>2. Puppy Linux</h3>
-<figure class="post__image"><img loading="lazy"  src="https://teknomid.com/media/posts/12/1200px-Puppy_logo.svg.webp" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.com/media/posts/12/responsive/1200px-Puppy_logo.svg-xs.webp 300w ,https://teknomid.com/media/posts/12/responsive/1200px-Puppy_logo.svg-sm.webp 480w ,https://teknomid.com/media/posts/12/responsive/1200px-Puppy_logo.svg-md.webp 768w ,https://teknomid.com/media/posts/12/responsive/1200px-Puppy_logo.svg-lg.webp 1024w ,https://teknomid.com/media/posts/12/responsive/1200px-Puppy_logo.svg-xl.webp 1360w ,https://teknomid.com/media/posts/12/responsive/1200px-Puppy_logo.svg-2xl.webp 1600w"  alt="puppy linux" width="256" height="256"></figure>
-<p>Puppy Linux adalah distro yang sangat ringan yang memiliki edisi terpisah berdasarkan Ubuntu dan Slackware. Seluruh OS cukup kecil untuk dijalankan sepenuhnya dalam RAM, yang membuatnya sangat cepat dan responsif. Anda juga dapat menambatkan distro ke hard disk Anda.<br><br>Meskipun ukurannya kecil, tidak ada yang mengalahkan Puppy untuk box functionality. Distro dikirimkan dengan aplikasi dan utilitas untuk hampir semua fungsi yang dapat Anda lakukan di desktop.<br><br>Ada beberapa mekanisme untuk menginstal aplikasi di Puppy. Salah satu yang paling nyaman melibatkan file SFS (SquashFS), yang merupakan lingkungan terkompresi yang mengemas satu atau lebih aplikasi dan semua dependensi yang diperlukan. Jika Anda ingin mengembangkan di Puppy Anda dapat menggunakan file devx SFS yang berisi berbagai tools development dan build.<br><br>Selain itu, Puppy Linux memiliki pengantar yang bagus untuk pemrograman, yang merupakan titik awal yang baik untuk pengembang baru. Halaman ini juga menunjukkan cara menginstal dukungan untuk lebih dari selusin bahasa pemrograman dalam instalasi Puppy Anda.</p>
-<h3>3. Solus</h3>
-<figure class="post__image"><img loading="lazy"  src="https://teknomid.com/media/posts/12/512px-Solus.svg.webp" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.com/media/posts/12/responsive/512px-Solus.svg-xs.webp 300w ,https://teknomid.com/media/posts/12/responsive/512px-Solus.svg-sm.webp 480w ,https://teknomid.com/media/posts/12/responsive/512px-Solus.svg-md.webp 768w ,https://teknomid.com/media/posts/12/responsive/512px-Solus.svg-lg.webp 1024w ,https://teknomid.com/media/posts/12/responsive/512px-Solus.svg-xl.webp 1360w ,https://teknomid.com/media/posts/12/responsive/512px-Solus.svg-2xl.webp 1600w"  alt="" width="256" height="256"></figure>
-<p>Solus istimewa karena merupakan salah satu dari sedikit distro Linux Irlandia, dan juga karena mengikuti model rilis rolling yang dikuratori. Keuntungannya adalah setelah Anda menginstal OS, Anda dapat terus menjalankan pembaruan daripada peningkatan besar-besaran. Solus, bagaimanapun, mencoba untuk menghindari menginstal paket yang sangat baru dan perangkat lunak beta untuk menjaga stabilitas sistem.<br><br>Distro mengklaim penggunaannya sebagai development yang ideal untuk pengembang. Solus mendukung beberapa editor dan IDE seperti Atom, Idea dan Gnome Builder, serta beberapa sistem kontrol versi termasuk Git, Bazaar, dan lainnya melalui alat grafis seperti GitKraken dan git-cola. Situs web proyek Solus juga mengklaim bahwa OS tersebut mendukung sejumlah bahasa pemrograman seperti Go, Rust, PHP, Node.js, dan Ruby.<br><br>Jadi sementara distro mungkin tidak dikirimkan dengan "very many tools out of the book", Anda dapat dengan mudah menyempurnakannya  development anda dengan toolschain.</p>
-<h3>4. Ubuntu</h3>
-<figure class="post__image"><img loading="lazy"  src="https://teknomid.com/media/posts/12/ubuntu.webp" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.com/media/posts/12/responsive/ubuntu-xs.webp 300w ,https://teknomid.com/media/posts/12/responsive/ubuntu-sm.webp 480w ,https://teknomid.com/media/posts/12/responsive/ubuntu-md.webp 768w ,https://teknomid.com/media/posts/12/responsive/ubuntu-lg.webp 1024w ,https://teknomid.com/media/posts/12/responsive/ubuntu-xl.webp 1360w ,https://teknomid.com/media/posts/12/responsive/ubuntu-2xl.webp 1600w"  alt="Ubuntu" width="256" height="256"></figure>
-<p>Ubuntu adalah salah satu distro Linux paling populer untuk semua jenis pengguna, dari pemula Linux hingga juru kampanye berpengalaman. Untuk programmer, rilis Ubuntu Long Term Support (LTS) menyediakan lingkungan pengembangan yang stabil sehingga mereka tidak perlu memutakhirkan setiap enam bulan.<br><br>Faktanya, Ubuntu adalah distro yang dipilih dari Android Open Source Project untuk membangun sources files. Build Android diuji secara rutin menggunakan versi Ubuntu terbaru. Situs web resmi distro menyelenggarakan beberapa tutorial, panduan, dan sumber daya lainnya yang bertujuan untuk mengesankan pengembangan dan kecakapan pemrograman distro.<br><br>Karena popularitasnya, Anda dapat menemukan hampir semua alat dan pustaka pengembangan dan pemrograman di repositori resmi Ubuntu atau di Arsip Paket Pribadi (PPA). Dengan diperkenalkannya format kemasan snap, menginstal perangkat lunak baru adalah proses yang mudah.<br><br>Selain itu, Ubuntu memiliki developer friendly command-line yaitu tools ramah pengembang yang disebut <strong>Ubuntu Make</strong> yang dapat Anda gunakan untuk mengunduh beberapa alat ramah pengembang.</p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Membuat Wifi Sendiri di Rumah</title>
         <author>
             <name>Teknomid</name>
         </author>
-        <link href="https://teknomid.com/membuat-wifi-sendiri-di-rumah/"/>
-        <id>https://teknomid.com/membuat-wifi-sendiri-di-rumah/</id>
+        <link href="https://teknomid.click/membuat-wifi-sendiri-di-rumah/"/>
+        <id>https://teknomid.click/membuat-wifi-sendiri-di-rumah/</id>
             <category term="TECH &amp; GADGETS"/>
 
         <updated>2021-11-19T16:02:35+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://teknomid.com/media/posts/11/wifi.webp" alt="Membuat wifi sendiri di rumah" />
+                        <img src="https://teknomid.click/media/posts/11/wifi.webp" alt="Membuat wifi sendiri di rumah" />
                     Membuat wifi sendiri di rumah...... gak serumit yang kita bayangkan looh..! Banyak orang sekarang mencari-cari cara untuk membuat wifi sendiri, karena sekarang mereka tidak dapat melakukannya tanpa internet. Kita terpaksa menggunakannya di hampir semua situasi, seperti pekerja kantoran, bermain media sosial, berbisnis, dan sebagainya. Di&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://teknomid.com/media/posts/11/wifi.webp" alt="Membuat wifi sendiri di rumah" />
+                    <img src="https://teknomid.click/media/posts/11/wifi.webp" alt="Membuat wifi sendiri di rumah" />
                 <h3>Membuat wifi sendiri di rumah......</h3>
 <p>gak serumit yang kita bayangkan looh..!</p>
 <p>Banyak orang sekarang mencari-cari cara untuk membuat wifi sendiri, karena sekarang mereka tidak dapat melakukannya tanpa internet. <br><br>Kita terpaksa menggunakannya di hampir semua situasi, seperti pekerja kantoran, bermain media sosial, berbisnis, dan sebagainya. <br><br>Di masa lalu, jika Anda ingin menjelajahi Internet, Anda harus menggunakan saluran telepon, dan waktu serta teknologi terus berkembang. <br><br>Baca juga: --<br><br>Kini Wifi menjadi solusi dan pilihan banyak orang. Internet yang cepat dan stabil adalah yang kita semua inginkan. <br>Nah, untuk akses internetnya bukan hanya penyedia wifi, bahkan bisa dibuat sendiri di rumah. </p>
@@ -138,8 +40,8 @@
         <author>
             <name>Teknomid</name>
         </author>
-        <link href="https://teknomid.com/perbandingan-device-laptop-os-windows-dan-machintos/"/>
-        <id>https://teknomid.com/perbandingan-device-laptop-os-windows-dan-machintos/</id>
+        <link href="https://teknomid.click/perbandingan-device-laptop-os-windows-dan-machintos/"/>
+        <id>https://teknomid.click/perbandingan-device-laptop-os-windows-dan-machintos/</id>
             <category term="Windows"/>
             <category term="TECH &amp; GADGETS"/>
             <category term="SYSTEM"/>
@@ -148,13 +50,13 @@
         <updated>2021-11-19T16:03:02+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://teknomid.com/media/posts/10/macos.webp" alt="MacOS VS Microsoft Windows" />
+                        <img src="https://teknomid.click/media/posts/10/macos.webp" alt="MacOS VS Microsoft Windows" />
                     Perbandingan Device Laptop maupun Desktop dengan Operating system Windows dan Machintosh, dibawah ini kami coba uraikan satu per satu dari segi harga dan fungsi. Saat sobat TeknomID berencana membeli Device Laptop ataupun Desktop dengan Operating System Windows, Anda mendapatkan lebih banyak keuntungan dalam hal perangkat&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://teknomid.com/media/posts/10/macos.webp" alt="MacOS VS Microsoft Windows" />
+                    <img src="https://teknomid.click/media/posts/10/macos.webp" alt="MacOS VS Microsoft Windows" />
                 <p>Perbandingan Device Laptop maupun Desktop dengan Operating system Windows dan  Machintosh, dibawah ini kami coba uraikan satu per satu  dari segi harga dan fungsi.</p>
 <h3>1. Lebih hemat</h3>
 <p><br>Saat sobat TeknomID berencana membeli Device Laptop ataupun Desktop dengan Operating System Windows, Anda mendapatkan lebih banyak keuntungan dalam hal perangkat keras jika dibandingkan dengan Mac dengan Operating system Machintoshnya yang terbilang stabil dan hemat batere.</p>
@@ -180,21 +82,21 @@
         <author>
             <name>Teknomid</name>
         </author>
-        <link href="https://teknomid.com/laptop-andalan-masa-kini-xiaomi-redmibook-15/"/>
-        <id>https://teknomid.com/laptop-andalan-masa-kini-xiaomi-redmibook-15/</id>
+        <link href="https://teknomid.click/laptop-andalan-masa-kini-xiaomi-redmibook-15/"/>
+        <id>https://teknomid.click/laptop-andalan-masa-kini-xiaomi-redmibook-15/</id>
             <category term="TECH &amp; GADGETS"/>
             <category term="Laptop"/>
 
-        <updated>2021-11-19T16:14:35+07:00</updated>
+        <updated>2021-11-21T00:10:49+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://teknomid.com/media/posts/9/redmibook-15-01-lg.webp" alt="xiaomi RedmiBook 15" />
+                        <img src="https://teknomid.click/media/posts/9/redmibook-15-01-lg.webp" alt="xiaomi RedmiBook 15" />
                      Laptop Andalan Masa Kini jatuh pada Xiaomi RedmiBook 15 resmi meluncurkan produk andalan laptop pertama di Indonesia Xiaomi RedmiBook 15, pada Juli lalu. Meskipun Tampilan Layar relatif lebar, perangkat ini dirancang agar simpel serta mudah dibawa kemana saja, dengan ketebalan 19,9mm dan bobot 1,8&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://teknomid.com/media/posts/9/redmibook-15-01-lg.webp" alt="xiaomi RedmiBook 15" />
+                    <img src="https://teknomid.click/media/posts/9/redmibook-15-01-lg.webp" alt="xiaomi RedmiBook 15" />
                 <p><!-- wp:paragraph --></p>
 <p>Laptop Andalan Masa Kini  jatuh pada <a href="http://www.mi.co.id/">Xiaomi</a>  RedmiBook 15 resmi meluncurkan produk andalan laptop pertama di Indonesia Xiaomi RedmiBook 15, pada Juli lalu. <br>Meskipun Tampilan Layar relatif lebar, perangkat ini dirancang agar simpel serta mudah dibawa kemana saja, dengan ketebalan 19,9mm dan bobot 1,8 kg.</p>
 <p><!-- /wp:paragraph --></p>
@@ -205,7 +107,7 @@
 <p>Xiaomi RedmiBook 15 dibekali dengan webcam beresolusi 720p di bingkai atas layar laptop. Terdapat pula mikrofon ganda serta speaker 2W+2W dengan DTS Audio.<br><br>Baca Juga: <a href="https://teknomid.com/iphone-13-akhirnya-sudah-dapat-izin-resmi-di-indonesia/">iPhone 13 Resmi di Indonesia</a></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":3018,"sizeSlug":"large","linkDestination":"none","tdCaptionAlign":"center"} --></p>
-<figure class="wp-block-image size-large td-caption-align-center"><figure class="wp-image-3018"><img loading="lazy"  src="https://teknomid.com/media/posts/9/redmibook-15-1024x738.webp" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.com/media/posts/9/responsive/redmibook-15-1024x738-xs.webp 300w ,https://teknomid.com/media/posts/9/responsive/redmibook-15-1024x738-sm.webp 480w ,https://teknomid.com/media/posts/9/responsive/redmibook-15-1024x738-md.webp 768w ,https://teknomid.com/media/posts/9/responsive/redmibook-15-1024x738-lg.webp 1024w ,https://teknomid.com/media/posts/9/responsive/redmibook-15-1024x738-xl.webp 1360w ,https://teknomid.com/media/posts/9/responsive/redmibook-15-1024x738-2xl.webp 1600w"  alt="Desain-redmibook-15"></figure></figure>
+<figure class="wp-block-image size-large td-caption-align-center"><figure class="wp-image-3018"><img loading="lazy"  src="https://teknomid.click/media/posts/9/redmibook-15-1024x738.webp" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.click/media/posts/9/responsive/redmibook-15-1024x738-xs.webp 300w ,https://teknomid.click/media/posts/9/responsive/redmibook-15-1024x738-sm.webp 480w ,https://teknomid.click/media/posts/9/responsive/redmibook-15-1024x738-md.webp 768w ,https://teknomid.click/media/posts/9/responsive/redmibook-15-1024x738-lg.webp 1024w ,https://teknomid.click/media/posts/9/responsive/redmibook-15-1024x738-xl.webp 1360w ,https://teknomid.click/media/posts/9/responsive/redmibook-15-1024x738-2xl.webp 1600w"  alt="Desain-redmibook-15"></figure></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p>Xiaomi RedmiBook 15 dibekali dengan processor <strong>11th Gen Intel® Core™ i3 CPU Intel® UHD Graphics</strong> dengan kecepatan hingga 4,1 GHz <strong>BoostSpeed</strong>. Prosesor itu dipasangkan dengan <strong>RAM DDR4 3200 GHz 8 GB</strong> dan Disk-Storage di bekali dengan <strong>SSD 256 GB</strong>.</p>
@@ -217,71 +119,11 @@
 <p>RedmiBook 15 tersedia dalam varian warna <strong>Dark Gray</strong> dan dibenderol seharga <strong>Rp 5.999.000</strong>, sudah termasuk sistem operasi Windows 10 Home dan Upgrade ke Windows 11 akan dikirimkan pada akhir tahun 2021 hingga awal tahun 2022.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Untuk lebih lengkapnya, berikut ini spesifikasi dan harga dari laptop Xiaomi RedmiBook 15 di Indonesia,</p>
+<figure class="post__image">Untuk lebih lengkapnya, berikut ini spesifikasi dari laptop Xiaomi RedmiBook 15 di Indonesia,<br><img loading="lazy"  src="https://teknomid.click/media/posts/9/table.webp" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.click/media/posts/9/responsive/table-xs.webp 300w ,https://teknomid.click/media/posts/9/responsive/table-sm.webp 480w ,https://teknomid.click/media/posts/9/responsive/table-md.webp 768w ,https://teknomid.click/media/posts/9/responsive/table-lg.webp 1024w ,https://teknomid.click/media/posts/9/responsive/table-xl.webp 1360w ,https://teknomid.click/media/posts/9/responsive/table-2xl.webp 1600w"  alt="" width="411" height="551"></figure><br><em style="color: var(--text-light-color); font-size: 0.70233em; text-align: center; font-family: var(--font-base); font-weight: var(--font-weight-normal);">Tabel Spesifikasi RedmiBook 15</em></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p> </p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:table {"textColor":"vivid-green-cyan","className":"is-style-stripes"} --></p>
-<figure class="wp-block-table is-style-stripes">
-<table class="has-vivid-green-cyan-color has-text-color">
-<tbody>
-<tr>
-<td>Spesifikasi</td>
-<td><strong><a href="https://www.mi.co.id/id/product/redmibook-15/">RedmiBook 15</a></strong></td>
-</tr>
-<tr>
-<td>Panel LCD</td>
-<td>LCD 15,6 inci, resolusi Full HD (1.920 x 1.080 piksel), tingkat kecerahan lebih dari 100 nit, rasio kontras 500:1, kerapatan 141 ppi</td>
-</tr>
-<tr>
-<td>CPU</td>
-<td>363.8 x 243.5 x 19.9 mm 1.8 kg</td>
-</tr>
-<tr>
-<td>RAM</td>
-<td>DDR4 8 GB 3200MHz</td>
-</tr>
-<tr>
-<td>GPU</td>
-<td><a href="https://ark.intel.com/content/www/id/id/ark/products/208652/intel-core-i31115g4-processor-6m-cache-up-to-4-10-ghz.html">Intel UHD Graphics (integrated)</a></td>
-</tr>
-<tr>
-<td>Disk</td>
-<td>SSD 256 GB</td>
-</tr>
-<tr>
-<td>Cam</td>
-<td>720p</td>
-</tr>
-<tr>
-<td>Baterai</td>
-<td>46Wh</td>
-</tr>
-<tr>
-<td>Keyboard</td>
-<td>Full-size, key travel 1,5mm</td>
-</tr>
-<tr>
-<td>Touchpad</td>
-<td>PTP 126mm × 82,6mm</td>
-</tr>
-<tr>
-<td>Speaker</td>
-<td>Stereo 2W + 2W <a href="https://en.wikipedia.org/wiki/DTS_(sound_system_company)">Audio DTS</a></td>
-</tr>
-<tr>
-<td>Port / Slot</td>
-<td>HDMI 1.4 x 1 <br>USB 3.2 Gen1 x 2, <br>USB 2.0 x 1 <br>Kunci Kensington: Ready<br>Ethernet (Lan): RJ45 <br>Output Audio Digital Optik: Ready<br>Jack headphone 3.5 mm x 1 <br>Slot SD: SD 3.0</td>
-</tr>
-<tr>
-<td>Konektivitas</td>
-<td>Bluetooth 5.0 Wi-Fi 5 2.4Ghz/5GHz</td>
-</tr>
-</tbody>
-</table>
-<figcaption><em>Tabel Spesifikasi RedmiBook 15</em></figcaption>
-</figure>
 <p><!-- /wp:table --></p>
 <p><!-- wp:paragraph --></p>
 <p><!-- /wp:paragraph --></p>
@@ -293,21 +135,21 @@
         <author>
             <name>Teknomid</name>
         </author>
-        <link href="https://teknomid.com/ics-compute-raih-penghargaan-ke-2-aws-consulting-partner-of-the-year-2021/"/>
-        <id>https://teknomid.com/ics-compute-raih-penghargaan-ke-2-aws-consulting-partner-of-the-year-2021/</id>
+        <link href="https://teknomid.click/ics-compute-raih-penghargaan-ke-2-aws-consulting-partner-of-the-year-2021/"/>
+        <id>https://teknomid.click/ics-compute-raih-penghargaan-ke-2-aws-consulting-partner-of-the-year-2021/</id>
             <category term="CLOUD"/>
             <category term="AWS Cloud"/>
 
         <updated>2021-11-19T16:04:54+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://teknomid.com/media/posts/5/penghargaan-aws.webp" alt="AWS" />
+                        <img src="https://teknomid.click/media/posts/5/penghargaan-aws.webp" alt="AWS" />
                      ICS Compute Raih Penghargaan ke-2, perusahaan System Integrator yang berfokus pada Cloud Computing, meraih penghargaan Amazon Web Services (AWS) Consulting Partner of the Year tahun 2021 di Indonesia pada AWS Partner Summit Online 2021. Setiap tahun, AWS memberikan penghargaan bagi partner AWS yang terdepan&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://teknomid.com/media/posts/5/penghargaan-aws.webp" alt="AWS" />
+                    <img src="https://teknomid.click/media/posts/5/penghargaan-aws.webp" alt="AWS" />
                 <p><!-- wp:paragraph --></p>
 <p><a href="#INTERNAL_LINK#/post/null" title="https://icscompute.com">ICS Compute</a> Raih Penghargaan ke-2, perusahaan System Integrator yang berfokus pada Cloud Computing, meraih penghargaan Amazon Web Services (AWS) Consulting Partner of the Year tahun 2021 di Indonesia pada AWS Partner Summit Online 2021. <br><br>Setiap tahun, <a href="https://aws.amazon.com/" data-type="URL" data-id="https://aws.amazon.com/">AWS</a> memberikan penghargaan bagi partner <a href="https://aws.amazon.com/" data-type="URL" data-id="https://aws.amazon.com/" target="_blank" rel="noreferrer noopener">AWS</a> yang terdepan dalam membantu pelanggan mendorong inovasi bisnis.</p>
 <p><!-- /wp:paragraph --></p>
@@ -321,7 +163,7 @@
 <p>“Obsesi bersama untuk melayani pelanggan kami belum pernah lebih terlihat selama dua belas bulan terakhir, di mana kami telah melihat begitu banyak partner ASEAN melampaui ekspektasi, dan bahkan jauh melampaui ekspektasi yang diberikan untuk kebutuhan para pelanggan kami,” kata Conor.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":486,"sizeSlug":"full","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-full"><figure class="wp-image-486"><img loading="lazy"  src="https://teknomid.com/media/posts/5/AWS-Consulting-ICS-1024x536-1.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.com/media/posts/5/responsive/AWS-Consulting-ICS-1024x536-1-xs.jpg 300w ,https://teknomid.com/media/posts/5/responsive/AWS-Consulting-ICS-1024x536-1-sm.jpg 480w ,https://teknomid.com/media/posts/5/responsive/AWS-Consulting-ICS-1024x536-1-md.jpg 768w ,https://teknomid.com/media/posts/5/responsive/AWS-Consulting-ICS-1024x536-1-lg.jpg 1024w ,https://teknomid.com/media/posts/5/responsive/AWS-Consulting-ICS-1024x536-1-xl.jpg 1360w ,https://teknomid.com/media/posts/5/responsive/AWS-Consulting-ICS-1024x536-1-2xl.jpg 1600w"  alt="AWS Consulting Partner of The Year 2021"></figure>
+<figure class="wp-block-image size-full"><figure class="wp-image-486"><img loading="lazy"  src="https://teknomid.click/media/posts/5/AWS-Consulting-ICS-1024x536-1.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.click/media/posts/5/responsive/AWS-Consulting-ICS-1024x536-1-xs.jpg 300w ,https://teknomid.click/media/posts/5/responsive/AWS-Consulting-ICS-1024x536-1-sm.jpg 480w ,https://teknomid.click/media/posts/5/responsive/AWS-Consulting-ICS-1024x536-1-md.jpg 768w ,https://teknomid.click/media/posts/5/responsive/AWS-Consulting-ICS-1024x536-1-lg.jpg 1024w ,https://teknomid.click/media/posts/5/responsive/AWS-Consulting-ICS-1024x536-1-xl.jpg 1360w ,https://teknomid.click/media/posts/5/responsive/AWS-Consulting-ICS-1024x536-1-2xl.jpg 1600w"  alt="AWS Consulting Partner of The Year 2021"></figure>
 <figcaption><strong>AWS Consulting Partner of The Year 2021</strong> Sumber: <a href="https://www.icscompute.com" data-type="URL" data-id="https://www.icscompute.com">ICS</a></figcaption>
 </figure>
 <p><!-- /wp:image --></p>
@@ -357,21 +199,21 @@
         <author>
             <name>Teknomid</name>
         </author>
-        <link href="https://teknomid.com/perintah-dasar-linux/"/>
-        <id>https://teknomid.com/perintah-dasar-linux/</id>
+        <link href="https://teknomid.click/perintah-dasar-linux/"/>
+        <id>https://teknomid.click/perintah-dasar-linux/</id>
             <category term="SYSTEM"/>
             <category term="Linux"/>
 
         <updated>2021-11-19T16:05:31+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://teknomid.com/media/posts/3/up1-lg.webp" alt="Linux" />
+                        <img src="https://teknomid.click/media/posts/3/up1-lg.webp" alt="Linux" />
                      Perintah Dasar Linux adalah awal pembelajaran ketika ingat dengan Linux, kebanyakan orang berpikir tentang sistem operasi rumit yang hanya digunakan oleh programmer. Tapi itu tidak menakutkan seperti kelihatannya. Linux adalah seluruh keluarga sistem operasi Unix open-source, yang didasarkan pada Kernel Linux. Ini mencakup semua&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://teknomid.com/media/posts/3/up1-lg.webp" alt="Linux" />
+                    <img src="https://teknomid.click/media/posts/3/up1-lg.webp" alt="Linux" />
                 <p><!-- wp:group --></p>
 <div class="wp-block-group">
 <p><!-- wp:paragraph {"tdMaxWidth":1097} --></p>
@@ -440,21 +282,21 @@
         <author>
             <name>Teknomid</name>
         </author>
-        <link href="https://teknomid.com/download-windows-11-melalui-rufus/"/>
-        <id>https://teknomid.com/download-windows-11-melalui-rufus/</id>
+        <link href="https://teknomid.click/download-windows-11-melalui-rufus/"/>
+        <id>https://teknomid.click/download-windows-11-melalui-rufus/</id>
             <category term="Windows"/>
             <category term="SYSTEM"/>
 
         <updated>2021-11-19T16:05:51+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://teknomid.com/media/posts/2/asas.jpg" alt="Windows 11" />
+                        <img src="https://teknomid.click/media/posts/2/asas.jpg" alt="Windows 11" />
                      Windows 11 baru-baru ini sangat banyak di perbincangkan di dunia dan rufus mencoba langsung update meta download ISO jagoan windows satu ini. Pada versi Rufus terbaru, kamu sudah langsung dapat mendownload file ISO Windows-11 dari berbagai versi Windows untuk selanjutnya kamu simpan dan gunakan&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://teknomid.com/media/posts/2/asas.jpg" alt="Windows 11" />
+                    <img src="https://teknomid.click/media/posts/2/asas.jpg" alt="Windows 11" />
                 <p><!-- wp:paragraph --></p>
 <p>Windows 11 baru-baru ini sangat banyak di perbincangkan di dunia dan rufus mencoba langsung update meta download ISO jagoan windows satu ini.</p>
 <p><!-- /wp:paragraph --></p>
@@ -466,7 +308,7 @@
 <p><!-- wp:paragraph --></p>
 <p>Selain kamu dapat mendownload file instalasi Windows 11 secara langsung dari halaman Microsoft, kamu juga dapat mendownloadnya di Rufus loh, dan langkahnya sangat sederhana, berikut WinPoin rangkum langkah singkatnya.</p>
 <p><!-- /wp:paragraph --></p>
-<p><!-- wp:yoast/how-to-block {"steps":[{"id":"how-to-step-1636200741879","name":["Langkah-Pertama"],"text":["Silahkan kamu download versi Rufus terbaru terlebih dahulu (kamu bisa mendownloadnya ",{"type":"a","props":{"href":"https://rufus.ie/en/","children":["disini"]}},")"],"jsonName":"Langkah-Pertama","jsonText":"Silahkan kamu download versi Rufus terbaru terlebih dahulu (kamu bisa mendownloadnya \u003ca href=\u0022https://rufus.ie/en/\u0022\u003edisini\u003c/a\u003e)"},{"id":"how-to-step-1636200821995","name":["Langkah-Kedua"],"text":["Silahkan kamu buka Rufus yang sudah di download dan klik pada tombol panah Download disamping Boot selection.",{"type":"br","props":{"children":[]}},{"type":"img","props":{"alt":"Rufu Downoad Windows 11","src":"https://teknomid.com/media/posts/2/rufus01-2.webp","children":[]}}],"jsonName":"Langkah-Kedua","jsonText":"Silahkan kamu buka Rufus yang sudah di download dan klik pada tombol panah Download disamping Boot selection.\u003cbr/\u003e\u003cimg alt=\u0022Rufu Downoad Windows 11\u0022 src=\u0022https://teknomid.com/media/posts/2/rufus01-2.webp\u0022/\u003e","jsonImageSrc":"https://teknomid.com/media/posts/2/rufus01-2.webp"},{"id":"how-to-step-1636201055796","name":["Langkah-Ketiga"],"text":["Langkah Selanjutnya, silahkan kamu klik tombol Download dan Pilih Windows 11 ",{"type":"br","props":{"children":[]}},{"type":"br","props":{"children":[]}},{"type":"img","props":{"alt":"","src":"https://teknomid.com/media/posts/2/Windows-11.webp","children":[]}}],"jsonName":"Langkah-Ketiga","jsonText":"Langkah Selanjutnya, silahkan kamu klik tombol Download dan Pilih Windows 11 \u003cbr/\u003e\u003cbr/\u003e\u003cimg alt=\u0022\u0022 src=\u0022https://teknomid.com/media/posts/2/Windows-11.webp\u0022/\u003e","jsonImageSrc":"https://teknomid.com/media/posts/2/Windows-11.webp"},{"id":"how-to-step-1636202044600","name":["Langkah-KeEmpat"],"text":["Di Tahap Selanjutnya akan di arahkan memilih Version, Release, Edition, Language, Architecture, (Rekomendasi Ceklist ",{"type":"strong","props":{"children":["Download Using a Browser"]}}," agar lebih mudah dan bisa langsung native download lewat ",{"type":"a","props":{"href":"https://www.internetdownloadmanager.com/","target":"_blank","rel":"noreferrer noopener","children":["IDM"]}},") dan Click Download ",{"type":"br","props":{"children":[]}},{"type":"img","props":{"alt":"","src":"https://teknomid.com/media/posts/2/Continue.png","children":[]}}],"jsonName":"Langkah-KeEmpat","jsonText":"Di Tahap Selanjutnya akan di arahkan memilih Version, Release, Edition, Language, Architecture, (Rekomendasi Ceklist \u003cstrong\u003eDownload Using a Browser\u003c/strong\u003e agar lebih mudah dan bisa langsung native download lewat \u003ca href=\u0022https://www.internetdownloadmanager.com/\u0022 target=\u0022_blank\u0022 rel=\u0022noreferrer noopener\u0022\u003eIDM\u003c/a\u003e) dan Click Download \u003cbr/\u003e\u003cimg alt=\u0022\u0022 src=\u0022https://teknomid.com/media/posts/2/Continue.png\u0022/\u003e","jsonImageSrc":"https://teknomid.com/media/posts/2/Continue.png"},{"id":"how-to-step-1636202677530","name":["Langkang-KeLima"],"text":["Langkah ini akan di bawakan ke Drive atau tempat dimana akan menyimpan File ISO Windows 11 yang akan kita Proses Download",{"type":"br","props":{"children":[]}},"Baca-Juga: ",{"type":"a","props":{"href":"https://teknomid.com/applikasi-design-gratis/","target":"_blank","rel":"noreferrer noopener","children":["Applikasi Desain Gratis"]}}," ",{"type":"br","props":{"children":[]}},{"type":"img","props":{"alt":"","src":"https://teknomid.com/media/posts/2/save-as.webp","children":[]}},{"type":"br","props":{"children":[]}},"dan tunggu hingga selesai",{"type":"br","props":{"children":[]}}],"jsonName":"Langkang-KeLima","jsonText":"Langkah ini akan di bawakan ke Drive atau tempat dimana akan menyimpan File ISO Windows 11 yang akan kita Proses Download\u003cbr/\u003eBaca-Juga: \u003ca href=\u0022https://teknomid.com/applikasi-design-gratis/\u0022 target=\u0022_blank\u0022 rel=\u0022noreferrer noopener\u0022\u003eApplikasi Desain Gratis\u003c/a\u003e \u003cbr/\u003e\u003cimg alt=\u0022\u0022 src=\u0022https://teknomid.com/media/posts/2/save-as.webp\u0022/\u003e\u003cbr/\u003edan tunggu hingga selesai\u003cbr/\u003e","jsonImageSrc":"https://teknomid.com/media/posts/2/save-as.webp"},{"id":"how-to-step-1636203131352","name":["Langkah-KeEnam"],"text":["Progress Download File ISO Melalui Browser tanpa IDM",{"type":"br","props":{"children":[]}},{"type":"img","props":{"alt":"","src":"https://teknomid.com/media/posts/2/download.webp","children":[]}}],"jsonName":"Langkah-KeEnam","jsonText":"Progress Download File ISO Melalui Browser tanpa IDM\u003cbr/\u003e\u003cimg alt=\u0022\u0022 src=\u0022https://teknomid.com/media/posts/2/download.webp\u0022/\u003e","jsonImageSrc":"https://teknomid.com/media/posts/2/download.webp"}],"unorderedList":false,"defaultDurationText":"Waktu yang dibutuhkan:"} --></p>
+<p><!-- wp:yoast/how-to-block {"steps":[{"id":"how-to-step-1636200741879","name":["Langkah-Pertama"],"text":["Silahkan kamu download versi Rufus terbaru terlebih dahulu (kamu bisa mendownloadnya ",{"type":"a","props":{"href":"https://rufus.ie/en/","children":["disini"]}},")"],"jsonName":"Langkah-Pertama","jsonText":"Silahkan kamu download versi Rufus terbaru terlebih dahulu (kamu bisa mendownloadnya \u003ca href=\u0022https://rufus.ie/en/\u0022\u003edisini\u003c/a\u003e)"},{"id":"how-to-step-1636200821995","name":["Langkah-Kedua"],"text":["Silahkan kamu buka Rufus yang sudah di download dan klik pada tombol panah Download disamping Boot selection.",{"type":"br","props":{"children":[]}},{"type":"img","props":{"alt":"Rufu Downoad Windows 11","src":"https://teknomid.click/media/posts/2/rufus01-2.webp","children":[]}}],"jsonName":"Langkah-Kedua","jsonText":"Silahkan kamu buka Rufus yang sudah di download dan klik pada tombol panah Download disamping Boot selection.\u003cbr/\u003e\u003cimg alt=\u0022Rufu Downoad Windows 11\u0022 src=\u0022https://teknomid.click/media/posts/2/rufus01-2.webp\u0022/\u003e","jsonImageSrc":"https://teknomid.click/media/posts/2/rufus01-2.webp"},{"id":"how-to-step-1636201055796","name":["Langkah-Ketiga"],"text":["Langkah Selanjutnya, silahkan kamu klik tombol Download dan Pilih Windows 11 ",{"type":"br","props":{"children":[]}},{"type":"br","props":{"children":[]}},{"type":"img","props":{"alt":"","src":"https://teknomid.click/media/posts/2/Windows-11.webp","children":[]}}],"jsonName":"Langkah-Ketiga","jsonText":"Langkah Selanjutnya, silahkan kamu klik tombol Download dan Pilih Windows 11 \u003cbr/\u003e\u003cbr/\u003e\u003cimg alt=\u0022\u0022 src=\u0022https://teknomid.click/media/posts/2/Windows-11.webp\u0022/\u003e","jsonImageSrc":"https://teknomid.click/media/posts/2/Windows-11.webp"},{"id":"how-to-step-1636202044600","name":["Langkah-KeEmpat"],"text":["Di Tahap Selanjutnya akan di arahkan memilih Version, Release, Edition, Language, Architecture, (Rekomendasi Ceklist ",{"type":"strong","props":{"children":["Download Using a Browser"]}}," agar lebih mudah dan bisa langsung native download lewat ",{"type":"a","props":{"href":"https://www.internetdownloadmanager.com/","target":"_blank","rel":"noreferrer noopener","children":["IDM"]}},") dan Click Download ",{"type":"br","props":{"children":[]}},{"type":"img","props":{"alt":"","src":"https://teknomid.click/media/posts/2/Continue.png","children":[]}}],"jsonName":"Langkah-KeEmpat","jsonText":"Di Tahap Selanjutnya akan di arahkan memilih Version, Release, Edition, Language, Architecture, (Rekomendasi Ceklist \u003cstrong\u003eDownload Using a Browser\u003c/strong\u003e agar lebih mudah dan bisa langsung native download lewat \u003ca href=\u0022https://www.internetdownloadmanager.com/\u0022 target=\u0022_blank\u0022 rel=\u0022noreferrer noopener\u0022\u003eIDM\u003c/a\u003e) dan Click Download \u003cbr/\u003e\u003cimg alt=\u0022\u0022 src=\u0022https://teknomid.click/media/posts/2/Continue.png\u0022/\u003e","jsonImageSrc":"https://teknomid.click/media/posts/2/Continue.png"},{"id":"how-to-step-1636202677530","name":["Langkang-KeLima"],"text":["Langkah ini akan di bawakan ke Drive atau tempat dimana akan menyimpan File ISO Windows 11 yang akan kita Proses Download",{"type":"br","props":{"children":[]}},"Baca-Juga: ",{"type":"a","props":{"href":"https://teknomid.com/applikasi-design-gratis/","target":"_blank","rel":"noreferrer noopener","children":["Applikasi Desain Gratis"]}}," ",{"type":"br","props":{"children":[]}},{"type":"img","props":{"alt":"","src":"https://teknomid.click/media/posts/2/save-as.webp","children":[]}},{"type":"br","props":{"children":[]}},"dan tunggu hingga selesai",{"type":"br","props":{"children":[]}}],"jsonName":"Langkang-KeLima","jsonText":"Langkah ini akan di bawakan ke Drive atau tempat dimana akan menyimpan File ISO Windows 11 yang akan kita Proses Download\u003cbr/\u003eBaca-Juga: \u003ca href=\u0022https://teknomid.com/applikasi-design-gratis/\u0022 target=\u0022_blank\u0022 rel=\u0022noreferrer noopener\u0022\u003eApplikasi Desain Gratis\u003c/a\u003e \u003cbr/\u003e\u003cimg alt=\u0022\u0022 src=\u0022https://teknomid.click/media/posts/2/save-as.webp\u0022/\u003e\u003cbr/\u003edan tunggu hingga selesai\u003cbr/\u003e","jsonImageSrc":"https://teknomid.click/media/posts/2/save-as.webp"},{"id":"how-to-step-1636203131352","name":["Langkah-KeEnam"],"text":["Progress Download File ISO Melalui Browser tanpa IDM",{"type":"br","props":{"children":[]}},{"type":"img","props":{"alt":"","src":"https://teknomid.click/media/posts/2/download.webp","children":[]}}],"jsonName":"Langkah-KeEnam","jsonText":"Progress Download File ISO Melalui Browser tanpa IDM\u003cbr/\u003e\u003cimg alt=\u0022\u0022 src=\u0022https://teknomid.click/media/posts/2/download.webp\u0022/\u003e","jsonImageSrc":"https://teknomid.click/media/posts/2/download.webp"}],"unorderedList":false,"defaultDurationText":"Waktu yang dibutuhkan:"} --></p>
 <div class="schema-how-to wp-block-yoast-how-to-block">
 <p class="schema-how-to-description"> </p>
 <ol class="schema-how-to-steps">
@@ -474,19 +316,19 @@
 <p class="schema-how-to-step-text">Silahkan kamu download versi Rufus terbaru terlebih dahulu (kamu bisa mendownloadnya <a href="https://rufus.ie/en/">disini</a>)</p>
 </li>
 <li id="how-to-step-1636200821995" class="schema-how-to-step"><strong class="schema-how-to-step-name">Langkah-Kedua</strong>
-<p class="schema-how-to-step-text">Silahkan kamu buka Rufus yang sudah di download dan klik pada tombol panah Download disamping Boot selection.<br><img loading="lazy" src="https://teknomid.com/media/posts/2/rufus01-2.webp" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.com/media/posts/2/responsive/rufus01-2-xs.webp 300w ,https://teknomid.com/media/posts/2/responsive/rufus01-2-sm.webp 480w ,https://teknomid.com/media/posts/2/responsive/rufus01-2-md.webp 768w ,https://teknomid.com/media/posts/2/responsive/rufus01-2-lg.webp 1024w ,https://teknomid.com/media/posts/2/responsive/rufus01-2-xl.webp 1360w ,https://teknomid.com/media/posts/2/responsive/rufus01-2-2xl.webp 1600w"  alt="Rufu Downoad Windows 11"></p>
+<p class="schema-how-to-step-text">Silahkan kamu buka Rufus yang sudah di download dan klik pada tombol panah Download disamping Boot selection.<br><img loading="lazy" src="https://teknomid.click/media/posts/2/rufus01-2.webp" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.click/media/posts/2/responsive/rufus01-2-xs.webp 300w ,https://teknomid.click/media/posts/2/responsive/rufus01-2-sm.webp 480w ,https://teknomid.click/media/posts/2/responsive/rufus01-2-md.webp 768w ,https://teknomid.click/media/posts/2/responsive/rufus01-2-lg.webp 1024w ,https://teknomid.click/media/posts/2/responsive/rufus01-2-xl.webp 1360w ,https://teknomid.click/media/posts/2/responsive/rufus01-2-2xl.webp 1600w"  alt="Rufu Downoad Windows 11"></p>
 </li>
 <li id="how-to-step-1636201055796" class="schema-how-to-step"><strong class="schema-how-to-step-name">Langkah-Ketiga</strong>
-<p class="schema-how-to-step-text">Langkah Selanjutnya, silahkan kamu klik tombol Download dan Pilih Windows 11 <br><br><img loading="lazy" src="https://teknomid.com/media/posts/2/Windows-11.webp" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.com/media/posts/2/responsive/Windows-11-xs.webp 300w ,https://teknomid.com/media/posts/2/responsive/Windows-11-sm.webp 480w ,https://teknomid.com/media/posts/2/responsive/Windows-11-md.webp 768w ,https://teknomid.com/media/posts/2/responsive/Windows-11-lg.webp 1024w ,https://teknomid.com/media/posts/2/responsive/Windows-11-xl.webp 1360w ,https://teknomid.com/media/posts/2/responsive/Windows-11-2xl.webp 1600w"  alt=""></p>
+<p class="schema-how-to-step-text">Langkah Selanjutnya, silahkan kamu klik tombol Download dan Pilih Windows 11 <br><br><img loading="lazy" src="https://teknomid.click/media/posts/2/Windows-11.webp" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.click/media/posts/2/responsive/Windows-11-xs.webp 300w ,https://teknomid.click/media/posts/2/responsive/Windows-11-sm.webp 480w ,https://teknomid.click/media/posts/2/responsive/Windows-11-md.webp 768w ,https://teknomid.click/media/posts/2/responsive/Windows-11-lg.webp 1024w ,https://teknomid.click/media/posts/2/responsive/Windows-11-xl.webp 1360w ,https://teknomid.click/media/posts/2/responsive/Windows-11-2xl.webp 1600w"  alt=""></p>
 </li>
 <li id="how-to-step-1636202044600" class="schema-how-to-step"><strong class="schema-how-to-step-name">Langkah-KeEmpat</strong>
-<p class="schema-how-to-step-text">Di Tahap Selanjutnya akan di arahkan memilih Version, Release, Edition, Language, Architecture, (Rekomendasi Ceklist <strong>Download Using a Browser</strong> agar lebih mudah dan bisa langsung native download lewat <a href="https://www.internetdownloadmanager.com/" target="_blank" rel="noreferrer noopener">IDM</a>) dan Click Download <br><img loading="lazy" src="https://teknomid.com/media/posts/2/Continue.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.com/media/posts/2/responsive/Continue-xs.png 300w ,https://teknomid.com/media/posts/2/responsive/Continue-sm.png 480w ,https://teknomid.com/media/posts/2/responsive/Continue-md.png 768w ,https://teknomid.com/media/posts/2/responsive/Continue-lg.png 1024w ,https://teknomid.com/media/posts/2/responsive/Continue-xl.png 1360w ,https://teknomid.com/media/posts/2/responsive/Continue-2xl.png 1600w"  alt=""></p>
+<p class="schema-how-to-step-text">Di Tahap Selanjutnya akan di arahkan memilih Version, Release, Edition, Language, Architecture, (Rekomendasi Ceklist <strong>Download Using a Browser</strong> agar lebih mudah dan bisa langsung native download lewat <a href="https://www.internetdownloadmanager.com/" target="_blank" rel="noreferrer noopener">IDM</a>) dan Click Download <br><img loading="lazy" src="https://teknomid.click/media/posts/2/Continue.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.click/media/posts/2/responsive/Continue-xs.png 300w ,https://teknomid.click/media/posts/2/responsive/Continue-sm.png 480w ,https://teknomid.click/media/posts/2/responsive/Continue-md.png 768w ,https://teknomid.click/media/posts/2/responsive/Continue-lg.png 1024w ,https://teknomid.click/media/posts/2/responsive/Continue-xl.png 1360w ,https://teknomid.click/media/posts/2/responsive/Continue-2xl.png 1600w"  alt=""></p>
 </li>
 <li id="how-to-step-1636202677530" class="schema-how-to-step"><strong class="schema-how-to-step-name">Langkang-KeLima</strong>
-<p class="schema-how-to-step-text">Langkah ini akan di bawakan ke Drive atau tempat dimana akan menyimpan File ISO Windows 11 yang akan kita Proses Download<br>Baca-Juga: <a href="https://teknomid.com/applikasi-design-gratis/" target="_blank" rel="noreferrer noopener">Applikasi Desain Gratis</a> <br><img loading="lazy" src="https://teknomid.com/media/posts/2/save-as.webp" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.com/media/posts/2/responsive/save-as-xs.webp 300w ,https://teknomid.com/media/posts/2/responsive/save-as-sm.webp 480w ,https://teknomid.com/media/posts/2/responsive/save-as-md.webp 768w ,https://teknomid.com/media/posts/2/responsive/save-as-lg.webp 1024w ,https://teknomid.com/media/posts/2/responsive/save-as-xl.webp 1360w ,https://teknomid.com/media/posts/2/responsive/save-as-2xl.webp 1600w"  alt=""><br>dan tunggu hingga selesai</p>
+<p class="schema-how-to-step-text">Langkah ini akan di bawakan ke Drive atau tempat dimana akan menyimpan File ISO Windows 11 yang akan kita Proses Download<br>Baca-Juga: <a href="https://teknomid.com/applikasi-design-gratis/" target="_blank" rel="noreferrer noopener">Applikasi Desain Gratis</a> <br><img loading="lazy" src="https://teknomid.click/media/posts/2/save-as.webp" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.click/media/posts/2/responsive/save-as-xs.webp 300w ,https://teknomid.click/media/posts/2/responsive/save-as-sm.webp 480w ,https://teknomid.click/media/posts/2/responsive/save-as-md.webp 768w ,https://teknomid.click/media/posts/2/responsive/save-as-lg.webp 1024w ,https://teknomid.click/media/posts/2/responsive/save-as-xl.webp 1360w ,https://teknomid.click/media/posts/2/responsive/save-as-2xl.webp 1600w"  alt=""><br>dan tunggu hingga selesai</p>
 </li>
 <li id="how-to-step-1636203131352" class="schema-how-to-step"><strong class="schema-how-to-step-name">Langkah-KeEnam</strong>
-<p class="schema-how-to-step-text">Progress Download File ISO Melalui Browser tanpa IDM<br><img loading="lazy" src="https://teknomid.com/media/posts/2/download.webp" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.com/media/posts/2/responsive/download-xs.webp 300w ,https://teknomid.com/media/posts/2/responsive/download-sm.webp 480w ,https://teknomid.com/media/posts/2/responsive/download-md.webp 768w ,https://teknomid.com/media/posts/2/responsive/download-lg.webp 1024w ,https://teknomid.com/media/posts/2/responsive/download-xl.webp 1360w ,https://teknomid.com/media/posts/2/responsive/download-2xl.webp 1600w"  alt=""></p>
+<p class="schema-how-to-step-text">Progress Download File ISO Melalui Browser tanpa IDM<br><img loading="lazy" src="https://teknomid.click/media/posts/2/download.webp" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teknomid.click/media/posts/2/responsive/download-xs.webp 300w ,https://teknomid.click/media/posts/2/responsive/download-sm.webp 480w ,https://teknomid.click/media/posts/2/responsive/download-md.webp 768w ,https://teknomid.click/media/posts/2/responsive/download-lg.webp 1024w ,https://teknomid.click/media/posts/2/responsive/download-xl.webp 1360w ,https://teknomid.click/media/posts/2/responsive/download-2xl.webp 1600w"  alt=""></p>
 </li>
 </ol>
 </div>
@@ -519,21 +361,21 @@
         <author>
             <name>Teknomid</name>
         </author>
-        <link href="https://teknomid.com/linux-debianos-kenali-dahulu-baru-sayangi/"/>
-        <id>https://teknomid.com/linux-debianos-kenali-dahulu-baru-sayangi/</id>
+        <link href="https://teknomid.click/linux-debianos-kenali-dahulu-baru-sayangi/"/>
+        <id>https://teknomid.click/linux-debianos-kenali-dahulu-baru-sayangi/</id>
             <category term="SYSTEM"/>
             <category term="Linux"/>
 
         <updated>2021-11-19T16:06:16+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://teknomid.com/media/posts/1/debian-wheezy-download.webp" alt="Linux DebianOS" />
+                        <img src="https://teknomid.click/media/posts/1/debian-wheezy-download.webp" alt="Linux DebianOS" />
                      Linux DebianOS adalah sebuah sistem operasi yang tersusun dari paket-paket perangkat lunak yang dirilis sebagai perangkat lunak bebas dan terbuka dengan lisensi mayoritas GNU General Public License Linux Debian GNU/Linux memuat perkakas sistem operasi GNU dan kernel Linux merupakan distribusi Linux yang populer dan berpengaruh. Debian didistribusikan dengan akses ke&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://teknomid.com/media/posts/1/debian-wheezy-download.webp" alt="Linux DebianOS" />
+                    <img src="https://teknomid.click/media/posts/1/debian-wheezy-download.webp" alt="Linux DebianOS" />
                 <p><!-- wp:paragraph --></p>
 <p><strong>Linux DebianOS</strong> adalah sebuah sistem operasi  yang tersusun dari paket-paket perangkat lunak yang dirilis sebagai perangkat lunak bebas dan terbuka dengan lisensi mayoritas <em>GNU General Public License</em></p>
 <p><!-- /wp:paragraph --></p>
